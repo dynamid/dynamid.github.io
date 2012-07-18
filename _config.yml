@@ -3,11 +3,11 @@
 # ----------------------- #
 
 url: http://dynamid.github.com
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+title: DynaMid
+subtitle: Middleware for Dynamic Environments
+author: DynaMid Project
 simple_search: http://google.com/search
-description:
+description: Middleware
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in

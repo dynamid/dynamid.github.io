@@ -42,7 +42,7 @@ h1 {
 }
 
 #{headings()}{
-  @extend .heading;
+  @extend .sans;
   text-rendering: optimizelegibility;
   margin-bottom: 1em;
   font-weight: bold;

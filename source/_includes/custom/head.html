@@ -2,3 +2,34 @@
 <link href="http://fonts.googleapis.com/css?family=Righteous" rel="stylesheet" type="text/css">
 <link href="http://fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
 <link href="http://fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+
+{% if page.dependencies contains 'jquery' %}
+<script type="text/javascript" src="/javascripts/jquery/jquery-1.7.2.min.js"></script>
+{% endif %}
+
+{% if page.dependencies contains 'slidejs' %}
+<script type="text/javascript" src="/javascripts/jquery/plugins/slidejs/slides.min.jquery.js"></script>
+<script>
+  $(function(){
+    $("#slides").slides({
+      preload: true,
+      preloadImage: '/images/loading.gif',
+      paginationClass: 'slides_pagination',
+      generatePagination: true,
+      effect: 'slide',
+      play: 5000,
+      pause: 2500,
+      slideSpeed: 450,
+      hoverPause: true
+      });
+  });
+</script>
+{% endif %}
+  
+{% if page.dependencies contains 'fancybox' %}  
+<script type="text/javascript" src="/javascripts/jquery/plugins/fancybox/jquery.fancybox-1.3.4.pack.js"></script>
+<script type="text/javascript" src="/javascripts/jquery/plugins/fancybox/jquery.easing-1.4.pack.js"></script>
+<script type="text/javascript" src="/javascripts/jquery/plugins/fancybox/jquery.mousewheel-3.0.4.pack.js"></script>
+<link rel="stylesheet" href="/javascripts/jquery/plugins/fancybox/jquery.fancybox-1.3.4.css" type="text/css" media="screen" />
+{% endif %}
+

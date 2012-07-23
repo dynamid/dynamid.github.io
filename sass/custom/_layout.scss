@@ -71,3 +71,16 @@ $slide-bg-back: linear-gradient(lighten($slide-bg, 8), $slide-bg, saturate(darke
 
 .slides_pagination li a:hover { background-position: 0 -26px }
 
+// Footer
+body {
+  table.footer-logo {
+    width: 100%;
+    position: center;
+    margin-top: 1em;
+    margin-bottom: 1em;
+  }
+  td {
+    text-align: center;
+  }
+}
+

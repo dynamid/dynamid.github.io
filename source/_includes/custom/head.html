@@ -5,13 +5,18 @@
 
 {% if page.dependencies contains 'jquery' %}
 <script type="text/javascript" src="/javascripts/jquery/jquery-1.7.2.min.js"></script>
+<script type="text/javascript">
+  // Revert jQuery's '$' alias, to avoid clashes with ender.js. NOTE: Use
+  // jQuery(...), instead of $(...) from here on.
+  jQuery.noConflict();
+</script>
 {% endif %}
 
 {% if page.dependencies contains 'slidejs' %}
 <script type="text/javascript" src="/javascripts/jquery/plugins/slidejs/slides.min.jquery.js"></script>
 <script>
-  $(function(){
-    $("#slides").slides({
+  jQuery(function(){
+    jQuery("#slides").slides({
       preload: true,
       preloadImage: '/images/loading.gif',
       paginationClass: 'slides_pagination',

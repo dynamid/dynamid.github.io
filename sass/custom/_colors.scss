@@ -4,7 +4,7 @@
 
 $header-bg: #f5f5f5;
 //$title-color: #3d708d;
-$title-color: #c73a26;
+$title-color: darken(#c73a26, 1);
 //$subtitle-color: lighten($title-color, 16);
 $subtitle-color: lighten(#9d007a, 50);
 $nav-bg: desaturate(lighten($title-color, 20), 5);

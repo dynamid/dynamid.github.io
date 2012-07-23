@@ -12,6 +12,8 @@ This site has been
 
 * designed with Octopress template and [Twitter bootstrap](http://twitter.github.com/bootstrap/), including icons by [Glyphicons](http://glyphicons.com/)
 
+* colorized with the help of [www.colourlovers.com](http://www.colourlovers.com/)
+
 * animated with [JQuery](http://jquery.com/), and especially [SlideJS](http://slidesjs.com/) and [FancyBox](http://fancybox.net/) plugins
 
 * customized with several placeholders [placehold.it](http://placehold.it), [flickholdr.com](http://flickholdr.com), [placekitten.com](http://placekitten.com), [placedog.com](http://placedog.com)

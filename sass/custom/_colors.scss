@@ -30,7 +30,7 @@ $subtitle-color: #9d007a;
 //$subtitle-color: lighten($title-color, 16);
 $nav-bg: desaturate(lighten($title-color, 10), 5);
 //$nav-bg: desaturate(lighten(#c73a26, 40), 5);
-//$nav-bg-front: image-url('noise.png');
+$nav-bg-front: image-url('noise.png');
 $nav-bg-back: linear-gradient(lighten($nav-bg, 8), $nav-bg, saturate(darken($nav-bg, 8), 10));
 //$sidebar-bg: desaturate(#eceff5, 8);
 //$sidebar-link-color: saturate(#526f9a, 10);

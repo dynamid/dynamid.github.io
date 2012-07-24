@@ -39,7 +39,7 @@ $footer-bg: $nav-bg;
 //$footer-bg-front: image-url('noise.png');
 //$footer-bg-back: linear-gradient(lighten($footer-bg, 8), $footer-bg, darken($footer-bg, 8));
 $footer-bg-back: linear-gradient(saturate(darken($footer-bg, 8), 10), $footer-bg, lighten($footer-bg, 8));
-//$main-bg: #f8f8f8;
+$main-bg: #f8f8f8;
 $page-bg: #ffffff;
 $link-color: $subtitle-color;
 //$link-color-hover: adjust-color($link-color, $lightness: 10, $saturation: 25);

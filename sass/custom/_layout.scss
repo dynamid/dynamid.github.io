@@ -21,7 +21,7 @@
 //$sidebar-width-wide: 300px;
 
 // SlideJS
-$slide-bg: desaturate(lighten($title-color, 20), 5);
+$slide-bg: desaturate(lighten($title-color, 10), 5);
 $slide-bg-front: image-url('noise.png');
 $slide-bg-back: linear-gradient(lighten($slide-bg, 8), $slide-bg, saturate(darken($slide-bg, 8), 10));
 

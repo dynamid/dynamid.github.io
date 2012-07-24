@@ -2,13 +2,33 @@
 // To give it a try, uncomment some of the lines below rebuild your blog, and see how it works.
 // If you need a handy color picker try http://hslpicker.com
 
+// Red warm option
+//$header-bg: #f5f5f5;
+//$title-color: darken(#c73a26, 1);
+//$subtitle-color: #9d007a;
+//$nav-bg: desaturate(lighten($title-color, 20), 5);
+//$nav-bg: desaturate(lighten(#c73a26, 40), 5);
+//$nav-bg-front: image-url('noise.png');
+//$nav-bg-back: linear-gradient(lighten($nav-bg, 8), $nav-bg, saturate(darken($nav-bg, 8), 10));
+//$sidebar-bg: desaturate(#eceff5, 8);
+//$sidebar-link-color: saturate(#526f9a, 10);
+//$sidebar-link-color-hover: darken(#7ab662, 9);
+//$footer-bg: $nav-bg;
+//$footer-bg-front: image-url('noise.png');
+//$footer-bg-back: linear-gradient(saturate(darken($footer-bg, 8), 10), $footer-bg, lighten($footer-bg, 8));
+//$main-bg: #f8f8f8;
+//$page-bg: #ffffff;
+//$link-color: $subtitle-color;
+//$link-color-hover: adjust-color($link-color, $lightness: 10, $saturation: 25);
+//$link-color-visited: adjust-color($link-color, $hue: 80, $lightness: -4);
+//$link-color-active: adjust-color($link-color-hover, $lightness: -15);
+
+// Blue cold option
 $header-bg: #f5f5f5;
-//$title-color: #3d708d;
-$title-color: darken(#c73a26, 1);
+$title-color: #3d708d;
+$subtitle-color: #9d007a;
 //$subtitle-color: lighten($title-color, 16);
-$subtitle-color: lighten(#9d007a, 50);
-$nav-bg: desaturate(lighten($title-color, 20), 5);
-//$nav-bg: #c73a26;
+$nav-bg: desaturate(lighten($title-color, 10), 5);
 //$nav-bg: desaturate(lighten(#c73a26, 40), 5);
 //$nav-bg-front: image-url('noise.png');
 $nav-bg-back: linear-gradient(lighten($nav-bg, 8), $nav-bg, saturate(darken($nav-bg, 8), 10));
@@ -21,7 +41,7 @@ $footer-bg: $nav-bg;
 $footer-bg-back: linear-gradient(saturate(darken($footer-bg, 8), 10), $footer-bg, lighten($footer-bg, 8));
 //$main-bg: #f8f8f8;
 $page-bg: #ffffff;
-$link-color: darken($subtitle-color, 55);
+$link-color: $subtitle-color;
 //$link-color-hover: adjust-color($link-color, $lightness: 10, $saturation: 25);
 //$link-color-visited: adjust-color($link-color, $hue: 80, $lightness: -4);
 //$link-color-active: adjust-color($link-color-hover, $lightness: -15);

@@ -87,9 +87,9 @@ body {
 // HAL Publications
 /* classe css de la page*/
 #res_script{
-	border:0;
-	background-color: $main-bg;
-	color:black;
+  border:0;
+  background-color: $main-bg;
+  color: black;
 }
 
 /*Titre*/
@@ -100,27 +100,28 @@ div.ZoneTitreResultat
 
 /* classe pour les rubriques pour certains type de classement (type de publi, année de publi) */ 
 .Rubrique{
-/*	position: relative;*/
-	background:#CCC;
-	border: solid 1px #558;
-	padding: 3px 0px 2px 10px;
-	margin-bottom: 12px;
+  @extends .sans;
+/*position: relative;*/
+  background:#CCC;
+  border: solid 1px #558;
+  padding: 3px 0px 2px 10px;
+  margin-bottom: 12px;
 }
 .SousRubrique{
-  font-weight:bold;
-	margin-left:10px;
-	font-size:1.3em;
+  font-weight: bold;
+  margin-left: 10px;
+  font-size: 1.3em;
 }
 
 /*nom du champ*/
 .ChampRes {
-	display:none;
+  display: none;
 }
 
 /* classe commune à tous les champs affichés */ 
 .ValeurRes {
-	color:black;
-  margin-left:1em;
+  color:black;
+  margin-left: 1em;
 }
 
 /* classe pour les auteurs */ 
@@ -129,8 +130,8 @@ div.ZoneTitreResultat
 
 /* classe pour les titres */ 
 .Titre, .Titre a {
-   font-weight:bold;
-	color:#58529F;
+  font-weight: bold;
+  color: #58529F;
 }
 
 /* classe pour les identifiants */ 

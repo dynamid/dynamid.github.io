@@ -101,15 +101,15 @@ div.ZoneTitreResultat
 /* classe pour les rubriques pour certains type de classement (type de publi, année de publi) */ 
 .Rubrique{
   font-family: "PT Sans", "Helvetica Neue", Arial, sans-serif;
+  color: black;
   background-color: $nav-bg;
-  background: $nav-bg-back;
-  border: solid 1px #558;
-  padding: 3px 0px 2px 10px;
-  margin-bottom: 12px;
+  border: solid 1px darken($nav-bg, 25);
+  padding: 5px 5px 5px 10px;
+  margin-bottom: 16px;
 }
 .SousRubrique{
   font-family: "PT Sans", "Helvetica Neue", Arial, sans-serif;
-  font-weight: bold;
+  color: black;
   margin-left: 10px;
   font-size: 1.3em;
 }
@@ -122,8 +122,8 @@ div.ZoneTitreResultat
 /* classe commune à tous les champs affichés */ 
 .ValeurRes {
   font-family: "PT Serif", Georgia, Times, "Times New Roman", serif;
-  color:black;
-  margin-left: 1em;
+  color: black;
+  margin-left: 1.2em;
 }
 
 /* classe pour les auteurs */ 
@@ -132,8 +132,8 @@ div.ZoneTitreResultat
 
 /* classe pour les titres */ 
 .Titre, .Titre a {
-  font-weight: bold;
-  color: #58529F;
+  color: $link-color;
+  text-decoration: none;
 }
 
 /* classe pour les identifiants */ 

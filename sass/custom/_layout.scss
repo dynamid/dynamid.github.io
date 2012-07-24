@@ -101,6 +101,7 @@ div.ZoneTitreResultat
 /* classe pour les rubriques pour certains type de classement (type de publi, année de publi) */ 
 .Rubrique{
   @extends .sans;
+  font-family: "PT Sans", "Helvetica Neue", Arial, sans-serif;
 /*position: relative;*/
   background:#CCC;
   border: solid 1px #558;

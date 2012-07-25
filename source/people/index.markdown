@@ -19,7 +19,7 @@ footer: false
     <td>{% img /images/face-flemouel.jpg 100 100 'flemouel :-)' 'flemouel' %}</td>
     <td>Frédéric Le Mouël</td>
     <td>Head - Associate Professor</td>
-    <td></td>
+    <td><a href="https://twitter.com/flemouel/">{% img no-border /images/social_networking_iconpack/twitter_32.png %}</a><a href="https://twitter.com/flemouel/">{% img no-border /images/social_networking_iconpack/twitter_16.png %}</a><br /><a href="https://twitter.com/flemouel/">{% img no-border /images/social_networking_iconpack/twitter_32.png %}</a><a href="https://twitter.com/flemouel/">{% img no-border /images/social_networking_iconpack/twitter_16.png %}</a><br /><a href="https://twitter.com/flemouel/">{% img no-border /images/social_networking_iconpack/twitter_32.png %}</a><a href="https://twitter.com/flemouel/">{% img no-border /images/social_networking_iconpack/twitter_16.png %}</a><br /></td>
   <tr>
   <tr>
     <td>{% img /images/face-jponge.jpg 100 100 'jponge :-)' 'jponge' %}</td>

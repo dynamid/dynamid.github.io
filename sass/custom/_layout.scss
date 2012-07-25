@@ -20,6 +20,11 @@
 //$sidebar-pad-wide: 20px;
 //$sidebar-width-wide: 300px;
 
+// No border
+.no-border {
+  border: 0;
+}
+
 // SlideJS
 $slide-bg: desaturate(lighten($title-color, 10), 5);
 $slide-bg-front: image-url('noise.png');

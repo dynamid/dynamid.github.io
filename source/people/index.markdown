@@ -33,7 +33,7 @@ footer: false
     <td>Julien Ponge</td>
     <td>Associate Professor</td>
     <td>
-      <a href="http://julien.ponge.info/">{% img no-border /images/safari2.png "Homepage" "Homepage" %}</a>
+      <a href="http://julien.ponge.info/">{% img no-border /images/safari.png 32 32 "Homepage" "Homepage" %}</a>
       <a href="mailto:julien.ponge@insa-lyon.fr">{% img no-border /images/social_networking_iconpack/email_32.png "Email" "Email" %}</a>
       <a href="https://twitter.com/jponge">{% img no-border /images/social_networking_iconpack/twitter_32.png "Twitter" "Twitter" %}</a><br />
       <a href="https://plus.google.com/u/0/106143787836384076615/posts/">{% img no-border /images/social_networking_iconpack/google_plus_32.png "Google+" "Google+" %}</a>
@@ -49,6 +49,7 @@ footer: false
       <a href="http://perso.citi-lab.fr/nstouls/">{% img no-border /images/chrome.png "Homepage" "Homepage" %}</a>
       <a href="mailto:nicolas.stouls@insa-lyon.fr">{% img no-border /images/social_networking_iconpack/email_32.png "Email" "Email" %}</a>
       <a href="https://twitter.com/nico_s99">{% img no-border /images/social_networking_iconpack/twitter_32.png "Twitter" "Twitter" %}</a><br />
+     <a href="http://www.linkedin.com/pub/nicolas-stouls/7/81b/19">{% img no-border /images/social_networking_iconpack/linkedin_32.png "LinedIn" "LinkedIn" %}</a>
     </td>
   <tr>
   <tr>

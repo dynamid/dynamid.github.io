@@ -39,6 +39,8 @@ footer: false
       <a href="https://plus.google.com/u/0/106143787836384076615/posts/">{% img no-border /images/social_networking_iconpack/google_plus_32.png "Google+" "Google+" %}</a>
       <a href="http://www.linkedin.com/in/julienponge">{% img no-border /images/social_networking_iconpack/linkedin_32.png "LinedIn" "LinkedIn" %}</a>
       <a href="https://github.com/jponge">{% img no-border /images/social_networking_iconpack/github_32.png "GitHub" "GitHub" %}</a><br />
+      <a href="http://log.julien.ponge.info/">{% img no-border /images/social_networking_iconpack/tumblr_32.png "Tumblr" "Tumblr" %}</a>
+      <a href="feed://julien.ponge.info/atom.xml">{% img no-border /images/social_networking_iconpack/rss_32.png "RSS" "RSS" %}</a>
     </td>
   <tr>
   <tr>

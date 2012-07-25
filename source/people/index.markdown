@@ -45,5 +45,11 @@ footer: false
     <td>PhD Student</td>
     <td></td>
   <tr>
+  <tr>
+    <td>{% img /images/face-tlin.jpg 100 100 'tlin :-)' 'tlin' %}</td>
+    <td>Trista Lin</td>
+    <td>PhD Student</td>
+    <td></td>
+  <tr>
 </table>
 

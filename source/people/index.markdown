@@ -16,31 +16,31 @@ footer: false
     </tr>
   </thead>
   <tr>
-    <td>{% img {{ root_url }}/images/face-flemouel.jpg 100 100 'flemouel :-)' 'flemouel' %}</td>
+    <td>{% img /images/face-flemouel.jpg 100 100 'flemouel :-)' 'flemouel' %}</td>
     <td>Frédéric Le Mouël</td>
     <td>Head - Associate Professor</td>
     <td></td>
   <tr>
   <tr>
-    <td>{% img {{ root_url }}/images/face-jponge.jpg 100 100 'jponge :-)' 'jponge' %}</td>
+    <td>{% img /images/face-jponge.jpg 100 100 'jponge :-)' 'jponge' %}</td>
     <td>Julien Ponge</td>
     <td>Associate Professor</td>
     <td></td>
   <tr>
   <tr>
-    <td>{% img {{ root_url }}/images/face-nstouls.jpg 100 100 'nstouls :-)' 'nstouls' %}</td>
+    <td>{% img /images/face-nstouls.jpg 100 100 'nstouls :-)' 'nstouls' %}</td>
     <td>Nicolas Stouls</td>
     <td>Associate Professor</td>
     <td></td>
   <tr>
   <tr>
-    <td>{% img {{ root_url }}/images/face-rgolchay.jpg 100 100 'rgolchay :-)' 'rgolchay' %}</td>
+    <td>{% img /images/face-rgolchay.jpg 100 100 'rgolchay :-)' 'rgolchay' %}</td>
     <td>Roya Golchay</td>
     <td>PhD Student</td>
     <td></td>
   <tr>
   <tr>
-    <td>{% img {{ root_url }}/images/face-mlebre.jpg 100 100 'mlebre :-)' 'mlebre' %}</td>
+    <td>{% img /images/face-mlebre.jpg 100 100 'mlebre :-)' 'mlebre' %}</td>
     <td>Marie-Ange Lèbre</td>
     <td>PhD Student</td>
     <td></td>

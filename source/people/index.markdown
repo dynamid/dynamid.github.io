@@ -19,13 +19,27 @@ footer: false
     <td>{% img /images/face-flemouel.jpg 100 100 'flemouel :-)' 'flemouel' %}</td>
     <td>Frédéric Le Mouël</td>
     <td>Head - Associate Professor</td>
-    <td><a href="https://twitter.com/flemouel/">{% img no-border /images/social_networking_iconpack/twitter_32.png %}</a><a href="https://twitter.com/flemouel/">{% img no-border /images/social_networking_iconpack/twitter_16.png %}</a><br /><a href="https://twitter.com/flemouel/">{% img no-border /images/social_networking_iconpack/twitter_32.png %}</a><a href="https://twitter.com/flemouel/">{% img no-border /images/social_networking_iconpack/twitter_16.png %}</a><br /><a href="https://twitter.com/flemouel/">{% img no-border /images/social_networking_iconpack/twitter_32.png %}</a><a href="https://twitter.com/flemouel/">{% img no-border /images/social_networking_iconpack/twitter_16.png %}</a><br /></td>
+    <td>
+      <a href="http://www.le-mouel.net">{% img no-border /images/social_networking_iconpack/apple_32.png "Homepage" "Homepage" %}</a>
+      <a href="mailto:frederic.le-mouel@insa-lyon.fr">{% img no-border /images/social_networking_iconpack/email_32.png "Email" "Email" %}</a>
+      <a href="https://twitter.com/flemouel/">{% img no-border /images/social_networking_iconpack/twitter_32.png "Twitter" "Twitter" %}</a><br />
+      <a href="https://plus.google.com/u/0/112585781767079355378/posts/">{% img no-border /images/social_networking_iconpack/google_plus_32.png "Google+" "Google+" %}</a>
+      <a href="http://www.linkedin.com/in/fredericlemouel">{% img no-border /images/social_networking_iconpack/linkedin_32.png "LinedIn" "LinkedIn" %}</a>
+      <a href="https://github.com/flemouel">{% img no-border /images/social_networking_iconpack/github_32.png "GitHub" "GitHub" %}</a><br />
+    </td>
   <tr>
   <tr>
     <td>{% img /images/face-jponge.jpg 100 100 'jponge :-)' 'jponge' %}</td>
     <td>Julien Ponge</td>
     <td>Associate Professor</td>
-    <td></td>
+    <td>
+      <a href="http://julien.ponge.info/">{% img no-border /images/social_networking_iconpack/apple_32.png "Homepage" "Homepage" %}</a>
+      <a href="mailto:julien.ponge@insa-lyon.fr">{% img no-border /images/social_networking_iconpack/email_32.png "Email" "Email" %}</a>
+      <a href="https://twitter.com/jponge">{% img no-border /images/social_networking_iconpack/twitter_32.png "Twitter" "Twitter" %}</a><br />
+      <a href="https://plus.google.com/u/0/106143787836384076615/posts/">{% img no-border /images/social_networking_iconpack/google_plus_32.png "Google+" "Google+" %}</a>
+      <a href="http://www.linkedin.com/in/julienponge">{% img no-border /images/social_networking_iconpack/linkedin_32.png "LinedIn" "LinkedIn" %}</a>
+      <a href="https://github.com/jponge">{% img no-border /images/social_networking_iconpack/github_32.png "GitHub" "GitHub" %}</a><br />
+    </td>
   <tr>
   <tr>
     <td>{% img /images/face-nstouls.jpg 100 100 'nstouls :-)' 'nstouls' %}</td>

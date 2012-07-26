@@ -26,6 +26,7 @@ footer: false
       <a href="https://plus.google.com/u/0/112585781767079355378/posts/">{% img no-border /images/social_networking_iconpack/google_plus_32.png "Google+" "Google+" %}</a>
       <a href="http://www.linkedin.com/in/fredericlemouel">{% img no-border /images/social_networking_iconpack/linkedin_32.png "LinedIn" "LinkedIn" %}</a>
       <a href="https://github.com/flemouel">{% img no-border /images/social_networking_iconpack/github_32.png "GitHub" "GitHub" %}</a>
+      <a href="http://www.mendeley.com/profiles/frederic-le-mouel/">{% img no-border /images/social_networking_iconpack/mendeley_32.png "Mendeley" "Mendeley" %}</a>
     </td>
   <tr>
   <tr>
@@ -39,6 +40,7 @@ footer: false
       <a href="https://plus.google.com/u/0/106143787836384076615/posts/">{% img no-border /images/social_networking_iconpack/google_plus_32.png "Google+" "Google+" %}</a>
       <a href="http://www.linkedin.com/in/julienponge">{% img no-border /images/social_networking_iconpack/linkedin_32.png "LinedIn" "LinkedIn" %}</a>
       <a href="https://github.com/jponge">{% img no-border /images/social_networking_iconpack/github_32.png "GitHub" "GitHub" %}</a>
+      <a href="http://www.mendeley.com/profiles/julien-ponge/">{% img no-border /images/social_networking_iconpack/mendeley_32.png "Mendeley" "Mendeley" %}</a>
       <a href="http://log.julien.ponge.info/">{% img no-border /images/social_networking_iconpack/tumblr_32.png "Tumblr" "Tumblr" %}</a>
       <a href="feed://julien.ponge.info/atom.xml">{% img no-border /images/social_networking_iconpack/rss_32.png "RSS" "RSS" %}</a>
     </td>
@@ -52,6 +54,7 @@ footer: false
       <a href="mailto:nicolas.stouls@insa-lyon.fr">{% img no-border /images/social_networking_iconpack/email_32.png "Email" "Email" %}</a>
       <a href="https://twitter.com/nico_s99">{% img no-border /images/social_networking_iconpack/twitter_32.png "Twitter" "Twitter" %}</a>
      <a href="http://www.linkedin.com/pub/nicolas-stouls/7/81b/19">{% img no-border /images/social_networking_iconpack/linkedin_32.png "LinedIn" "LinkedIn" %}</a>
+      <a href="http://www.mendeley.com/profiles/nicolas-stouls/">{% img no-border /images/social_networking_iconpack/mendeley_32.png "Mendeley" "Mendeley" %}</a>
     </td>
   <tr>
   <tr>
@@ -61,6 +64,7 @@ footer: false
     <td class="social-icons">
       <a href="http://www.citi.insa-lyon.fr/staff/people/rgolchay/">{% img no-border /images/safari.png 32 32 "Homepage" "Homepage" %}</a>
       <a href="mailto:roya.golchay@insa-lyon.fr">{% img no-border /images/social_networking_iconpack/email_32.png "Email" "Email" %}</a>
+      <a href="http://www.mendeley.com/profiles/roya-golchay/">{% img no-border /images/social_networking_iconpack/mendeley_32.png "Mendeley" "Mendeley" %}</a>
     </td>
   <tr>
   <tr>
@@ -70,6 +74,7 @@ footer: false
     <td class="social-icons">
       <a href="http://www.citi.insa-lyon.fr/staff/people/mlebre/">{% img no-border /images/social_networking_iconpack/windows_32.png "Homepage" "Homepage" %}</a>
       <a href="mailto:marieange.lebre@gmail.com">{% img no-border /images/social_networking_iconpack/email_32.png "Email" "Email" %}</a>
+      <a href="http://www.mendeley.com/profiles/marie-ange-lebre/">{% img no-border /images/social_networking_iconpack/mendeley_32.png "Mendeley" "Mendeley" %}</a>
     </td>
   <tr>
   <tr>

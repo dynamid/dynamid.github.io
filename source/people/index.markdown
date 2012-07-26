@@ -59,6 +59,8 @@ footer: false
     <td>Roya Golchay</td>
     <td>PhD Student</td>
     <td class="social-icons">
+      <a href="http://www.citi.insa-lyon.fr/staff/people/rgolchay/">{% img no-border /images/safari.png 32 32 "Homepage" "Homepage" %}</a>
+      <a href="mailto:roya.golchay@insa-lyon.fr">{% img no-border /images/social_networking_iconpack/email_32.png "Email" "Email" %}</a>
     </td>
   <tr>
   <tr>
@@ -66,6 +68,8 @@ footer: false
     <td>Marie-Ange Lèbre</td>
     <td>PhD Student</td>
     <td class="social-icons">
+      <a href="http://www.citi.insa-lyon.fr/staff/people/mlebre/">{% img no-border /images/social_networking_iconpack/windows_32.png "Homepage" "Homepage" %}</a>
+      <a href="mailto:marieange.lebre@gmail.com">{% img no-border /images/social_networking_iconpack/email_32.png "Email" "Email" %}</a>
     </td>
   <tr>
   <tr>
@@ -73,6 +77,8 @@ footer: false
     <td>Trista Lin</td>
     <td>PhD Student</td>
     <td class="social-icons">
+      <a href="mailto:tristalinlin@gmail.com">{% img no-border /images/social_networking_iconpack/email_32.png "Email" "Email" %}</a>
+     <a href="http://fr.linkedin.com/pub/trista-lin/20/b7/a07">{% img no-border /images/social_networking_iconpack/linkedin_32.png "LinedIn" "LinkedIn" %}</a>
     </td>
   <tr>
 </table>

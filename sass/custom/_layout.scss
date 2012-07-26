@@ -137,8 +137,9 @@ div.ZoneTitreResultat
   color: black;
   margin-left: 1.2em;
 }
-.ValeurRes:last-child {
-  margin-bottom: 0em;
+.NoticeRes:last-child {
+  margin-bottom: 0;
+  padding-bottom: 0;
 }
 
 /* classe pour les auteurs */ 

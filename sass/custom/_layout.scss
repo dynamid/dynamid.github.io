@@ -25,6 +25,11 @@
   border: 0;
 }
 
+// People
+td.social-icons {
+  max-width: 130px;
+}
+
 // SlideJS
 $slide-bg: desaturate(lighten($title-color, 10), 5);
 $slide-bg-front: image-url('noise.png');

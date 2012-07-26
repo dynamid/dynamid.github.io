@@ -117,7 +117,7 @@ div.ZoneTitreResultat
   background-color: $nav-bg;
   border: solid 1px darken($nav-bg, 25);
   padding: 5px 5px 5px 10px;
-/*  margin-bottom: 16px; */
+  margin-bottom: 16px;
 }
 .SousRubrique{
   font-family: "PT Sans", "Helvetica Neue", Arial, sans-serif;
@@ -136,6 +136,9 @@ div.ZoneTitreResultat
   font-family: "PT Serif", Georgia, Times, "Times New Roman", serif;
   color: black;
   margin-left: 1.2em;
+}
+.ValeurRes:last-child {
+  margin-bottom: 0em;
 }
 
 /* classe pour les auteurs */ 

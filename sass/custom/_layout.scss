@@ -32,6 +32,9 @@ td.social-icons {
 td.project-text{
   max-width: 300px;
 }
+td.size-min{
+  max-width: 100px;
+}
 
 // SlideJS
 $slide-bg: desaturate(lighten($title-color, 10), 5);

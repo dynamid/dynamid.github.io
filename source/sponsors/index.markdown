@@ -16,7 +16,7 @@ footer: false
     </tr>
   </thead>
   <tr>
-    <td>{% img no-border /images/sponsors/valeo.png 200 90 'Valeo' 'Valeo' %}</td>
+    <td class="min-size">{% img no-border /images/sponsors/valeo.png 200 90 'Valeo' 'Valeo' %}</td>
     <td class="project-text">
       Service Deployment and Invocation under Delay Constraints in Vehicular Networks.
     </td>
@@ -27,7 +27,7 @@ footer: false
     </td>
   <tr>
   <tr>
-    <td>{% img no-border /images/sponsors/oracle.png 200 80 'Oracle' 'Oracle' %}</td>
+    <td class="min-size">{% img no-border /images/sponsors/oracle.png 200 80 'Oracle' 'Oracle' %}</td>
     <td class="project-text">
       Technical writing for the Oracle Technology Network and Oracle Java Magazine on Java SE and Java EE / GlassFish.
     </td>

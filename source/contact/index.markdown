@@ -8,7 +8,7 @@ footer: false
 
 ## People
 
-Frédéric Le Mouël
+Frédéric Le Mouël - Head
 
 <a class="btn btn-info" href="mailto:frederic.le-mouel@insa-lyon.fr"><i class="icon-envelope icon-white"></i> Send an e-mail !</a>
 

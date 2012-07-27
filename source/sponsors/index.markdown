@@ -17,7 +17,9 @@ footer: false
   </thead>
   <tr>
     <td>{% img no-border /images/sponsors/valeo.png 200 90 'Valeo' 'Valeo' %}</td>
-    <td class="project-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc in lacus sit amet nibh bibendum ornare. Sed vulputate tempor enim, ut suscipit diam dictum ac. Aenean urna mauris, sagittis ac molestie sit amet, vulputate non lectus. Curabitur faucibus tincidunt mi a vehicula. Sed molestie enim rhoncus elit suscipit porta. </td>
+    <td class="project-text">
+      Service Deployment and Invocation under Delay Constraints in Vehicular Networks.
+    </td>
     <td>2012 - 2015</td>
     <td>
       <a href="/people">{% img /images/faces/face-mlebre.jpg 50 50 'mlebre :-)' 'mlebre' %}</a>
@@ -26,7 +28,9 @@ footer: false
   <tr>
   <tr>
     <td>{% img no-border /images/sponsors/oracle.png 200 80 'Oracle' 'Oracle' %}</td>
-    <td class="project-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc in lacus sit amet nibh bibendum ornare. Sed vulputate tempor enim, ut suscipit diam dictum ac. Aenean urna mauris, sagittis ac molestie sit amet, vulputate non lectus. Curabitur faucibus tincidunt mi a vehicula. Sed molestie enim rhoncus elit suscipit porta. </td>
+    <td class="project-text">
+      Technical writing for the Oracle Technology Network and Oracle Java Magazine on Java SE and Java EE / GlassFish.
+    </td>
     <td>2011 -</td>
     <td>
       <a href="/people">{% img /images/faces/face-jponge.jpg 50 50 'jponge :-)' 'jponge' %}</a>

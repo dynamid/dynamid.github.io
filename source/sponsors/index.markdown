@@ -47,7 +47,7 @@ footer: false
     <td>2012 - 2015</td>
     <td>
       <a href="/people">{% img /images/faces/face-tlin.jpg 50 50 'tlin :-)' 'tlin' %}</a>
-      <a href="http://www.citi.insa-lyon.fr/teams/urbanet/">{% img /images/faces/face-hrivano.jpg 50 50 'hrivano :-)' 'hrivano' %}</a>
+      <a href="http://perso.citi.insa-lyon.fr/hrivano/">{% img /images/faces/face-hrivano.jpg 50 50 'hrivano :-)' 'hrivano' %}</a>
       <a href="/people">{% img /images/faces/face-flemouel.jpg 50 50 'flemouel :-)' 'flemouel' %}</a>
       <a href="http://www.urbalyon.org/">{% img /images/sponsors/urbalyon.png 50 50 'Agence urbanisme de Lyon - UrbaLyon' 'Agence urbanisme de Lyon - UrbaLyon' %}</a>
     </td>
@@ -93,7 +93,20 @@ footer: false
     </td>
   </tr>
   <tr>
+    <td class="min-size">
+      <a href="http://en.csc.edu.cn/">{% img no-border /images/sponsors/csc.jpg 200 150 'CSC' 'CSC' %}</a><br />
+    </td>
+    <td class="project-text">
+      <a href="http://perso.citi.insa-lyon.fr/nstouls/SujetsStages/09-10_AmbiantCalculus-these_et_M2R.pdf">Ambient calculus for distributed, service oriented virtual machines</a>.
+    </td>
+    <td>2010 - 2014</td>
+    <td>
+      <a href="/people">{% img /images/faces/face-ydan.jpg 50 50 'ydan :-)' 'ydan' %}</a>
+      <a href="/people">{% img /images/faces/face-nstouls.jpg 50 50 'nstouls :-)' 'nstouls' %}</a>
+      <a href="http://perso.citi.insa-lyon.fr/sfrenot/">{% img /images/faces/face-sfrenot.jpg 50 50 'sfrenot :-)' 'sfrenot' %}</a>
+    </td>
   </tr>
+  <tr>
     <td class="min-size">
       ...
     </td>
@@ -104,6 +117,7 @@ footer: false
     <td>
       ...
     </td>
+  </tr>
   <tr>
     <td class="min-size">
       <a href="/contact">{% img no-border /images/sponsors/sponsor-me.jpg 200 141 'Sponsor Me !' 'Sponsor Me !' %}</a><br />

@@ -25,7 +25,7 @@ footer: false
       <a href="/people">{% img /images/faces/face-mlebre.jpg 50 50 'mlebre :-)' 'mlebre' %}</a>
       <a href="/people">{% img /images/faces/face-flemouel.jpg 50 50 'flemouel :-)' 'flemouel' %}</a>
     </td>
-  <tr>
+  </tr>
   <tr>
     <td class="min-size"><a href="http://www.oracle.com">{% img no-border /images/sponsors/oracle.png 200 80 'Oracle' 'Oracle' %}</a></td>
     <td class="project-text">
@@ -35,7 +35,7 @@ footer: false
     <td>
       <a href="/people">{% img /images/faces/face-jponge.jpg 50 50 'jponge :-)' 'jponge' %}</a>
     </td>
-  <tr>  
+  </tr>  
   <tr>
     <td class="min-size">
       <a href="http://arc.rhonealpes.fr/">{% img no-border /images/sponsors/region-arc.png 200 59 'Rhône Alpes Region' 'Rhône Alpes Region' %}</a><br />
@@ -51,7 +51,7 @@ footer: false
       <a href="/people">{% img /images/faces/face-flemouel.jpg 50 50 'flemouel :-)' 'flemouel' %}</a>
       <a href="http://www.urbalyon.org/">{% img /images/sponsors/urbalyon.png 50 50 'Agence urbanisme de Lyon - UrbaLyon' 'Agence urbanisme de Lyon - UrbaLyon' %}</a>
     </td>
-  <tr>
+  </tr>
   <tr>
     <td class="min-size">
       <a href="http://arc.rhonealpes.fr/">{% img no-border /images/sponsors/region-arc.png 200 59 'Rhône Alpes Region' 'Rhône Alpes Region' %}</a><br />
@@ -64,7 +64,7 @@ footer: false
     <td>
       <a href="/people">{% img /images/faces/face-nstouls.jpg 50 50 'nstouls :-)' 'nstouls' %}</a>
     </td>
-  <tr>
+  </tr>
   <tr>
     <td class="min-size">
       <a href="http://arc.rhonealpes.fr/">{% img no-border /images/sponsors/region-arc.png 200 59 'Rhône Alpes Region' 'Rhône Alpes Region' %}</a><br />
@@ -78,6 +78,44 @@ footer: false
       <a href="/people">{% img /images/faces/face-flemouel.jpg 50 50 'flemouel :-)' 'flemouel' %}</a>
       <a href="/people">{% img /images/faces/face-nstouls.jpg 50 50 'nstouls :-)' 'nstouls' %}</a>
     </td>
+  </tr>
   <tr>
+    <td class="min-size">
+      <a href="http://www.insa-lyon.fr">{% img no-border /images/logos/logo-insalyon.png 200 107 'INSA Lyon' 'INSA Lyon' %}</a><br />
+      <a href="http://imu.universite-lyon.fr/">{% img no-border /images/sponsors/IMU.png 150 70 'IMU' 'IMU' %}</a><br />
+    </td>
+    <td class="project-text">
+      Conception Methodology to Optimize Sensor Network Energy Consumption.
+    </td>
+    <td>2009 - 2012</td>
+    <td>
+      <a href="/people">{% img /images/faces/face-nstouls.jpg 50 50 'nstouls :-)' 'nstouls' %}</a>
+    </td>
+  </tr>
+  <tr>
+  </tr>
+    <td class="min-size">
+      ...
+    </td>
+    <td class="project-text">
+      ...
+    </td>
+    <td>...</td>
+    <td>
+      ...
+    </td>
+  <tr>
+    <td class="min-size">
+      <a href="/contact">{% img no-border /images/sponsors/sponsor-me.jpg 200 141 'Sponsor Me !' 'Sponsor Me !' %}</a><br />
+    </td>
+    <td class="project-text">
+      Jooflux - a Java agent for dynamic aspect-oriented middleware.
+    </td>
+    <td>2012 -</td>
+    <td>
+      <a href="/people">{% img /images/faces/face-jponge.jpg 50 50 'jponge :-)' 'jponge' %}</a>
+      <a href="/people">{% img /images/faces/face-flemouel.jpg 50 50 'flemouel :-)' 'flemouel' %}</a>
+    </td>
+  </tr>
 </table>
 

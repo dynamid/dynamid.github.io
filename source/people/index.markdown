@@ -28,7 +28,7 @@ footer: false
       <a href="https://github.com/flemouel">{% img no-border /images/social_networking_iconpack/github_32.png "GitHub" "GitHub" %}</a>
       <a href="http://www.mendeley.com/profiles/frederic-le-mouel/">{% img no-border /images/social_networking_iconpack/mendeley_32.png "Mendeley" "Mendeley" %}</a>
     </td>
-  <tr>
+  </tr>
   <tr>
     <td class="min-size">{% img /images/faces/face-jponge.jpg 100 100 'jponge :-)' 'jponge' %}</td>
     <td>Julien Ponge</td>
@@ -44,7 +44,7 @@ footer: false
       <a href="http://log.julien.ponge.info/">{% img no-border /images/social_networking_iconpack/tumblr_32.png "Tumblr" "Tumblr" %}</a>
       <a href="feed://julien.ponge.info/atom.xml">{% img no-border /images/social_networking_iconpack/rss_32.png "RSS" "RSS" %}</a>
     </td>
-  <tr>
+  </tr>
   <tr>
     <td class="min-size">{% img /images/faces/face-nstouls.jpg 100 100 'nstouls :-)' 'nstouls' %}</td>
     <td>Nicolas Stouls</td>
@@ -56,7 +56,7 @@ footer: false
      <a href="http://www.linkedin.com/pub/nicolas-stouls/7/81b/19">{% img no-border /images/social_networking_iconpack/linkedin_32.png "LinedIn" "LinkedIn" %}</a>
       <a href="http://www.mendeley.com/profiles/nicolas-stouls/">{% img no-border /images/social_networking_iconpack/mendeley_32.png "Mendeley" "Mendeley" %}</a>
     </td>
-  <tr>
+  </tr>
   <tr>
     <td class="min-size">{% img /images/faces/face-rgolchay.jpg 100 100 'rgolchay :-)' 'rgolchay' %}</td>
     <td>Roya Golchay</td>
@@ -66,7 +66,7 @@ footer: false
       <a href="mailto:roya.golchay@insa-lyon.fr">{% img no-border /images/social_networking_iconpack/email_32.png "Email" "Email" %}</a>
       <a href="http://www.mendeley.com/profiles/roya-golchay/">{% img no-border /images/social_networking_iconpack/mendeley_32.png "Mendeley" "Mendeley" %}</a>
     </td>
-  <tr>
+  </tr>
   <tr>
     <td class="min-size">{% img /images/faces/face-mlebre.jpg 100 100 'mlebre :-)' 'mlebre' %}</td>
     <td>Marie-Ange Lèbre</td>
@@ -76,7 +76,7 @@ footer: false
       <a href="mailto:marieange.lebre@gmail.com">{% img no-border /images/social_networking_iconpack/email_32.png "Email" "Email" %}</a>
       <a href="http://www.mendeley.com/profiles/marie-ange-lebre/">{% img no-border /images/social_networking_iconpack/mendeley_32.png "Mendeley" "Mendeley" %}</a>
     </td>
-  <tr>
+  </tr>
   <tr>
     <td class="min-size">{% img /images/faces/face-tlin.jpg 100 100 'tlin :-)' 'tlin' %}</td>
     <td>Trista Lin</td>
@@ -85,6 +85,6 @@ footer: false
       <a href="mailto:tristalinlin@gmail.com">{% img no-border /images/social_networking_iconpack/email_32.png "Email" "Email" %}</a>
      <a href="http://fr.linkedin.com/pub/trista-lin/20/b7/a07">{% img no-border /images/social_networking_iconpack/linkedin_32.png "LinedIn" "LinkedIn" %}</a>
     </td>
-  <tr>
+  </tr>
 </table>
 

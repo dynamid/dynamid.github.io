@@ -58,6 +58,16 @@ footer: false
     </td>
   </tr>
   <tr>
+    <td class="min-size">{% img /images/faces/face-ydan.jpg 100 100 'ydan :-)' 'ydan' %}</td>
+    <td>Yufang Dan</td>
+    <td>PhD Student</td>
+    <td class="social-icons">
+      <a href="http://www.citi.insa-lyon.fr/staff/people/ydan/">{% img no-border /images/icons/safari.png 32 32 "Homepage" "Homepage" %}</a>
+      <a href="mailto:yufang.dan@insa-lyon.fr">{% img no-border /images/social_networking_iconpack/email_32.png "Email" "Email" %}</a>
+     <a href="http://fr.linkedin.com/pub/yufang-dan/36/497/57a">{% img no-border /images/social_networking_iconpack/linkedin_32.png "LinedIn" "LinkedIn" %}</a>
+    </td>
+  </tr>
+  <tr>
     <td class="min-size">{% img /images/faces/face-rgolchay.jpg 100 100 'rgolchay :-)' 'rgolchay' %}</td>
     <td>Roya Golchay</td>
     <td>PhD Student</td>

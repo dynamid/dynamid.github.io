@@ -50,7 +50,7 @@ footer: false
     <td>Nicolas Stouls</td>
     <td>Associate Professor</td>
     <td class="social-icons">
-      <a href="http://perso.citi-lab.fr/nstouls/">{% img no-border /images/icons/chrome.png "Homepage" "Homepage" %}</a>
+      <a href="http://perso.citi-lab.fr/nstouls/">{% img no-border /images/icons/safari.png 32 32 "Homepage" "Homepage" %}</a>
       <a href="mailto:nicolas.stouls@insa-lyon.fr">{% img no-border /images/social_networking_iconpack/email_32.png "Email" "Email" %}</a>
       <a href="https://twitter.com/nico_s99">{% img no-border /images/social_networking_iconpack/twitter_32.png "Twitter" "Twitter" %}</a>
      <a href="http://www.linkedin.com/pub/nicolas-stouls/7/81b/19">{% img no-border /images/social_networking_iconpack/linkedin_32.png "LinedIn" "LinkedIn" %}</a>

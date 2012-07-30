@@ -85,7 +85,7 @@ footer: false
       <a href="http://imu.universite-lyon.fr/">{% img no-border /images/sponsors/IMU.png 150 70 'IMU' 'IMU' %}</a><br />
     </td>
     <td class="project-text">
-      Conception Methodology to Optimize Sensor Network Energy Consumption.
+      <a href="https://bqr2010.project.citi-lab.fr/">Conception Methodology to Optimize Sensor Network Energy Consumption</a>.
     </td>
     <td>2009 - 2012</td>
     <td>

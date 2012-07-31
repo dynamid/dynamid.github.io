@@ -24,7 +24,7 @@ This site has been
 
   * Slideshow photo 1: Singapore Smart City - &copy; [Neale Cousland](http://www.shutterstock.com/gallery.mhtml?id=90275) / [Shutterstock.com](http://www.shutterstock.com)
 
-  * Slideshow photo 2: 
+  * Slideshow photo 2: Smart House - &copy; [Rodeo Realty, Inc. Fine Estates](http://rodeorealty.blogspot.fr/2011/04/smart-home-in-pacific-palisades.html)
 
   * Slideshow photo 3: Autonomous Car - &copy; [BMW](http://www.bmw.com) / [FleetNews.co.uk](http://www.fleetnews.co.uk/cars/review/first-drive-bmw-autonomous-car-review/40657/)
 

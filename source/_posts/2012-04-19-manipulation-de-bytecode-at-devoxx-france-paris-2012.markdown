@@ -3,7 +3,7 @@ layout: post
 title: "Manipulation de bytecode @ Devoxx France, Paris, 2012"
 date: 2012-04-19 11:30
 comments: true
-categories: java jvm bytecode invokedynamic
+categories: talk java jvm bytecode invokedynamic
 ---
 
 Talk given - in French - at [Devoxx France](http://www.devoxx.com/display/FR12/Manipulation+de+bytecode+++democratisons+la+magie+noire) on April, 19 2012. The video is also available [here](http://www.parleys.com/#st=5&id=3190&sl=95).

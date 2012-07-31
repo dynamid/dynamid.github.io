@@ -26,3 +26,9 @@ This site has been
 
   * Slideshow photo 2: 
 
+  * Slideshow photo 3: Autonomous Car - &copy; [BMW](http://www.bmw.com) / [FleetNews.co.uk](http://www.fleetnews.co.uk/cars/review/first-drive-bmw-autonomous-car-review/40657/)
+
+  * Slideshow photo 4: City Cloud - &copy; Will Shaver / [FrozenTear.com](http://www.frozentear.com/about/)
+
+  * Slideshow photo 5: [Julien Ponge](/people) @ CITI Lab - &copy; [Oracle](http://www.oracle.com)
+

@@ -20,3 +20,9 @@ This site has been
 
 * customized with several placeholders [placehold.it](http://placehold.it), [flickholdr.com](http://flickholdr.com), [placekitten.com](http://placekitten.com), [placedog.com](http://placedog.com).
 
+* decorated with different photos
+
+  * Slideshow photo 1: Singapore Smart City - &copy; [Neale Cousland](http://www.shutterstock.com/gallery.mhtml?id=90275) / [Shutterstock.com](http://www.shutterstock.com)
+
+  * Slideshow photo 2: 
+

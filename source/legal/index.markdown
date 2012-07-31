@@ -36,7 +36,7 @@ DynaMid project ([credits](/about)).
 
 #### Photos
 
-Flickr and Oracle ([credits](/about)). 
+Different sources ([credits](/about)). 
 
 #### Personal information
 

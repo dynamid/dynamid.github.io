@@ -8,30 +8,33 @@ footer: false
 
 ## Dynamic Environments
 
-* Internet of Things
-* Web of Things
-* Smart Cities
-* Smart Buildings
-* Smart Houses
-* Vehicular Networks
-* Cloud Computing
+Several environments are emerging, all with *high dynamic properties*: 
+
+* Internet of Things - with e.g. *the dynamic discovery and adaptation to different hardware*
+* Smart Cities - with e.g. *the dynamic trafic and energy management*
+* Smart Buildings and Houses - with e.g. *the dynamic user-adapted light and heating control*
+* Vehicular Networks - with e.g. *the dynamic, autonomic driveless guidance*
+* Cloud Computing - with e.g. *the dynamic provisioning and load-balancing service management*.
 
 ## Middleware is Everywhere
 
 ## Hot Research Topics
+
+We concentrate on the software development process, especially on designing programming languages, virtual machines and service-oriented architectures to tackle *- at run time-* the dynamic nature of these environments.
 
 * Adaptive Virtual Machines
   * Performant
   * Multi-tenant
   * Embedded
   * Run-time Elvolving
-* Autonomous Distributed Architecture and Algorithms
+* Autonomous Distributed Architectures and Algorithms
   * Self-* (Healing, Organizing)
   * Scalable
+  * Long-life Living
 * Context-aware Domain Specific Languages
   * Context-aware Primitives
   * Heterogeneous Hardware|Software-specialization
-* Run-time Formal Verification
+* Run-time Verification
   * Formal Description Discovery 
-  * Run-time Checking, Negotiation, Substitution
+  * Run-time Checking, Monitoring, Negotiation, Substitution
 

@@ -14,7 +14,7 @@ Reproduction in full or in part of the contents published in this web site via a
 
 2. The integrity of the reproduced documents is respected: no alteration or modification of any kind.
 
-3. Clear and visible mention is made concerning the source in the following manner - for example – “This document is reproduced from the Internet site: [http://dynamid.github.com]()" 
+3. Clear and visible mention is made concerning the source in the following manner - for example – “This document is reproduced from the Internet site: [http://http://dynamid.citi-lab.fr]()"
 
 All rights are reserved and strictly limited.
 

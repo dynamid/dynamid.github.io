@@ -16,11 +16,9 @@ Several environments are emerging, all with *high dynamic properties*:
 * Vehicular Networks - with e.g. *the dynamic, autonomic driveless guidance*
 * Cloud Computing - with e.g. *the dynamic provisioning and load-balancing service management*.
 
-## Middleware is Everywhere
-
 ## Hot Research Topics
 
-We concentrate on the software development process, especially on designing programming languages, virtual machines and service-oriented architectures to tackle *- at run time-* the dynamic nature of these environments.
+We concentrate on the software development process, especially on designing **[Middleware](http://en.wikipedia.org/wiki/Middleware)**, including programming languages, virtual machines and service-oriented architectures to tackle *- at run time-* the dynamic nature of these environments:
 
 * Adaptive Virtual Machines
   * Performant

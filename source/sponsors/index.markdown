@@ -39,7 +39,7 @@ footer: false
   <tr>
     <td class="min-size">
       <a href="http://arc.rhonealpes.fr/">{% img no-border /images/sponsors/region-arc.png 200 59 'Rhône Alpes Region' 'Rhône Alpes Region' %}</a><br />
-      <a href="http://arc.rhonealpes.fr/spip.php?rubrique36#28">{% img no-border /images/sponsors/region-arc7.png 200 65 'ARC 7' 'ARC 7' %}</a>
+      <a href="http://arc.rhonealpes.fr/spip.php?rubrique36#28">{% img no-border /images/sponsors/region-arc7.png 200 50 'ARC 7' 'ARC 7' %}</a>
     </td>
     <td class="project-text">
       Measuring Urban Mobility for a Citizenship Service Cartography and Assistance.

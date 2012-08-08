@@ -2,12 +2,12 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://dynamid.github.com
+url: http://dynamid.citi-lab.fr
 title: DynaMid
 subtitle: Middleware for Dynamic Environments
 author: DynaMid Project
 simple_search: http://google.com/search
-description: Middleware
+description: DynaMid Research Project
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in

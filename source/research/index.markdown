@@ -24,7 +24,7 @@ We concentrate on the software development process, especially on designing **[M
   * Performant
   * Multi-tenant
   * Embedded
-  * Run-time Elvolving
+  * Run-time Evolving
 * Autonomous Distributed Architectures and Algorithms
   * Self-* (Healing, Organizing)
   * Scalable

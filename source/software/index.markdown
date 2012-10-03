@@ -1,7 +1,6 @@
 ---
 layout: page
 title: "software"
-date: 2012-10-02 09:40
 comments: false
 sharing: false
 footer: false

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: jvm | DynaMid]]></title>
+  <link href="http://dynamid.github.com/news/categories/jvm/atom.xml" rel="self"/>
+  <link href="http://dynamid.github.com/"/>
+  <updated>2012-10-03T12:06:13+02:00</updated>
+  <id>http://dynamid.github.com/</id>
+  <author>
+    <name><![CDATA[DynaMid Project]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[JooFlux Initial Public Release]]></title>
+    <link href="http://dynamid.github.com/news/2012/10/03/jooflux-initial-public-release/"/>
+    <updated>2012-10-03T12:00:00+02:00</updated>
+    <id>http://dynamid.github.com/news/2012/10/03/jooflux-initial-public-release</id>
+    <content type="html"><![CDATA[<p>The DynaMid members are pleased to announce the initial public release of JooFlux:</p>
+
+<blockquote><p>JooFlux a JVM agent that allows both the dynamic replacement of method implementations and the
+application of aspect advices. Compared to existing approaches, JooFlux takes a novel route by
+taking advantage of the new <code>invokedynamic</code> instruction added in Java SE 7. The runtime overhead of
+JooFlux is marginal for method invocations, and fairly limited when aspects are being injected. In
+any case, JooFlux shows interesting performance compared to related approaches such as AOP tools or
+dynamic languages that rely on dynamic dispatch. More interestingly, JooFlux does not involve
+reloading whole classes on either method replacement or advice injection, which keeps a large range
+of just-in-time compilation optimizations valid.</p></blockquote>
+
+<p>JooFlux r0 can be obtained from <a href="https://github.com/dynamid/jooflux">https://github.com/dynamid/jooflux</a>
+and is made available under the terms of the
+<a href="http://www.mozilla.org/MPL/2.0/">Mozilla Public License Version 2.0</a>.</p>
+
+<p>While further scientific publications are foreseen, we also released a research technical report called
+<a href="http://hal.inria.fr/hal-00737897"><strong>"JooFlux: Hijacking Java 7 InvokeDynamic To Support Live Code Modifications"</strong></a>.
+It is available <a href="http://hal.inria.fr/hal-00737897">on the HAL INRIA open archive</a>, and hopefully soon
+on <a href="http://arxiv.org/">arXiv</a>.</p>
+
+<p>We encourage the wider researchers and practitioners community to report any issue with JooFlux, and
+contribute bug fixes and improvements.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Manipulation de bytecode @ Mix-It, Lyon, France, 2012]]></title>
+    <link href="http://dynamid.github.com/news/2012/04/26/manipulation-de-bytecode-at-mixit-lyon-france-2012/"/>
+    <updated>2012-04-26T13:00:00+02:00</updated>
+    <id>http://dynamid.github.com/news/2012/04/26/manipulation-de-bytecode-at-mixit-lyon-france-2012</id>
+    <content type="html"><![CDATA[<p>Revival talk given - in French - at <a href="http://www.mix-it.fr/session/24/manipulation-de-bytecode-democratisons-la-magie">Mix-It</a> on April, 26 2012.</p>
+
+<script async class="speakerdeck-embed" data-id="4fa0ef1e5f48f70022059a6b" data-ratio="1.7777777777777777" src="http://dynamid.github.com//speakerdeck.com/assets/embed.js"></script>
+
+
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Manipulation de bytecode @ Devoxx France, Paris, 2012]]></title>
+    <link href="http://dynamid.github.com/news/2012/04/19/manipulation-de-bytecode-at-devoxx-france-paris-2012/"/>
+    <updated>2012-04-19T11:30:00+02:00</updated>
+    <id>http://dynamid.github.com/news/2012/04/19/manipulation-de-bytecode-at-devoxx-france-paris-2012</id>
+    <content type="html"><![CDATA[<p>Talk given - in French - at <a href="http://www.devoxx.com/display/FR12/Manipulation+de+bytecode+++democratisons+la+magie+noire">Devoxx France</a> on April, 19 2012. The video is also available <a href="http://www.parleys.com/#st=5&amp;id=3190&amp;sl=95">here</a>.</p>
+
+<script async class="speakerdeck-embed" data-id="4f9014fca54208002201865a" data-ratio="1.7777777777777777" src="http://dynamid.github.com//speakerdeck.com/assets/embed.js"></script>
+
+
+
+]]></content>
+  </entry>
+  
+</feed>

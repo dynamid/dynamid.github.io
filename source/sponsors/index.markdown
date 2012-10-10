@@ -118,18 +118,5 @@ footer: false
       ...
     </td>
   </tr>
-  <tr>
-    <td class="min-size">
-      <a href="/contact">{% img no-border /images/sponsors/sponsor-me.jpg 200 141 'Sponsor Me !' 'Sponsor Me !' %}</a><br />
-    </td>
-    <td class="project-text">
-      Jooflux - a Java agent for dynamic aspect-oriented middleware.
-    </td>
-    <td>2012 -</td>
-    <td>
-      <a href="/people">{% img /images/faces/face-jponge.jpg 50 50 'jponge :-)' 'jponge' %}</a>
-      <a href="/people">{% img /images/faces/face-flemouel.jpg 50 50 'flemouel :-)' 'flemouel' %}</a>
-    </td>
-  </tr>
 </table>
 

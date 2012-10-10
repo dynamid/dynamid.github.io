@@ -2,7 +2,7 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://dynamid.citi-lab.fr
+url: http://dynamid.github.com
 title: DynaMid
 subtitle: Middleware for Dynamic Environments
 author: DynaMid Project

@@ -27,6 +27,7 @@ footer: false
       <a href="http://www.linkedin.com/in/fredericlemouel">{% img no-border /images/social_networking_iconpack/linkedin_32.png "LinedIn" "LinkedIn" %}</a>
       <a href="https://github.com/flemouel">{% img no-border /images/social_networking_iconpack/github_32.png "GitHub" "GitHub" %}</a>
       <a href="http://www.mendeley.com/profiles/frederic-le-mouel/">{% img no-border /images/social_networking_iconpack/mendeley_32.png "Mendeley" "Mendeley" %}</a>
+      <a href="https://www.researchgate.net/profile/Frederic_Le_Mouel/">{% img no-border /images/social_networking_iconpack/researchgate_32.png "ResearchGate" "ResearchGate" %}</a>
     </td>
   </tr>
   <tr>

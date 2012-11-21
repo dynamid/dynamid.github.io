@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[DynaMid]]></title>
-  <link href="http://dynamid.github.com/atom.xml" rel="self"/>
-  <link href="http://dynamid.github.com/"/>
-  <updated>2012-10-03T12:10:54+02:00</updated>
-  <id>http://dynamid.github.com/</id>
+  <link href="http://dynamid.citi-lab.fr/atom.xml" rel="self"/>
+  <link href="http://dynamid.citi-lab.fr/"/>
+  <updated>2012-11-21T11:18:21+01:00</updated>
+  <id>http://dynamid.citi-lab.fr/</id>
   <author>
     <name><![CDATA[DynaMid Project]]></name>
     
@@ -14,10 +14,74 @@
 
   
   <entry>
+    <title type="html"><![CDATA[JooFlux Paper in CFSE 2013]]></title>
+    <link href="http://dynamid.citi-lab.fr/news/2012/11/21/jooflux-paper-in-cfse-2013/"/>
+    <updated>2012-11-21T11:10:00+01:00</updated>
+    <id>http://dynamid.citi-lab.fr/news/2012/11/21/jooflux-paper-in-cfse-2013</id>
+    <content type="html"><![CDATA[<p>We are glad to report that our first peer-reviewed scientific paper
+for <a href="http://github.com/dynamid/jooflux">JooFlux</a> has been accepted
+in the <a href="http://compas2013.inrialpes.fr">CFSE 2013 conference</a>.</p>
+
+<p>CFSE is the top French national conference on operating system research. The program committee
+comprises big names in the field, the kind with proven research and industrial track records, so
+this is definitely a strong achievement for DynaMid.</p>
+
+<p>Our next-step is to take the thoroughly-detailed reviews that we obtained and target a top
+international conference.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Nighthacking]]></title>
+    <link href="http://dynamid.citi-lab.fr/news/2012/11/07/nighthacking/"/>
+    <updated>2012-11-07T10:51:00+01:00</updated>
+    <id>http://dynamid.citi-lab.fr/news/2012/11/07/nighthacking</id>
+    <content type="html"><![CDATA[<p>DynaMid member <a href="http://julien.ponge.info/">Julien Ponge</a> recorded a
+<a href="http://steveonjava.com/nighthacking/">NightHacking session with Stephen Chin from Oracle</a>.</p>
+
+<p>Stephen was doing a tour of Europe before ending at the <a href="http://www.devoxx.com/">Devoxx conference</a>.
+He had a stop in Lyon and the <a href="http://www.lyonjug.org">LyonJUG</a> arranged the interview.</p>
+
+<p>During the 1 hour informal discussion, Julien talked about bytecode manipulation on the JVM
+and even demoed <a href="https://github.com/dynamid/jooflux">JooFlux</a> at one point.</p>
+
+<iframe width="640" height="360" src="http://www.youtube-nocookie.com/embed/Z4nmsG7Bv2M" frameborder="0" allowfullscreen></iframe>
+
+
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[JooFlux in the OTN Java Developer Spotlight]]></title>
+    <link href="http://dynamid.citi-lab.fr/news/2012/10/30/jooflux-in-the-otn-java-developer-spotlight/"/>
+    <updated>2012-10-30T10:36:00+01:00</updated>
+    <id>http://dynamid.citi-lab.fr/news/2012/10/30/jooflux-in-the-otn-java-developer-spotlight</id>
+    <content type="html"><![CDATA[<p>Our project <a href="https://github.com/dynamid/jooflux">JooFlux</a> just made it into the
+<em>Developer Spotlight</em> section of the <a href="http://www.oracle.com/technetwork/java/index.html">Oracle Technology Network</a>!</p>
+
+<p><img src="http://dynamid.citi-lab.fr/images/posts/jooflux-otn-ds.png" title="JooFlux in the OTN Java Developer Spotlight" ></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Frederic Le Mouel participates to Zhang Heng Program in China]]></title>
+    <link href="http://dynamid.citi-lab.fr/news/2012/10/14/frederic-le-mouel-participates-to-zhang-heng-program-in-china/"/>
+    <updated>2012-10-14T17:06:00+02:00</updated>
+    <id>http://dynamid.citi-lab.fr/news/2012/10/14/frederic-le-mouel-participates-to-zhang-heng-program-in-china</id>
+    <content type="html"><![CDATA[<p><a href="http://en.wikipedia.org/wiki/Zhang_Heng"><img class="right" src="http://dynamid.citi-lab.fr/images/zhang_heng.jpg" width="220" height="334" title="Zhang Heng - Chinese astronomer, mathematician, inventor, geographer, cartographer, artist, poet, statesman, and literary scholar" alt="Zhang Heng"></a></p>
+
+<p>Frédéric Le Mouël participates to the Zhang Heng program about &#8220;Smart Cities and Internet of Things&#8221; organized by the French Ministry of Foreign Affairs and particularly the <a href="http://www.ambafrance-cn.org/Le-programme-Zhang-Heng.html?lang=fr" title="">French Embassy in China</a> from October, 14th to 20th.</p>
+
+<p>The program includes visits of Chinese Academy of Sciences, National Natural Science Foundation of China, Beihang University, Shanghai Jiao Tong University, plans discussions and workshops between French and Chinese researchers to initiate project collaborations.</p>
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[JooFlux Initial Public Release]]></title>
-    <link href="http://dynamid.github.com/news/2012/10/03/jooflux-initial-public-release/"/>
+    <link href="http://dynamid.citi-lab.fr/news/2012/10/03/jooflux-initial-public-release/"/>
     <updated>2012-10-03T12:00:00+02:00</updated>
-    <id>http://dynamid.github.com/news/2012/10/03/jooflux-initial-public-release</id>
+    <id>http://dynamid.citi-lab.fr/news/2012/10/03/jooflux-initial-public-release</id>
     <content type="html"><![CDATA[<p>The DynaMid members are pleased to announce the initial public release of JooFlux:</p>
 
 <blockquote><p>JooFlux a JVM agent that allows both the dynamic replacement of method implementations and the
@@ -44,13 +108,30 @@ contribute bug fixes and improvements.</p>
   </entry>
   
   <entry>
+    <title type="html"><![CDATA[Service Computation 2012: Best Paper Award for Nicolas Stouls]]></title>
+    <link href="http://dynamid.citi-lab.fr/news/2012/07/27/service-computation-2012-best-paper-award-for-nicolas-stouls/"/>
+    <updated>2012-07-27T10:25:00+02:00</updated>
+    <id>http://dynamid.citi-lab.fr/news/2012/07/27/service-computation-2012-best-paper-award-for-nicolas-stouls</id>
+    <content type="html"><![CDATA[<p>DynaMid member <a href="http://perso.citi-lab.fr/nstouls/">Nicolas Stouls</a>
+published a paper called
+<a href="http://www.iaria.org/conferences2012/awardsSERVICECOMPUTATION12/servicecomputation2012_a2.pdf">&#8220;A Monitoring Approach for Dynamic Service-Oriented Architecture Systems</a>
+in the <em>The Fourth International Conferences on Advanced Service Computing</em> that was held in Nice last July.</p>
+
+<p>He co-authored this paper with his PhD student Yufang Dan, <a href="http://perso.citi-lab.fr/sfrenot/">Disto head Stéphane Frénot</a>
+and Christian Colombo.</p>
+
+<p>Congratulations to all of them on <a href="http://www.iaria.org/conferences2012/AwardsSERVICECOMPUTATION12.html">getting a best paper award!</a></p>
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[A Monitoring Approach for Dynamic Service-Oriented Architecture Systems @ Service Computation, Nice, France 2012]]></title>
-    <link href="http://dynamid.github.com/news/2012/07/23/a-monitoring-approach-for-dynamic-service-oriented-architecture-systems-at-service-computation-nice-france-2012/"/>
+    <link href="http://dynamid.citi-lab.fr/news/2012/07/23/a-monitoring-approach-for-dynamic-service-oriented-architecture-systems-at-service-computation-nice-france-2012/"/>
     <updated>2012-07-23T14:30:00+02:00</updated>
-    <id>http://dynamid.github.com/news/2012/07/23/a-monitoring-approach-for-dynamic-service-oriented-architecture-systems-at-service-computation-nice-france-2012</id>
+    <id>http://dynamid.citi-lab.fr/news/2012/07/23/a-monitoring-approach-for-dynamic-service-oriented-architecture-systems-at-service-computation-nice-france-2012</id>
     <content type="html"><![CDATA[<p>Talk given at <a href="http://www.iaria.org/conferences2012/SERVICECOMPUTATION12.html">Service Computation</a> on July, 23 2012.</p>
 
-<script async class="speakerdeck-embed" data-id="501798623f8290000203e52f" data-ratio="1.3333333333333333" src="http://dynamid.github.com//speakerdeck.com/assets/embed.js"></script>
+<script async class="speakerdeck-embed" data-id="501798623f8290000203e52f" data-ratio="1.3333333333333333" src="http://dynamid.citi-lab.fr//speakerdeck.com/assets/embed.js"></script>
 
 
 
@@ -59,12 +140,12 @@ contribute bug fixes and improvements.</p>
   
   <entry>
     <title type="html"><![CDATA[An API for Autonomous and Client-side Service Substitution @ Service Computation, Nice, France 2012 ]]></title>
-    <link href="http://dynamid.github.com/news/2012/07/23/an-api-for-autonomous-and-client-side-service-substitution-at-service-computation-nice-france-2012/"/>
+    <link href="http://dynamid.citi-lab.fr/news/2012/07/23/an-api-for-autonomous-and-client-side-service-substitution-at-service-computation-nice-france-2012/"/>
     <updated>2012-07-23T14:00:00+02:00</updated>
-    <id>http://dynamid.github.com/news/2012/07/23/an-api-for-autonomous-and-client-side-service-substitution-at-service-computation-nice-france-2012</id>
+    <id>http://dynamid.citi-lab.fr/news/2012/07/23/an-api-for-autonomous-and-client-side-service-substitution-at-service-computation-nice-france-2012</id>
     <content type="html"><![CDATA[<p>Talk given at <a href="http://www.iaria.org/conferences2012/SERVICECOMPUTATION12.html">Service Computation</a> on July, 23 2012.</p>
 
-<script async class="speakerdeck-embed" data-id="501798c93f8290000203e817" data-ratio="1.3333333333333333" src="http://dynamid.github.com//speakerdeck.com/assets/embed.js"></script>
+<script async class="speakerdeck-embed" data-id="501798c93f8290000203e817" data-ratio="1.3333333333333333" src="http://dynamid.citi-lab.fr//speakerdeck.com/assets/embed.js"></script>
 
 
 
@@ -73,12 +154,12 @@ contribute bug fixes and improvements.</p>
   
   <entry>
     <title type="html"><![CDATA[Manipulation de bytecode @ Mix-It, Lyon, France, 2012]]></title>
-    <link href="http://dynamid.github.com/news/2012/04/26/manipulation-de-bytecode-at-mixit-lyon-france-2012/"/>
+    <link href="http://dynamid.citi-lab.fr/news/2012/04/26/manipulation-de-bytecode-at-mixit-lyon-france-2012/"/>
     <updated>2012-04-26T13:00:00+02:00</updated>
-    <id>http://dynamid.github.com/news/2012/04/26/manipulation-de-bytecode-at-mixit-lyon-france-2012</id>
+    <id>http://dynamid.citi-lab.fr/news/2012/04/26/manipulation-de-bytecode-at-mixit-lyon-france-2012</id>
     <content type="html"><![CDATA[<p>Revival talk given - in French - at <a href="http://www.mix-it.fr/session/24/manipulation-de-bytecode-democratisons-la-magie">Mix-It</a> on April, 26 2012.</p>
 
-<script async class="speakerdeck-embed" data-id="4fa0ef1e5f48f70022059a6b" data-ratio="1.7777777777777777" src="http://dynamid.github.com//speakerdeck.com/assets/embed.js"></script>
+<script async class="speakerdeck-embed" data-id="4fa0ef1e5f48f70022059a6b" data-ratio="1.7777777777777777" src="http://dynamid.citi-lab.fr//speakerdeck.com/assets/embed.js"></script>
 
 
 
@@ -87,12 +168,12 @@ contribute bug fixes and improvements.</p>
   
   <entry>
     <title type="html"><![CDATA[Manipulation de bytecode @ Devoxx France, Paris, 2012]]></title>
-    <link href="http://dynamid.github.com/news/2012/04/19/manipulation-de-bytecode-at-devoxx-france-paris-2012/"/>
+    <link href="http://dynamid.citi-lab.fr/news/2012/04/19/manipulation-de-bytecode-at-devoxx-france-paris-2012/"/>
     <updated>2012-04-19T11:30:00+02:00</updated>
-    <id>http://dynamid.github.com/news/2012/04/19/manipulation-de-bytecode-at-devoxx-france-paris-2012</id>
+    <id>http://dynamid.citi-lab.fr/news/2012/04/19/manipulation-de-bytecode-at-devoxx-france-paris-2012</id>
     <content type="html"><![CDATA[<p>Talk given - in French - at <a href="http://www.devoxx.com/display/FR12/Manipulation+de+bytecode+++democratisons+la+magie+noire">Devoxx France</a> on April, 19 2012. The video is also available <a href="http://www.parleys.com/#st=5&amp;id=3190&amp;sl=95">here</a>.</p>
 
-<script async class="speakerdeck-embed" data-id="4f9014fca54208002201865a" data-ratio="1.7777777777777777" src="http://dynamid.github.com//speakerdeck.com/assets/embed.js"></script>
+<script async class="speakerdeck-embed" data-id="4f9014fca54208002201865a" data-ratio="1.7777777777777777" src="http://dynamid.citi-lab.fr//speakerdeck.com/assets/embed.js"></script>
 
 
 

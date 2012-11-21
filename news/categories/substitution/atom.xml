@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: substitution | DynaMid]]></title>
-  <link href="http://dynamid.github.com/news/categories/substitution/atom.xml" rel="self"/>
-  <link href="http://dynamid.github.com/"/>
-  <updated>2012-10-03T12:10:54+02:00</updated>
-  <id>http://dynamid.github.com/</id>
+  <link href="http://dynamid.citi-lab.fr/news/categories/substitution/atom.xml" rel="self"/>
+  <link href="http://dynamid.citi-lab.fr/"/>
+  <updated>2012-11-21T11:18:24+01:00</updated>
+  <id>http://dynamid.citi-lab.fr/</id>
   <author>
     <name><![CDATA[DynaMid Project]]></name>
     
@@ -15,12 +15,12 @@
   
   <entry>
     <title type="html"><![CDATA[An API for Autonomous and Client-side Service Substitution @ Service Computation, Nice, France 2012 ]]></title>
-    <link href="http://dynamid.github.com/news/2012/07/23/an-api-for-autonomous-and-client-side-service-substitution-at-service-computation-nice-france-2012/"/>
+    <link href="http://dynamid.citi-lab.fr/news/2012/07/23/an-api-for-autonomous-and-client-side-service-substitution-at-service-computation-nice-france-2012/"/>
     <updated>2012-07-23T14:00:00+02:00</updated>
-    <id>http://dynamid.github.com/news/2012/07/23/an-api-for-autonomous-and-client-side-service-substitution-at-service-computation-nice-france-2012</id>
+    <id>http://dynamid.citi-lab.fr/news/2012/07/23/an-api-for-autonomous-and-client-side-service-substitution-at-service-computation-nice-france-2012</id>
     <content type="html"><![CDATA[<p>Talk given at <a href="http://www.iaria.org/conferences2012/SERVICECOMPUTATION12.html">Service Computation</a> on July, 23 2012.</p>
 
-<script async class="speakerdeck-embed" data-id="501798c93f8290000203e817" data-ratio="1.3333333333333333" src="http://dynamid.github.com//speakerdeck.com/assets/embed.js"></script>
+<script async class="speakerdeck-embed" data-id="501798c93f8290000203e817" data-ratio="1.3333333333333333" src="http://dynamid.citi-lab.fr//speakerdeck.com/assets/embed.js"></script>
 
 
 

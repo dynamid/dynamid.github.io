@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: publication | DynaMid]]></title>
-  <link href="http://dynamid.github.com/news/categories/publication/atom.xml" rel="self"/>
-  <link href="http://dynamid.github.com/"/>
-  <updated>2012-10-03T12:10:54+02:00</updated>
-  <id>http://dynamid.github.com/</id>
+  <link href="http://dynamid.citi-lab.fr/news/categories/publication/atom.xml" rel="self"/>
+  <link href="http://dynamid.citi-lab.fr/"/>
+  <updated>2012-11-21T11:18:24+01:00</updated>
+  <id>http://dynamid.citi-lab.fr/</id>
   <author>
     <name><![CDATA[DynaMid Project]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[JooFlux Initial Public Release]]></title>
-    <link href="http://dynamid.github.com/news/2012/10/03/jooflux-initial-public-release/"/>
+    <link href="http://dynamid.citi-lab.fr/news/2012/10/03/jooflux-initial-public-release/"/>
     <updated>2012-10-03T12:00:00+02:00</updated>
-    <id>http://dynamid.github.com/news/2012/10/03/jooflux-initial-public-release</id>
+    <id>http://dynamid.citi-lab.fr/news/2012/10/03/jooflux-initial-public-release</id>
     <content type="html"><![CDATA[<p>The DynaMid members are pleased to announce the initial public release of JooFlux:</p>
 
 <blockquote><p>JooFlux a JVM agent that allows both the dynamic replacement of method implementations and the

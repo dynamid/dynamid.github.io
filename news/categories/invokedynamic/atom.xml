@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: invokedynamic | DynaMid]]></title>
-  <link href="http://dynamid.github.com/news/categories/invokedynamic/atom.xml" rel="self"/>
-  <link href="http://dynamid.github.com/"/>
-  <updated>2012-10-03T12:10:54+02:00</updated>
-  <id>http://dynamid.github.com/</id>
+  <link href="http://dynamid.citi-lab.fr/news/categories/invokedynamic/atom.xml" rel="self"/>
+  <link href="http://dynamid.citi-lab.fr/"/>
+  <updated>2012-11-21T11:18:24+01:00</updated>
+  <id>http://dynamid.citi-lab.fr/</id>
   <author>
     <name><![CDATA[DynaMid Project]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[JooFlux Initial Public Release]]></title>
-    <link href="http://dynamid.github.com/news/2012/10/03/jooflux-initial-public-release/"/>
+    <link href="http://dynamid.citi-lab.fr/news/2012/10/03/jooflux-initial-public-release/"/>
     <updated>2012-10-03T12:00:00+02:00</updated>
-    <id>http://dynamid.github.com/news/2012/10/03/jooflux-initial-public-release</id>
+    <id>http://dynamid.citi-lab.fr/news/2012/10/03/jooflux-initial-public-release</id>
     <content type="html"><![CDATA[<p>The DynaMid members are pleased to announce the initial public release of JooFlux:</p>
 
 <blockquote><p>JooFlux a JVM agent that allows both the dynamic replacement of method implementations and the
@@ -45,12 +45,12 @@ contribute bug fixes and improvements.</p>
   
   <entry>
     <title type="html"><![CDATA[Manipulation de bytecode @ Mix-It, Lyon, France, 2012]]></title>
-    <link href="http://dynamid.github.com/news/2012/04/26/manipulation-de-bytecode-at-mixit-lyon-france-2012/"/>
+    <link href="http://dynamid.citi-lab.fr/news/2012/04/26/manipulation-de-bytecode-at-mixit-lyon-france-2012/"/>
     <updated>2012-04-26T13:00:00+02:00</updated>
-    <id>http://dynamid.github.com/news/2012/04/26/manipulation-de-bytecode-at-mixit-lyon-france-2012</id>
+    <id>http://dynamid.citi-lab.fr/news/2012/04/26/manipulation-de-bytecode-at-mixit-lyon-france-2012</id>
     <content type="html"><![CDATA[<p>Revival talk given - in French - at <a href="http://www.mix-it.fr/session/24/manipulation-de-bytecode-democratisons-la-magie">Mix-It</a> on April, 26 2012.</p>
 
-<script async class="speakerdeck-embed" data-id="4fa0ef1e5f48f70022059a6b" data-ratio="1.7777777777777777" src="http://dynamid.github.com//speakerdeck.com/assets/embed.js"></script>
+<script async class="speakerdeck-embed" data-id="4fa0ef1e5f48f70022059a6b" data-ratio="1.7777777777777777" src="http://dynamid.citi-lab.fr//speakerdeck.com/assets/embed.js"></script>
 
 
 
@@ -59,12 +59,12 @@ contribute bug fixes and improvements.</p>
   
   <entry>
     <title type="html"><![CDATA[Manipulation de bytecode @ Devoxx France, Paris, 2012]]></title>
-    <link href="http://dynamid.github.com/news/2012/04/19/manipulation-de-bytecode-at-devoxx-france-paris-2012/"/>
+    <link href="http://dynamid.citi-lab.fr/news/2012/04/19/manipulation-de-bytecode-at-devoxx-france-paris-2012/"/>
     <updated>2012-04-19T11:30:00+02:00</updated>
-    <id>http://dynamid.github.com/news/2012/04/19/manipulation-de-bytecode-at-devoxx-france-paris-2012</id>
+    <id>http://dynamid.citi-lab.fr/news/2012/04/19/manipulation-de-bytecode-at-devoxx-france-paris-2012</id>
     <content type="html"><![CDATA[<p>Talk given - in French - at <a href="http://www.devoxx.com/display/FR12/Manipulation+de+bytecode+++democratisons+la+magie+noire">Devoxx France</a> on April, 19 2012. The video is also available <a href="http://www.parleys.com/#st=5&amp;id=3190&amp;sl=95">here</a>.</p>
 
-<script async class="speakerdeck-embed" data-id="4f9014fca54208002201865a" data-ratio="1.7777777777777777" src="http://dynamid.github.com//speakerdeck.com/assets/embed.js"></script>
+<script async class="speakerdeck-embed" data-id="4f9014fca54208002201865a" data-ratio="1.7777777777777777" src="http://dynamid.citi-lab.fr//speakerdeck.com/assets/embed.js"></script>
 
 
 

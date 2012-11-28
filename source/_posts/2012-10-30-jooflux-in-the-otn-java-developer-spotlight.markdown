@@ -3,7 +3,7 @@ layout: post
 title: "JooFlux in the OTN Java Developer Spotlight"
 date: 2012-10-30 10:36
 comments: true
-categories: 
+categories: jooflux java jvm invokedynamic
 ---
 
 Our project [JooFlux](https://github.com/dynamid/jooflux) just made it into the

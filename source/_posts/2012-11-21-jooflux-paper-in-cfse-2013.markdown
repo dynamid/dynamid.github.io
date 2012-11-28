@@ -3,7 +3,7 @@ layout: post
 title: "JooFlux Paper in CFSE 2013"
 date: 2012-11-21 11:10
 comments: true
-categories: 
+categories: jooflux java jvm invokedynamic publication conference aop
 ---
 
 We are glad to report that our first peer-reviewed scientific paper

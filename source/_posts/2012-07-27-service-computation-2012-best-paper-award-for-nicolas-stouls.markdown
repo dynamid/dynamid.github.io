@@ -3,7 +3,7 @@ layout: post
 title: "Service Computation 2012: Best Paper Award for Nicolas Stouls"
 date: 2012-07-27 10:25
 comments: true
-categories: 
+categories: osgi self-healing-software stale-references substitution award
 ---
 
 DynaMid member [Nicolas Stouls](http://perso.citi-lab.fr/nstouls/)

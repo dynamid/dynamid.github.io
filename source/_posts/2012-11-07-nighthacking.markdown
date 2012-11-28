@@ -3,7 +3,7 @@ layout: post
 title: "Nighthacking"
 date: 2012-11-07 10:51
 comments: true
-categories: 
+categories: talk jooflux java jvm invokedynamic video
 ---
 
 DynaMid member [Julien Ponge](http://julien.ponge.info/) recorded a

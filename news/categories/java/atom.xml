@@ -4,7 +4,7 @@
   <title><![CDATA[Category: java | DynaMid]]></title>
   <link href="http://dynamid.citi-lab.fr/news/categories/java/atom.xml" rel="self"/>
   <link href="http://dynamid.citi-lab.fr/"/>
-  <updated>2012-11-21T11:18:24+01:00</updated>
+  <updated>2012-11-28T17:43:45+01:00</updated>
   <id>http://dynamid.citi-lab.fr/</id>
   <author>
     <name><![CDATA[DynaMid Project]]></name>
@@ -12,6 +12,57 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[JooFlux Paper in CFSE 2013]]></title>
+    <link href="http://dynamid.citi-lab.fr/news/2012/11/21/jooflux-paper-in-cfse-2013/"/>
+    <updated>2012-11-21T11:10:00+01:00</updated>
+    <id>http://dynamid.citi-lab.fr/news/2012/11/21/jooflux-paper-in-cfse-2013</id>
+    <content type="html"><![CDATA[<p>We are glad to report that our first peer-reviewed scientific paper
+for <a href="http://github.com/dynamid/jooflux">JooFlux</a> has been accepted
+in the <a href="http://compas2013.inrialpes.fr">CFSE 2013 conference</a>.</p>
+
+<p>CFSE is the top French national conference on operating system research. The program committee
+comprises big names in the field, the kind with proven research and industrial track records, so
+this is definitely a strong achievement for DynaMid.</p>
+
+<p>Our next-step is to take the thoroughly-detailed reviews that we obtained and target a top
+international conference.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Nighthacking]]></title>
+    <link href="http://dynamid.citi-lab.fr/news/2012/11/07/nighthacking/"/>
+    <updated>2012-11-07T10:51:00+01:00</updated>
+    <id>http://dynamid.citi-lab.fr/news/2012/11/07/nighthacking</id>
+    <content type="html"><![CDATA[<p>DynaMid member <a href="http://julien.ponge.info/">Julien Ponge</a> recorded a
+<a href="http://steveonjava.com/nighthacking/">NightHacking session with Stephen Chin from Oracle</a>.</p>
+
+<p>Stephen was doing a tour of Europe before ending at the <a href="http://www.devoxx.com/">Devoxx conference</a>.
+He had a stop in Lyon and the <a href="http://www.lyonjug.org">LyonJUG</a> arranged the interview.</p>
+
+<p>During the 1 hour informal discussion, Julien talked about bytecode manipulation on the JVM
+and even demoed <a href="https://github.com/dynamid/jooflux">JooFlux</a> at one point.</p>
+
+<iframe width="640" height="360" src="http://www.youtube-nocookie.com/embed/Z4nmsG7Bv2M" frameborder="0" allowfullscreen></iframe>
+
+
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[JooFlux in the OTN Java Developer Spotlight]]></title>
+    <link href="http://dynamid.citi-lab.fr/news/2012/10/30/jooflux-in-the-otn-java-developer-spotlight/"/>
+    <updated>2012-10-30T10:36:00+01:00</updated>
+    <id>http://dynamid.citi-lab.fr/news/2012/10/30/jooflux-in-the-otn-java-developer-spotlight</id>
+    <content type="html"><![CDATA[<p>Our project <a href="https://github.com/dynamid/jooflux">JooFlux</a> just made it into the
+<em>Developer Spotlight</em> section of the <a href="http://www.oracle.com/technetwork/java/index.html">Oracle Technology Network</a>!</p>
+
+<p><img src="/images/posts/jooflux-otn-ds.png" title="JooFlux in the OTN Java Developer Spotlight" ></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[JooFlux Initial Public Release]]></title>
@@ -51,20 +102,6 @@ contribute bug fixes and improvements.</p>
     <content type="html"><![CDATA[<p>Revival talk given - in French - at <a href="http://www.mix-it.fr/session/24/manipulation-de-bytecode-democratisons-la-magie">Mix-It</a> on April, 26 2012.</p>
 
 <script async class="speakerdeck-embed" data-id="4fa0ef1e5f48f70022059a6b" data-ratio="1.7777777777777777" src="http://dynamid.citi-lab.fr//speakerdeck.com/assets/embed.js"></script>
-
-
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Manipulation de bytecode @ Devoxx France, Paris, 2012]]></title>
-    <link href="http://dynamid.citi-lab.fr/news/2012/04/19/manipulation-de-bytecode-at-devoxx-france-paris-2012/"/>
-    <updated>2012-04-19T11:30:00+02:00</updated>
-    <id>http://dynamid.citi-lab.fr/news/2012/04/19/manipulation-de-bytecode-at-devoxx-france-paris-2012</id>
-    <content type="html"><![CDATA[<p>Talk given - in French - at <a href="http://www.devoxx.com/display/FR12/Manipulation+de+bytecode+++democratisons+la+magie+noire">Devoxx France</a> on April, 19 2012. The video is also available <a href="http://www.parleys.com/#st=5&amp;id=3190&amp;sl=95">here</a>.</p>
-
-<script async class="speakerdeck-embed" data-id="4f9014fca54208002201865a" data-ratio="1.7777777777777777" src="http://dynamid.citi-lab.fr//speakerdeck.com/assets/embed.js"></script>
 
 
 

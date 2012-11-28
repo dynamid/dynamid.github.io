@@ -4,7 +4,7 @@
   <title><![CDATA[Category: talk | DynaMid]]></title>
   <link href="http://dynamid.citi-lab.fr/news/categories/talk/atom.xml" rel="self"/>
   <link href="http://dynamid.citi-lab.fr/"/>
-  <updated>2012-11-21T11:18:24+01:00</updated>
+  <updated>2012-11-28T17:43:45+01:00</updated>
   <id>http://dynamid.citi-lab.fr/</id>
   <author>
     <name><![CDATA[DynaMid Project]]></name>
@@ -12,6 +12,27 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Nighthacking]]></title>
+    <link href="http://dynamid.citi-lab.fr/news/2012/11/07/nighthacking/"/>
+    <updated>2012-11-07T10:51:00+01:00</updated>
+    <id>http://dynamid.citi-lab.fr/news/2012/11/07/nighthacking</id>
+    <content type="html"><![CDATA[<p>DynaMid member <a href="http://julien.ponge.info/">Julien Ponge</a> recorded a
+<a href="http://steveonjava.com/nighthacking/">NightHacking session with Stephen Chin from Oracle</a>.</p>
+
+<p>Stephen was doing a tour of Europe before ending at the <a href="http://www.devoxx.com/">Devoxx conference</a>.
+He had a stop in Lyon and the <a href="http://www.lyonjug.org">LyonJUG</a> arranged the interview.</p>
+
+<p>During the 1 hour informal discussion, Julien talked about bytecode manipulation on the JVM
+and even demoed <a href="https://github.com/dynamid/jooflux">JooFlux</a> at one point.</p>
+
+<iframe width="640" height="360" src="http://www.youtube-nocookie.com/embed/Z4nmsG7Bv2M" frameborder="0" allowfullscreen></iframe>
+
+
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[A Monitoring Approach for Dynamic Service-Oriented Architecture Systems @ Service Computation, Nice, France 2012]]></title>

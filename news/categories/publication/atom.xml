@@ -4,7 +4,7 @@
   <title><![CDATA[Category: publication | DynaMid]]></title>
   <link href="http://dynamid.citi-lab.fr/news/categories/publication/atom.xml" rel="self"/>
   <link href="http://dynamid.citi-lab.fr/"/>
-  <updated>2012-11-21T11:18:24+01:00</updated>
+  <updated>2012-11-28T17:43:45+01:00</updated>
   <id>http://dynamid.citi-lab.fr/</id>
   <author>
     <name><![CDATA[DynaMid Project]]></name>
@@ -12,6 +12,24 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[JooFlux Paper in CFSE 2013]]></title>
+    <link href="http://dynamid.citi-lab.fr/news/2012/11/21/jooflux-paper-in-cfse-2013/"/>
+    <updated>2012-11-21T11:10:00+01:00</updated>
+    <id>http://dynamid.citi-lab.fr/news/2012/11/21/jooflux-paper-in-cfse-2013</id>
+    <content type="html"><![CDATA[<p>We are glad to report that our first peer-reviewed scientific paper
+for <a href="http://github.com/dynamid/jooflux">JooFlux</a> has been accepted
+in the <a href="http://compas2013.inrialpes.fr">CFSE 2013 conference</a>.</p>
+
+<p>CFSE is the top French national conference on operating system research. The program committee
+comprises big names in the field, the kind with proven research and industrial track records, so
+this is definitely a strong achievement for DynaMid.</p>
+
+<p>Our next-step is to take the thoroughly-detailed reviews that we obtained and target a top
+international conference.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[JooFlux Initial Public Release]]></title>

@@ -3,7 +3,7 @@ layout: post
 title: "An API for Autonomous and Client-side Service Substitution @ Service Computation, Nice, France 2012 "
 date: 2012-07-23 14:00
 comments: true
-categories: talk osgi stale-references substitution self-healing-software
+categories: talk osgi stale-references substitution self-healing-software soa
 ---
 
 Talk given at [Service Computation](http://www.iaria.org/conferences2012/SERVICECOMPUTATION12.html) on July, 23 2012. 

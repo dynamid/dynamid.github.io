@@ -39,7 +39,7 @@ footer: false
   <tr>
     <td class="min-size">
       <a href="http://arc.rhonealpes.fr/">{% img no-border /images/sponsors/region-arc.png 200 59 'Rhône Alpes Region' 'Rhône Alpes Region' %}</a><br />
-      <a href="http://arc.rhonealpes.fr/spip.php?rubrique36#28">{% img no-border /images/sponsors/region-arc7.png 200 50 'ARC 7' 'ARC 7' %}</a>
+      <a href="http://www.arc7-territoires-mobilites.rhonealpes.fr">{% img no-border /images/sponsors/region-arc7.png 200 50 'ARC 7' 'ARC 7' %}</a>
     </td>
     <td class="project-text">
       Measuring Urban Mobility for a Citizenship Service Cartography and Assistance.
@@ -104,18 +104,6 @@ footer: false
       <a href="/people">{% img /images/faces/face-ydan.jpg 50 50 'ydan :-)' 'ydan' %}</a>
       <a href="/people">{% img /images/faces/face-nstouls.jpg 50 50 'nstouls :-)' 'nstouls' %}</a>
       <a href="http://perso.citi.insa-lyon.fr/sfrenot/">{% img /images/faces/face-sfrenot.jpg 50 50 'sfrenot :-)' 'sfrenot' %}</a>
-    </td>
-  </tr>
-  <tr>
-    <td class="min-size">
-      ...
-    </td>
-    <td class="project-text">
-      ...
-    </td>
-    <td>...</td>
-    <td>
-      ...
     </td>
   </tr>
 </table>

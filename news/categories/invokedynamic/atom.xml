@@ -4,7 +4,7 @@
   <title><![CDATA[Category: invokedynamic | DynaMid]]></title>
   <link href="http://dynamid.citi-lab.fr/news/categories/invokedynamic/atom.xml" rel="self"/>
   <link href="http://dynamid.citi-lab.fr/"/>
-  <updated>2012-11-28T17:43:45+01:00</updated>
+  <updated>2013-01-24T07:28:21+01:00</updated>
   <id>http://dynamid.citi-lab.fr/</id>
   <author>
     <name><![CDATA[DynaMid Project]]></name>
@@ -60,7 +60,7 @@ and even demoed <a href="https://github.com/dynamid/jooflux">JooFlux</a> at one 
     <content type="html"><![CDATA[<p>Our project <a href="https://github.com/dynamid/jooflux">JooFlux</a> just made it into the
 <em>Developer Spotlight</em> section of the <a href="http://www.oracle.com/technetwork/java/index.html">Oracle Technology Network</a>!</p>
 
-<p><img src="/images/posts/jooflux-otn-ds.png" title="JooFlux in the OTN Java Developer Spotlight" ></p>
+<p>{% img /images/posts/jooflux-otn-ds.png JooFlux in the OTN Java Developer Spotlight %}</p>
 ]]></content>
   </entry>
   

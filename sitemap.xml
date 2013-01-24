@@ -16,7 +16,7 @@
         <loc>
             http://dynamid.citi-lab.fr/news/2012/07/23/an-api-for-autonomous-and-client-side-service-substitution-at-service-computation-nice-france-2012/
         </loc>
-        <lastmod>2012-11-28T17:42:17+01:00</lastmod>
+        <lastmod>2013-01-24T07:20:28+01:00</lastmod>
     </url>
     <url>
         <loc>
@@ -28,7 +28,7 @@
         <loc>
             http://dynamid.citi-lab.fr/news/2012/07/27/service-computation-2012-best-paper-award-for-nicolas-stouls/
         </loc>
-        <lastmod>2012-11-28T17:42:17+01:00</lastmod>
+        <lastmod>2013-01-24T07:20:28+01:00</lastmod>
     </url>
     <url>
         <loc>http://dynamid.citi-lab.fr/news/2012/10/03/jooflux-initial-public-release/</loc>
@@ -55,6 +55,16 @@
         <lastmod>2012-11-28T17:42:17+01:00</lastmod>
     </url>
     <url>
+        <loc>
+            http://dynamid.citi-lab.fr/news/2012/11/28/smartphone-gateway-poster-in-cfse-2013/
+        </loc>
+        <lastmod>2013-01-24T07:20:28+01:00</lastmod>
+    </url>
+    <url>
+        <loc>http://dynamid.citi-lab.fr/news/2013/01/24/jooflux-at-compas-2013/</loc>
+        <lastmod>2013-01-24T07:28:20+01:00</lastmod>
+    </url>
+    <url>
         <loc>http://dynamid.citi-lab.fr/about/</loc>
         <lastmod>2012-11-28T17:42:17+01:00</lastmod>
     </url>
@@ -64,7 +74,7 @@
     </url>
     <url>
         <loc>http://dynamid.citi-lab.fr/</loc>
-        <lastmod>2012-11-28T17:42:17+01:00</lastmod>
+        <lastmod>2013-01-24T07:28:20+01:00</lastmod>
     </url>
     <url>
         <loc>http://dynamid.citi-lab.fr/legal/</loc>
@@ -72,7 +82,7 @@
     </url>
     <url>
         <loc>http://dynamid.citi-lab.fr/news/archives/</loc>
-        <lastmod>2012-11-28T17:42:17+01:00</lastmod>
+        <lastmod>2013-01-24T07:28:20+01:00</lastmod>
     </url>
     <url>
         <loc>http://dynamid.citi-lab.fr/people/</loc>
@@ -92,6 +102,6 @@
     </url>
     <url>
         <loc>http://dynamid.citi-lab.fr/sponsors/</loc>
-        <lastmod>2012-11-28T17:42:17+01:00</lastmod>
+        <lastmod>2013-01-24T07:20:28+01:00</lastmod>
     </url>
 </urlset>

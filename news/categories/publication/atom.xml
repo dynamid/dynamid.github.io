@@ -4,7 +4,7 @@
   <title><![CDATA[Category: publication | DynaMid]]></title>
   <link href="http://dynamid.citi-lab.fr/news/categories/publication/atom.xml" rel="self"/>
   <link href="http://dynamid.citi-lab.fr/"/>
-  <updated>2013-01-24T07:28:21+01:00</updated>
+  <updated>2013-01-28T10:43:23+01:00</updated>
   <id>http://dynamid.citi-lab.fr/</id>
   <author>
     <name><![CDATA[DynaMid Project]]></name>
@@ -12,6 +12,25 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Demystifying invokedynamic in Oracle Java Magazine]]></title>
+    <link href="http://dynamid.citi-lab.fr/news/2013/01/28/demystifying-invokedynamic-in-oracle-java-magazine/"/>
+    <updated>2013-01-28T10:31:00+01:00</updated>
+    <id>http://dynamid.citi-lab.fr/news/2013/01/28/demystifying-invokedynamic-in-oracle-java-magazine</id>
+    <content type="html"><![CDATA[<p><a href="http://julien.ponge.info/">Julien Ponge</a> wrote an article called
+<a href="http://www.oraclejavamagazine-digital.com/javamagazine/20130102#pg50">"Demystifying invokedynamic"</a>
+for the latest edition of Oracle Java Magazine (free subscription).</p>
+
+<p>The article is a gentle introduction to <code>invokedynamic</code>, the addition to the Java virtual machine
+for improving the implementation of dynamic languages on top of the JVM.</p>
+
+<p>Last but not least, it was reviewed by <a href="https://twitter.com/lagergren">Marcus Lagergren</a> of JRockit
+fame who currently works on <a href="http://openjdk.java.net/projects/nashorn/">Nashorn</a>.</p>
+
+<p><img src="/images/posts/indy-javamag.png" title="Demystifying invokedynamic in Oracle Java Magazine" ></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[JooFlux at ComPAS 2013]]></title>

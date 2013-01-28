@@ -4,7 +4,7 @@
   <title><![CDATA[Category: invokedynamic | DynaMid]]></title>
   <link href="http://dynamid.citi-lab.fr/news/categories/invokedynamic/atom.xml" rel="self"/>
   <link href="http://dynamid.citi-lab.fr/"/>
-  <updated>2013-01-24T07:28:21+01:00</updated>
+  <updated>2013-01-28T10:43:23+01:00</updated>
   <id>http://dynamid.citi-lab.fr/</id>
   <author>
     <name><![CDATA[DynaMid Project]]></name>
@@ -12,6 +12,25 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Demystifying invokedynamic in Oracle Java Magazine]]></title>
+    <link href="http://dynamid.citi-lab.fr/news/2013/01/28/demystifying-invokedynamic-in-oracle-java-magazine/"/>
+    <updated>2013-01-28T10:31:00+01:00</updated>
+    <id>http://dynamid.citi-lab.fr/news/2013/01/28/demystifying-invokedynamic-in-oracle-java-magazine</id>
+    <content type="html"><![CDATA[<p><a href="http://julien.ponge.info/">Julien Ponge</a> wrote an article called
+<a href="http://www.oraclejavamagazine-digital.com/javamagazine/20130102#pg50">"Demystifying invokedynamic"</a>
+for the latest edition of Oracle Java Magazine (free subscription).</p>
+
+<p>The article is a gentle introduction to <code>invokedynamic</code>, the addition to the Java virtual machine
+for improving the implementation of dynamic languages on top of the JVM.</p>
+
+<p>Last but not least, it was reviewed by <a href="https://twitter.com/lagergren">Marcus Lagergren</a> of JRockit
+fame who currently works on <a href="http://openjdk.java.net/projects/nashorn/">Nashorn</a>.</p>
+
+<p><img src="/images/posts/indy-javamag.png" title="Demystifying invokedynamic in Oracle Java Magazine" ></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[JooFlux Paper in CFSE 2013]]></title>
@@ -60,7 +79,7 @@ and even demoed <a href="https://github.com/dynamid/jooflux">JooFlux</a> at one 
     <content type="html"><![CDATA[<p>Our project <a href="https://github.com/dynamid/jooflux">JooFlux</a> just made it into the
 <em>Developer Spotlight</em> section of the <a href="http://www.oracle.com/technetwork/java/index.html">Oracle Technology Network</a>!</p>
 
-<p>{% img /images/posts/jooflux-otn-ds.png JooFlux in the OTN Java Developer Spotlight %}</p>
+<p><img src="/images/posts/jooflux-otn-ds.png" title="JooFlux in the OTN Java Developer Spotlight" ></p>
 ]]></content>
   </entry>
   
@@ -91,20 +110,6 @@ on <a href="http://arxiv.org/">arXiv</a>.</p>
 
 <p>We encourage the wider researchers and practitioners community to report any issue with JooFlux, and
 contribute bug fixes and improvements.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Manipulation de bytecode @ Mix-It, Lyon, France, 2012]]></title>
-    <link href="http://dynamid.citi-lab.fr/news/2012/04/26/manipulation-de-bytecode-at-mixit-lyon-france-2012/"/>
-    <updated>2012-04-26T13:00:00+02:00</updated>
-    <id>http://dynamid.citi-lab.fr/news/2012/04/26/manipulation-de-bytecode-at-mixit-lyon-france-2012</id>
-    <content type="html"><![CDATA[<p>Revival talk given - in French - at <a href="http://www.mix-it.fr/session/24/manipulation-de-bytecode-democratisons-la-magie">Mix-It</a> on April, 26 2012.</p>
-
-<script async class="speakerdeck-embed" data-id="4fa0ef1e5f48f70022059a6b" data-ratio="1.7777777777777777" src="http://dynamid.citi-lab.fr//speakerdeck.com/assets/embed.js"></script>
-
-
-
 ]]></content>
   </entry>
   

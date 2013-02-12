@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JooFlux at ComPAS 2013"
+title: "JooFlux @ ComPAS, Grenoble, 2013"
 date: 2013-01-24 07:21
 comments: true
 categories: conference java jooflux jvm publication talk
@@ -19,3 +19,7 @@ Here are the slides, in French:
 
 <script async class="speakerdeck-embed" data-id="4a45b240420f0130e26112313d241d5f" data-ratio="1.2994923857868" src="//speakerdeck.com/assets/embed.js"></script>
 
+{% img  /images/conferences/ComPAS-CFSE2013/P1040469.jpg %}
+{% img  /images/conferences/ComPAS-CFSE2013/P1040471.jpg %}
+{% img  /images/conferences/ComPAS-CFSE2013/P1040476.jpg %}
+{% img  /images/conferences/ComPAS-CFSE2013/P1040478.jpg %}

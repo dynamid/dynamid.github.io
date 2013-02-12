@@ -10,3 +10,6 @@ Revival talk given - in French - at [Mix-It](http://www.mix-it.fr/session/24/man
 
 <script async class="speakerdeck-embed" data-id="4fa0ef1e5f48f70022059a6b" data-ratio="1.7777777777777777" src="//speakerdeck.com/assets/embed.js"></script>
 
+{% img  /images/conferences/MixIT2012/MixIT2012-1.jpg %}
+{% img  /images/conferences/MixIT2012/MixIT2012-2.jpg %}
+

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JooFlux Paper in CFSE 2013"
+title: "JooFlux @ CFSE, Grenoble, 2013"
 date: 2012-11-21 11:10
 comments: true
 categories: jooflux java jvm invokedynamic publication conference aop
@@ -16,4 +16,11 @@ this is definitely a strong achievement for DynaMid.
 
 Our next-step is to take the thoroughly-detailed reviews that we obtained and target a top
 international conference.
+
+<script async class="speakerdeck-embed" data-id="4a45b240420f0130e26112313d241d5f" data-ratio="1.2994923857868" src="//speakerdeck.com/assets/embed.js"></script>
+
+{% img  /images/conferences/ComPAS-CFSE2013/P1040469.jpg %}
+{% img  /images/conferences/ComPAS-CFSE2013/P1040471.jpg %}
+{% img  /images/conferences/ComPAS-CFSE2013/P1040476.jpg %}
+{% img  /images/conferences/ComPAS-CFSE2013/P1040478.jpg %}
 

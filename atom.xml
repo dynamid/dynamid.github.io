@@ -4,7 +4,7 @@
   <title><![CDATA[DynaMid]]></title>
   <link href="http://dynamid.citi-lab.fr/atom.xml" rel="self"/>
   <link href="http://dynamid.citi-lab.fr/"/>
-  <updated>2013-01-28T10:43:23+01:00</updated>
+  <updated>2013-02-19T15:13:41+01:00</updated>
   <id>http://dynamid.citi-lab.fr/</id>
   <author>
     <name><![CDATA[DynaMid Project]]></name>
@@ -12,6 +12,25 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Release of JooFlux r1]]></title>
+    <link href="http://dynamid.citi-lab.fr/news/2013/02/19/release-of-jooflux-r1/"/>
+    <updated>2013-02-19T15:07:00+01:00</updated>
+    <id>http://dynamid.citi-lab.fr/news/2013/02/19/release-of-jooflux-r1</id>
+    <content type="html"><![CDATA[<p>The DynaMid members are pleased to announce the second release of JooFlux.</p>
+
+<p>JooFlux r1 can be obtained from <a href="https://github.com/dynamid/jooflux">https://github.com/dynamid/jooflux</a>
+and is made available under the terms of the
+<a href="http://www.mozilla.org/MPL/2.0/">Mozilla Public License Version 2.0</a>.</p>
+
+<p>This release improves the compatibility with existing JVM-based applications. It also features additions
+to facilitate the implementation of remote management applications.</p>
+
+<p>We encourage the wider researchers and practitioners community to report any issue with JooFlux, and
+contribute bug fixes and improvements.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Demystifying invokedynamic in Oracle Java Magazine]]></title>
@@ -33,7 +52,7 @@ fame who currently works on <a href="http://openjdk.java.net/projects/nashorn/">
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[JooFlux at ComPAS 2013]]></title>
+    <title type="html"><![CDATA[JooFlux @ ComPAS, Grenoble, 2013]]></title>
     <link href="http://dynamid.citi-lab.fr/news/2013/01/24/jooflux-at-compas-2013/"/>
     <updated>2013-01-24T07:21:00+01:00</updated>
     <id>http://dynamid.citi-lab.fr/news/2013/01/24/jooflux-at-compas-2013</id>
@@ -51,12 +70,15 @@ specialists in the larger field of operating systems.</p>
 <script async class="speakerdeck-embed" data-id="4a45b240420f0130e26112313d241d5f" data-ratio="1.2994923857868" src="http://dynamid.citi-lab.fr//speakerdeck.com/assets/embed.js"></script>
 
 
-
+<p><img src="http://dynamid.citi-lab.fr/images/conferences/ComPAS-CFSE2013/P1040469.jpg">
+<img src="http://dynamid.citi-lab.fr/images/conferences/ComPAS-CFSE2013/P1040471.jpg">
+<img src="http://dynamid.citi-lab.fr/images/conferences/ComPAS-CFSE2013/P1040476.jpg">
+<img src="http://dynamid.citi-lab.fr/images/conferences/ComPAS-CFSE2013/P1040478.jpg"></p>
 ]]></content>
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[Smartphone Gateway Poster in CFSE 2013]]></title>
+    <title type="html"><![CDATA[Smartphone Gateway Poster @ CFSE, Grenoble, 2013]]></title>
     <link href="http://dynamid.citi-lab.fr/news/2012/11/28/smartphone-gateway-poster-in-cfse-2013/"/>
     <updated>2012-11-28T10:32:00+01:00</updated>
     <id>http://dynamid.citi-lab.fr/news/2012/11/28/smartphone-gateway-poster-in-cfse-2013</id>
@@ -66,11 +88,13 @@ of her PhD work in the <a href="http://compas2013.inrialpes.fr">CFSE 2013 confer
 <p>CFSE is the top French national conference on operating system research. The program
 committee comprises big names in the field, and we hope many interesting discussions
 over coffee about the poster.</p>
+
+<p><img src="http://dynamid.citi-lab.fr/images/conferences/ComPAS-CFSE2013/P1040700.jpg"></p>
 ]]></content>
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[JooFlux Paper in CFSE 2013]]></title>
+    <title type="html"><![CDATA[JooFlux article accepted at CFSE 2013]]></title>
     <link href="http://dynamid.citi-lab.fr/news/2012/11/21/jooflux-paper-in-cfse-2013/"/>
     <updated>2012-11-21T11:10:00+01:00</updated>
     <id>http://dynamid.citi-lab.fr/news/2012/11/21/jooflux-paper-in-cfse-2013</id>
@@ -218,7 +242,8 @@ and Christian Colombo.</p>
 <script async class="speakerdeck-embed" data-id="4fa0ef1e5f48f70022059a6b" data-ratio="1.7777777777777777" src="http://dynamid.citi-lab.fr//speakerdeck.com/assets/embed.js"></script>
 
 
-
+<p><img src="http://dynamid.citi-lab.fr/images/conferences/MixIT2012/MixIT2012-1.jpg">
+<img src="http://dynamid.citi-lab.fr/images/conferences/MixIT2012/MixIT2012-2.jpg"></p>
 ]]></content>
   </entry>
   
@@ -232,7 +257,12 @@ and Christian Colombo.</p>
 <script async class="speakerdeck-embed" data-id="4f9014fca54208002201865a" data-ratio="1.7777777777777777" src="http://dynamid.citi-lab.fr//speakerdeck.com/assets/embed.js"></script>
 
 
-
+<p><img src="http://dynamid.citi-lab.fr/images/conferences/DevoxxFR2012/DevoxxFR2012-1.jpg">
+<img src="http://dynamid.citi-lab.fr/images/conferences/DevoxxFR2012/DevoxxFR2012-2.jpg">
+<img src="http://dynamid.citi-lab.fr/images/conferences/DevoxxFR2012/DevoxxFR2012-3.jpg">
+<img src="http://dynamid.citi-lab.fr/images/conferences/DevoxxFR2012/DevoxxFR2012-5.jpg">
+<img src="http://dynamid.citi-lab.fr/images/conferences/DevoxxFR2012/DevoxxFR2012-6.jpg">
+<img src="http://dynamid.citi-lab.fr/images/conferences/DevoxxFR2012/DevoxxFR2012-7.jpg"></p>
 ]]></content>
   </entry>
   

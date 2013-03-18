@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: self-healing-software | DynaMid]]></title>
+  <link href="http://dynamid.citi-lab.fr/news/categories/self-healing-software/atom.xml" rel="self"/>
+  <link href="http://dynamid.citi-lab.fr/"/>
+  <updated>2013-02-19T15:13:41+01:00</updated>
+  <id>http://dynamid.citi-lab.fr/</id>
+  <author>
+    <name><![CDATA[DynaMid Project]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Service Computation 2012: Best Paper Award for Nicolas Stouls]]></title>
+    <link href="http://dynamid.citi-lab.fr/news/2012/07/27/service-computation-2012-best-paper-award-for-nicolas-stouls/"/>
+    <updated>2012-07-27T10:25:00+02:00</updated>
+    <id>http://dynamid.citi-lab.fr/news/2012/07/27/service-computation-2012-best-paper-award-for-nicolas-stouls</id>
+    <content type="html"><![CDATA[<p>DynaMid member <a href="http://perso.citi-lab.fr/nstouls/">Nicolas Stouls</a>
+published a paper called
+<a href="http://www.iaria.org/conferences2012/awardsSERVICECOMPUTATION12/servicecomputation2012_a2.pdf">"A Monitoring Approach for Dynamic Service-Oriented Architecture Systems</a>
+in the <em>The Fourth International Conferences on Advanced Service Computing</em> that was held in Nice last July.</p>
+
+<p>He co-authored this paper with his PhD student Yufang Dan, <a href="http://perso.citi-lab.fr/sfrenot/">Disto head Stéphane Frénot</a>
+and Christian Colombo.</p>
+
+<p>Congratulations to all of them on <a href="http://www.iaria.org/conferences2012/AwardsSERVICECOMPUTATION12.html">getting a best paper award!</a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[An API for Autonomous and Client-side Service Substitution @ Service Computation, Nice, France 2012 ]]></title>
+    <link href="http://dynamid.citi-lab.fr/news/2012/07/23/an-api-for-autonomous-and-client-side-service-substitution-at-service-computation-nice-france-2012/"/>
+    <updated>2012-07-23T14:00:00+02:00</updated>
+    <id>http://dynamid.citi-lab.fr/news/2012/07/23/an-api-for-autonomous-and-client-side-service-substitution-at-service-computation-nice-france-2012</id>
+    <content type="html"><![CDATA[<p>Talk given at <a href="http://www.iaria.org/conferences2012/SERVICECOMPUTATION12.html">Service Computation</a> on July, 23 2012.</p>
+
+<script async class="speakerdeck-embed" data-id="501798c93f8290000203e817" data-ratio="1.3333333333333333" src="http://dynamid.citi-lab.fr//speakerdeck.com/assets/embed.js"></script>
+
+
+
+]]></content>
+  </entry>
+  
+</feed>

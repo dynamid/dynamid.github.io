@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: conference | DynaMid]]></title>
+  <link href="http://dynamid.citi-lab.fr/news/categories/conference/atom.xml" rel="self"/>
+  <link href="http://dynamid.citi-lab.fr/"/>
+  <updated>2013-02-19T15:13:41+01:00</updated>
+  <id>http://dynamid.citi-lab.fr/</id>
+  <author>
+    <name><![CDATA[DynaMid Project]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[JooFlux @ ComPAS, Grenoble, 2013]]></title>
+    <link href="http://dynamid.citi-lab.fr/news/2013/01/24/jooflux-at-compas-2013/"/>
+    <updated>2013-01-24T07:21:00+01:00</updated>
+    <id>http://dynamid.citi-lab.fr/news/2013/01/24/jooflux-at-compas-2013</id>
+    <content type="html"><![CDATA[<p>The current state of our research on the <a href="https://github.com/dynamid/jooflux">JooFlux project</a>
+was presented last week at the <a href="http://compas2013.inrialpes.fr">ComPAS 2013 conference</a>.</p>
+
+<p>Our research paper was published in the
+<a href="http://compas2013.inrialpes.fr/cfp/systeme-cfse">CFSE track</a> that gathers the French
+specialists in the larger field of operating systems.</p>
+
+<p>Lots of positive feedback on our works, we couldn't be happier!</p>
+
+<p>Here are the slides, in French:</p>
+
+<script async class="speakerdeck-embed" data-id="4a45b240420f0130e26112313d241d5f" data-ratio="1.2994923857868" src="http://dynamid.citi-lab.fr//speakerdeck.com/assets/embed.js"></script>
+
+
+<p><img src="/images/conferences/ComPAS-CFSE2013/P1040469.jpg">
+<img src="/images/conferences/ComPAS-CFSE2013/P1040471.jpg">
+<img src="/images/conferences/ComPAS-CFSE2013/P1040476.jpg">
+<img src="/images/conferences/ComPAS-CFSE2013/P1040478.jpg"></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[JooFlux article accepted at CFSE 2013]]></title>
+    <link href="http://dynamid.citi-lab.fr/news/2012/11/21/jooflux-paper-in-cfse-2013/"/>
+    <updated>2012-11-21T11:10:00+01:00</updated>
+    <id>http://dynamid.citi-lab.fr/news/2012/11/21/jooflux-paper-in-cfse-2013</id>
+    <content type="html"><![CDATA[<p>We are glad to report that our first peer-reviewed scientific paper
+for <a href="http://github.com/dynamid/jooflux">JooFlux</a> has been accepted
+in the <a href="http://compas2013.inrialpes.fr">CFSE 2013 conference</a>.</p>
+
+<p>CFSE is the top French national conference on operating system research. The program committee
+comprises big names in the field, the kind with proven research and industrial track records, so
+this is definitely a strong achievement for DynaMid.</p>
+
+<p>Our next-step is to take the thoroughly-detailed reviews that we obtained and target a top
+international conference.</p>
+]]></content>
+  </entry>
+  
+</feed>

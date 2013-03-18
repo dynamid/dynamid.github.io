@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: dynamic | DynaMid]]></title>
+  <link href="http://dynamid.citi-lab.fr/news/categories/dynamic/atom.xml" rel="self"/>
+  <link href="http://dynamid.citi-lab.fr/"/>
+  <updated>2013-02-19T15:13:41+01:00</updated>
+  <id>http://dynamid.citi-lab.fr/</id>
+  <author>
+    <name><![CDATA[DynaMid Project]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[A Monitoring Approach for Dynamic Service-Oriented Architecture Systems @ Service Computation, Nice, France 2012]]></title>
+    <link href="http://dynamid.citi-lab.fr/news/2012/07/23/a-monitoring-approach-for-dynamic-service-oriented-architecture-systems-at-service-computation-nice-france-2012/"/>
+    <updated>2012-07-23T14:30:00+02:00</updated>
+    <id>http://dynamid.citi-lab.fr/news/2012/07/23/a-monitoring-approach-for-dynamic-service-oriented-architecture-systems-at-service-computation-nice-france-2012</id>
+    <content type="html"><![CDATA[<p>Talk given at <a href="http://www.iaria.org/conferences2012/SERVICECOMPUTATION12.html">Service Computation</a> on July, 23 2012.</p>
+
+<script async class="speakerdeck-embed" data-id="501798623f8290000203e52f" data-ratio="1.3333333333333333" src="http://dynamid.citi-lab.fr//speakerdeck.com/assets/embed.js"></script>
+
+
+
+]]></content>
+  </entry>
+  
+</feed>

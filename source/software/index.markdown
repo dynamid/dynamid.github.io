@@ -23,8 +23,7 @@ Expect more projects to be listed here in the future!
 
 * **GitHub repository:** [https://github.com/dynamid/jooflux](https://github.com/dynamid/jooflux)
 * **License:** [Mozilla Public License Version 2.0](http://www.mozilla.org/MPL/2.0/)
+* **Current version:** `r1` (February 19th 2013).
 * **First public release:** October 2012
 * **Members:** Julien Ponge and Frédéric Le Mouël
 * **Status:** research prototype / proof-of-concept
-* **Current version:** `r0`
-

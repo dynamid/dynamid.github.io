@@ -10,6 +10,18 @@ We release *some* of our research work as [public open source projects on GitHub
 
 Expect more projects to be listed here in the future!
 
+## Golo: a lightweight dynamic language for the JVM.
+
+> Golo is a simple dynamic, weakly-typed language that favours explicit over implicit. You should become a Golo programmer within hours, not days.
+> Built from day 1 with `invokedynamic`, Golo takes advantage of the latest advances of the JVM. It is also a showcase on how to build a language runtime with invokedynamic.
+
+* **GitHub repository:** [https://github.com/golo-lang/golo-lang](https://github.com/golo-lang/golo-lang)
+* **License:** [Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0)
+* **Current version:** `0-preview1` (March 27th 2013).
+* **First public release:** March 27th 2013
+* **DynaMid Member:** Julien Ponge
+* **Status:** platform / early preview
+
 ## JooFlux: a Java agent for dynamic aspect-oriented middlewares
 
 > JooFlux a JVM agent that allows both the dynamic replacement of method implementations and the
@@ -25,5 +37,5 @@ Expect more projects to be listed here in the future!
 * **License:** [Mozilla Public License Version 2.0](http://www.mozilla.org/MPL/2.0/)
 * **Current version:** `r1` (February 19th 2013).
 * **First public release:** October 2012
-* **Members:** Julien Ponge and Frédéric Le Mouël
+* **DynaMid Members:** Julien Ponge and Frédéric Le Mouël
 * **Status:** research prototype / proof-of-concept

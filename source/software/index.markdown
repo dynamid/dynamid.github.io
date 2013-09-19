@@ -39,3 +39,14 @@ Expect more projects to be listed here in the future!
 * **First public release:** October 2012
 * **DynaMid Members:** Julien Ponge and Frédéric Le Mouël
 * **Status:** research prototype / proof-of-concept
+
+## OSGi substitution library
+
+> OSGi-substitution is an API and OSGi service set to allow service substitution without any restart
+> of the client and without any assumption on external services.
+
+* **BitBucket repository:** [https://bitbucket.org/jponge/osgi-substitution](https://bitbucket.org/jponge/osgi-substitution)
+* **License:** [LGPLv3](http://www.gnu.org/licenses/)
+* **DynaMid Members:** Yufang Dan, Nicolas Stouls, Julien Ponge
+* **Status:** proof-of-concept
+

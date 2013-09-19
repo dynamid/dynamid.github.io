@@ -1,0 +1,18 @@
+---
+layout: post
+title: "LavaJUG"
+date: 2013-02-07
+comments: true
+categories: invokdynamic java jooflux jvm golo talk
+---
+
+DynaMid members went to the mythical [LavaJUG](http://www.lavajug.org/) to talk about [`invokedynamic`, JooFlux and Golo](http://www.lavajug.org/xwiki/bin/view/Main/EventTen).
+
+This was also the first public demonstration of the [Golo programming language](http://golo-lang.org/).
+
+Great crowd, great place, we had a lot of fun!
+
+<script async class="speakerdeck-embed" data-id="be05b950541c0130178722000a1e8e84" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
+
+<script async class="speakerdeck-embed" data-id="e04161c0541c013003781231381d4c11" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+

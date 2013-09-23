@@ -31,6 +31,16 @@ footer: false
     </td>
   </tr>
   <tr>
+    <td class="min-size">{% img /images/faces/face-osimonin.jpg 100 100 'osimonin :-)' 'osimonin' %}</td>
+    <td>Olivier Simonin</td>
+    <td>Full Professor</td>
+    <td class="social-icons">
+      <a href="http://perso.citi.insa-lyon.fr/osimonin/">{% img no-border /images/icons/safari.png 32 32 "Homepage" "Homepage" %}</a>
+      <a href="mailto:olivier.simonin@insa-lyon.fr">{% img no-border /images/social_networking_iconpack/email_32.png "Email" "Email" %}</a>
+      <a href="http://fr.linkedin.com/in/osimonin">{% img no-border /images/social_networking_iconpack/linkedin_32.png "LinedIn" "LinkedIn" %}</a>
+    </td>
+  </tr>
+  <tr>
     <td class="min-size">{% img /images/faces/face-jponge.jpg 100 100 'jponge :-)' 'jponge' %}</td>
     <td>Julien Ponge</td>
     <td>Associate Professor</td>

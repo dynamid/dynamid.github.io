@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "SEmba 2013 : a regional workshop about embedded systems"
-date: 2013-09-19 09:00
+date: 2013-04-04 09:00
 comments: true
 categories: embedded-systems workshop 
 ---

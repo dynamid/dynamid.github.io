@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: publication | DynaMid]]></title>
+  <link href="http://dynamid.github.com/news/categories/publication/atom.xml" rel="self"/>
+  <link href="http://dynamid.github.com/"/>
+  <updated>2013-09-29T15:43:14+08:00</updated>
+  <id>http://dynamid.github.com/</id>
+  <author>
+    <name><![CDATA[DynaMid Project]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Meet Golo]]></title>
+    <link href="http://dynamid.github.com/news/2013/04/03/meet-golo/"/>
+    <updated>2013-04-03T12:22:00+08:00</updated>
+    <id>http://dynamid.github.com/news/2013/04/03/meet-golo</id>
+    <content type="html"><![CDATA[<p><img src="http://golo-lang.org/images/logo-golo.png" alt="Golo" /></p>
+
+<p>The DynaMid group unveiled <a href="http://golo-lang.org/">Golo</a> last week at the <a href="http://www.devoxx.fr/">Devoxx France 2013 conference</a>.</p>
+
+<p>Golo is a new dynamic language for the Java virtual machine that takes advantage of <code>invokedynamic</code>.
+It is lightweight and runs <em>fast</em>.</p>
+
+<p>Golo will be useful to us for playing with language extensions. It provides us with a stronger JVM expertise within
+the DynaMid group. Of course Golo is far from being feature-complete, and we will keep pushing on the development front.</p>
+
+<p>More details regarding Golo:</p>
+
+<ul>
+<li><a href="http://golo-lang.org/">the website and documentation</a></li>
+<li><a href="http://golo-console.appspot.com/">try the language from a web browser on Google AppEngine</a></li>
+<li><a href="https://github.com/golo-lang/golo-lang">Golo on GitHub</a></li>
+<li><a href="http://julien.ponge.org/notes/golo-story/">the details behind the development of Golo</a></li>
+<li><a href="http://golo-lang.org/news/2013/03/27/golo-opensourced/">the original release announcement</a></li>
+</ul>
+
+
+<p>Golo is made available under the permissive Apache Software Licence version 2.0, and you are highly encouraged to try it and participate!</p>
+
+<p>We are looking forward to hearing what you will do with Golo.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Release of JooFlux r1]]></title>
+    <link href="http://dynamid.github.com/news/2013/02/19/release-of-jooflux-r1/"/>
+    <updated>2013-02-19T15:07:00+08:00</updated>
+    <id>http://dynamid.github.com/news/2013/02/19/release-of-jooflux-r1</id>
+    <content type="html"><![CDATA[<p>The DynaMid members are pleased to announce the second release of JooFlux.</p>
+
+<p>JooFlux r1 can be obtained from <a href="https://github.com/dynamid/jooflux">https://github.com/dynamid/jooflux</a>
+and is made available under the terms of the
+<a href="http://www.mozilla.org/MPL/2.0/">Mozilla Public License Version 2.0</a>.</p>
+
+<p>This release improves the compatibility with existing JVM-based applications. It also features additions
+to facilitate the implementation of remote management applications.</p>
+
+<p>We encourage the wider researchers and practitioners community to report any issue with JooFlux, and
+contribute bug fixes and improvements.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Demystifying invokedynamic in Oracle Java Magazine]]></title>
+    <link href="http://dynamid.github.com/news/2013/01/28/demystifying-invokedynamic-in-oracle-java-magazine/"/>
+    <updated>2013-01-28T10:31:00+08:00</updated>
+    <id>http://dynamid.github.com/news/2013/01/28/demystifying-invokedynamic-in-oracle-java-magazine</id>
+    <content type="html"><![CDATA[<p><a href="http://julien.ponge.info/">Julien Ponge</a> wrote an article called
+<a href="http://www.oraclejavamagazine-digital.com/javamagazine/20130102#pg50">"Demystifying invokedynamic"</a>
+for the latest edition of Oracle Java Magazine (free subscription).</p>
+
+<p>The article is a gentle introduction to <code>invokedynamic</code>, the addition to the Java virtual machine
+for improving the implementation of dynamic languages on top of the JVM.</p>
+
+<p>Last but not least, it was reviewed by <a href="https://twitter.com/lagergren">Marcus Lagergren</a> of JRockit
+fame who currently works on <a href="http://openjdk.java.net/projects/nashorn/">Nashorn</a>.</p>
+
+<p><img src="/images/posts/indy-javamag.png" title="Demystifying invokedynamic in Oracle Java Magazine" ></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[JooFlux @ ComPAS, Grenoble, 2013]]></title>
+    <link href="http://dynamid.github.com/news/2013/01/24/jooflux-at-compas-2013/"/>
+    <updated>2013-01-24T07:21:00+08:00</updated>
+    <id>http://dynamid.github.com/news/2013/01/24/jooflux-at-compas-2013</id>
+    <content type="html"><![CDATA[<p>The current state of our research on the <a href="https://github.com/dynamid/jooflux">JooFlux project</a>
+was presented last week at the <a href="http://compas2013.inrialpes.fr">ComPAS 2013 conference</a>.</p>
+
+<p>Our research paper was published in the
+<a href="http://compas2013.inrialpes.fr/cfp/systeme-cfse">CFSE track</a> that gathers the French
+specialists in the larger field of operating systems.</p>
+
+<p>Lots of positive feedback on our works, we couldn't be happier!</p>
+
+<p>Here are the slides, in French:</p>
+
+<script async class="speakerdeck-embed" data-id="4a45b240420f0130e26112313d241d5f" data-ratio="1.2994923857868" src="http://dynamid.github.com//speakerdeck.com/assets/embed.js"></script>
+
+
+<p><img src="/images/conferences/ComPAS-CFSE2013/P1040469.jpg">
+<img src="/images/conferences/ComPAS-CFSE2013/P1040471.jpg">
+<img src="/images/conferences/ComPAS-CFSE2013/P1040476.jpg">
+<img src="/images/conferences/ComPAS-CFSE2013/P1040478.jpg"></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[JooFlux article accepted at CFSE 2013]]></title>
+    <link href="http://dynamid.github.com/news/2012/11/21/jooflux-paper-in-cfse-2013/"/>
+    <updated>2012-11-21T11:10:00+08:00</updated>
+    <id>http://dynamid.github.com/news/2012/11/21/jooflux-paper-in-cfse-2013</id>
+    <content type="html"><![CDATA[<p>We are glad to report that our first peer-reviewed scientific paper
+for <a href="http://github.com/dynamid/jooflux">JooFlux</a> has been accepted
+in the <a href="http://compas2013.inrialpes.fr">CFSE 2013 conference</a>.</p>
+
+<p>CFSE is the top French national conference on operating system research. The program committee
+comprises big names in the field, the kind with proven research and industrial track records, so
+this is definitely a strong achievement for DynaMid.</p>
+
+<p>Our next-step is to take the thoroughly-detailed reviews that we obtained and target a top
+international conference.</p>
+]]></content>
+  </entry>
+  
+</feed>

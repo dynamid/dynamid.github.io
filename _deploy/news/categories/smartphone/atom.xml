@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: smartphone | DynaMid]]></title>
+  <link href="http://dynamid.github.com/news/categories/smartphone/atom.xml" rel="self"/>
+  <link href="http://dynamid.github.com/"/>
+  <updated>2013-09-29T15:43:14+08:00</updated>
+  <id>http://dynamid.github.com/</id>
+  <author>
+    <name><![CDATA[DynaMid Project]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Smartphone Gateway Poster @ CFSE, Grenoble, 2013]]></title>
+    <link href="http://dynamid.github.com/news/2012/11/28/smartphone-gateway-poster-in-cfse-2013/"/>
+    <updated>2012-11-28T10:32:00+08:00</updated>
+    <id>http://dynamid.github.com/news/2012/11/28/smartphone-gateway-poster-in-cfse-2013</id>
+    <content type="html"><![CDATA[<p><a href="http://dynamid.citi-lab.fr/people/">Roya Golchay</a> will present preliminary ideas
+of her PhD work in the <a href="http://compas2013.inrialpes.fr">CFSE 2013 conference</a>.</p>
+
+<p>CFSE is the top French national conference on operating system research. The program
+committee comprises big names in the field, and we hope many interesting discussions
+over coffee about the poster.</p>
+
+<p><img src="/images/conferences/ComPAS-CFSE2013/P1040700.jpg"></p>
+]]></content>
+  </entry>
+  
+</feed>

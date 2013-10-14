@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: research | DynaMid]]></title>
+  <link href="http://dynamid.github.com/news/categories/research/atom.xml" rel="self"/>
+  <link href="http://dynamid.github.com/"/>
+  <updated>2013-10-14T13:53:09+08:00</updated>
+  <id>http://dynamid.github.com/</id>
+  <author>
+    <name><![CDATA[DynaMid Project]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Golo at PPPJ 2013]]></title>
+    <link href="http://dynamid.github.com/news/2013/09/19/golo-at-pppj-2013/"/>
+    <updated>2013-09-19T14:33:00+08:00</updated>
+    <id>http://dynamid.github.com/news/2013/09/19/golo-at-pppj-2013</id>
+    <content type="html"><![CDATA[<p>Our first research paper on the <a href="http://golo-lang.org/">Golo programming language</a> was published in the proceedings of the <a href="http://pppj2013.dhbw.de/conference-pppj2013.html">PPPJ 2013 conference</a>:</p>
+
+<blockquote><p>Julien Ponge, Frédéric Le Mouël, and Nicolas Stouls. <strong>Golo, a dynamic, light and efficient language for post-invokedynamic JVM</strong>. In Proceedings of the 2013 International Conference on Principles and Practices of Programming on the Java Platform: Virtual Machines, Languages, and Tools (PPPJ '13). ACM, New York, NY, USA, 153-158.</p></blockquote>
+
+<p><a href="http://dx.doi.org/10.1145/2500828.2500844">DOI link of the paper</a>.</p>
+
+<script async class="speakerdeck-embed" data-id="fa415880fdcf0130f6d8022f0de05eea" data-ratio="1.77777777777778" src="http://dynamid.github.com//speakerdeck.com/assets/embed.js"></script>
+
+
+
+]]></content>
+  </entry>
+  
+</feed>

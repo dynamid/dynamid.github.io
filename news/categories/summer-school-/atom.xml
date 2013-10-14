@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Summer-school. | DynaMid]]></title>
+  <link href="http://dynamid.github.com/news/categories/summer-school-/atom.xml" rel="self"/>
+  <link href="http://dynamid.github.com/"/>
+  <updated>2013-10-14T13:53:09+08:00</updated>
+  <id>http://dynamid.github.com/</id>
+  <author>
+    <name><![CDATA[DynaMid Project]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Web of Things Summer school 2013]]></title>
+    <link href="http://dynamid.github.com/news/2013/09/02/web-of-things-summer-school/"/>
+    <updated>2013-09-02T09:00:00+08:00</updated>
+    <id>http://dynamid.github.com/news/2013/09/02/web-of-things-summer-school</id>
+    <content type="html"><![CDATA[<p>Some DynaMid team members was in the organisation and scientific comitees of this school about Web of Things.</p>
+
+<p><a href="http://www.web-intelligence-rhone-alpes.org/Ecoles/2013/">Here is school's website</a> in french, with the program.</p>
+]]></content>
+  </entry>
+  
+</feed>

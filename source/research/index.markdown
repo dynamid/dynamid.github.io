@@ -14,7 +14,7 @@ Several environments are emerging, all with *high dynamic properties*:
 * Smart Cities - with e.g. *the dynamic trafic and energy management*
 * Smart Buildings and Houses - with e.g. *the dynamic user-adapted light and heating control*
 * Vehicular Networks - with e.g. *the dynamic, autonomic driveless guidance*
-* Service Robotics - with e.g. *the dynamic, collaborative environment monitoring and exploration*
+* Autonomous Robots - with e.g. *the dynamic, collaborative environment monitoring and exploration*
 * Cloud Computing - with e.g. *the dynamic provisioning and load-balancing service management*.
 
 ## Hot Research Topics

@@ -28,6 +28,7 @@ We concentrate on the software development process, especially on designing **[M
   * Run-time Evolving
 * Autonomous Distributed Architectures and Algorithms
   * Self-* (Healing, Organizing)
+  * Collaborative
   * Scalable
   * Long-life Living
 * Context-aware Domain Specific Languages

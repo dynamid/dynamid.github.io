@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: smartphone | DynaMid]]></title>
-  <link href="http://dynamid.github.com/news/categories/smartphone/atom.xml" rel="self"/>
-  <link href="http://dynamid.github.com/"/>
-  <updated>2013-10-14T13:53:09+08:00</updated>
-  <id>http://dynamid.github.com/</id>
+  <link href="http://dynamid.citi-lab.fr/news/categories/smartphone/atom.xml" rel="self"/>
+  <link href="http://dynamid.citi-lab.fr/"/>
+  <updated>2013-10-15T22:48:44+08:00</updated>
+  <id>http://dynamid.citi-lab.fr/</id>
   <author>
     <name><![CDATA[DynaMid Project]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Smartphone Gateway Poster @ CFSE, Grenoble, 2013]]></title>
-    <link href="http://dynamid.github.com/news/2012/11/28/smartphone-gateway-poster-in-cfse-2013/"/>
+    <link href="http://dynamid.citi-lab.fr/news/2012/11/28/smartphone-gateway-poster-in-cfse-2013/"/>
     <updated>2012-11-28T10:32:00+08:00</updated>
-    <id>http://dynamid.github.com/news/2012/11/28/smartphone-gateway-poster-in-cfse-2013</id>
+    <id>http://dynamid.citi-lab.fr/news/2012/11/28/smartphone-gateway-poster-in-cfse-2013</id>
     <content type="html"><![CDATA[<p><a href="http://dynamid.citi-lab.fr/people/">Roya Golchay</a> will present preliminary ideas
 of her PhD work in the <a href="http://compas2013.inrialpes.fr">CFSE 2013 conference</a>.</p>
 

@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: smart-cities | DynaMid]]></title>
-  <link href="http://dynamid.github.com/news/categories/smart-cities/atom.xml" rel="self"/>
-  <link href="http://dynamid.github.com/"/>
-  <updated>2013-10-14T13:53:09+08:00</updated>
-  <id>http://dynamid.github.com/</id>
+  <link href="http://dynamid.citi-lab.fr/news/categories/smart-cities/atom.xml" rel="self"/>
+  <link href="http://dynamid.citi-lab.fr/"/>
+  <updated>2013-10-15T22:48:44+08:00</updated>
+  <id>http://dynamid.citi-lab.fr/</id>
   <author>
     <name><![CDATA[DynaMid Project]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Frederic Le Mouel participates to Zhang Heng Program in China]]></title>
-    <link href="http://dynamid.github.com/news/2012/10/14/frederic-le-mouel-participates-to-zhang-heng-program-in-china/"/>
+    <link href="http://dynamid.citi-lab.fr/news/2012/10/14/frederic-le-mouel-participates-to-zhang-heng-program-in-china/"/>
     <updated>2012-10-14T17:06:00+08:00</updated>
-    <id>http://dynamid.github.com/news/2012/10/14/frederic-le-mouel-participates-to-zhang-heng-program-in-china</id>
+    <id>http://dynamid.citi-lab.fr/news/2012/10/14/frederic-le-mouel-participates-to-zhang-heng-program-in-china</id>
     <content type="html"><![CDATA[<p><a href="http://en.wikipedia.org/wiki/Zhang_Heng"><img class="right" src="/images/zhang_heng.jpg" width="220" height="334" title="Zhang Heng - Chinese astronomer, mathematician, inventor, geographer, cartographer, artist, poet, statesman, and literary scholar" alt="Zhang Heng"></a></p>
 
 <p>Frédéric Le Mouël participates to the Zhang Heng program about "Smart Cities and Internet of Things" organized by the French Ministry of Foreign Affairs and particularly the <a href="http://www.ambafrance-cn.org/Le-programme-Zhang-Heng.html?lang=fr" title="">French Embassy in China</a> from October, 14th to 20th.</p>

@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: video | DynaMid]]></title>
-  <link href="http://dynamid.github.com/news/categories/video/atom.xml" rel="self"/>
-  <link href="http://dynamid.github.com/"/>
-  <updated>2013-10-14T13:53:09+08:00</updated>
-  <id>http://dynamid.github.com/</id>
+  <link href="http://dynamid.citi-lab.fr/news/categories/video/atom.xml" rel="self"/>
+  <link href="http://dynamid.citi-lab.fr/"/>
+  <updated>2013-10-15T22:48:44+08:00</updated>
+  <id>http://dynamid.citi-lab.fr/</id>
   <author>
     <name><![CDATA[DynaMid Project]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Nighthacking]]></title>
-    <link href="http://dynamid.github.com/news/2012/11/07/nighthacking/"/>
+    <link href="http://dynamid.citi-lab.fr/news/2012/11/07/nighthacking/"/>
     <updated>2012-11-07T10:51:00+08:00</updated>
-    <id>http://dynamid.github.com/news/2012/11/07/nighthacking</id>
+    <id>http://dynamid.citi-lab.fr/news/2012/11/07/nighthacking</id>
     <content type="html"><![CDATA[<p>DynaMid member <a href="http://julien.ponge.info/">Julien Ponge</a> recorded a
 <a href="http://steveonjava.com/nighthacking/">NightHacking session with Stephen Chin from Oracle</a>.</p>
 

@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: aop | DynaMid]]></title>
-  <link href="http://dynamid.github.com/news/categories/aop/atom.xml" rel="self"/>
-  <link href="http://dynamid.github.com/"/>
-  <updated>2013-10-14T13:53:09+08:00</updated>
-  <id>http://dynamid.github.com/</id>
+  <link href="http://dynamid.citi-lab.fr/news/categories/aop/atom.xml" rel="self"/>
+  <link href="http://dynamid.citi-lab.fr/"/>
+  <updated>2013-10-15T22:48:44+08:00</updated>
+  <id>http://dynamid.citi-lab.fr/</id>
   <author>
     <name><![CDATA[DynaMid Project]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[JooFlux article accepted at CFSE 2013]]></title>
-    <link href="http://dynamid.github.com/news/2012/11/21/jooflux-paper-in-cfse-2013/"/>
+    <link href="http://dynamid.citi-lab.fr/news/2012/11/21/jooflux-paper-in-cfse-2013/"/>
     <updated>2012-11-21T11:10:00+08:00</updated>
-    <id>http://dynamid.github.com/news/2012/11/21/jooflux-paper-in-cfse-2013</id>
+    <id>http://dynamid.citi-lab.fr/news/2012/11/21/jooflux-paper-in-cfse-2013</id>
     <content type="html"><![CDATA[<p>We are glad to report that our first peer-reviewed scientific paper
 for <a href="http://github.com/dynamid/jooflux">JooFlux</a> has been accepted
 in the <a href="http://compas2013.inrialpes.fr">CFSE 2013 conference</a>.</p>

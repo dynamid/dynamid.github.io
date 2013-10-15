@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: meeting | DynaMid]]></title>
-  <link href="http://dynamid.github.com/news/categories/meeting/atom.xml" rel="self"/>
-  <link href="http://dynamid.github.com/"/>
-  <updated>2013-10-14T13:53:09+08:00</updated>
-  <id>http://dynamid.github.com/</id>
+  <link href="http://dynamid.citi-lab.fr/news/categories/meeting/atom.xml" rel="self"/>
+  <link href="http://dynamid.citi-lab.fr/"/>
+  <updated>2013-10-15T22:48:44+08:00</updated>
+  <id>http://dynamid.citi-lab.fr/</id>
   <author>
     <name><![CDATA[DynaMid Project]]></name>
     
@@ -15,14 +15,14 @@
   
   <entry>
     <title type="html"><![CDATA[DynaMid Kickoff Meeting]]></title>
-    <link href="http://dynamid.github.com/news/2013/03/12/team-kickoff-meeting/"/>
+    <link href="http://dynamid.citi-lab.fr/news/2013/03/12/team-kickoff-meeting/"/>
     <updated>2013-03-12T14:00:00+08:00</updated>
-    <id>http://dynamid.github.com/news/2013/03/12/team-kickoff-meeting</id>
+    <id>http://dynamid.citi-lab.fr/news/2013/03/12/team-kickoff-meeting</id>
     <content type="html"><![CDATA[<p>The DynaMid team has hold it's 2013 Kickoff Meeting in a good ambiance ! This meeting has introduced the members of the team and presented the on-going projects.</p>
 
 <p>Let's meet again at the end of the year for the Late Spring Break. Hoping fruitful new collaborations, idea emulations and few administrative care !</p>
 
-<script async class="speakerdeck-embed" data-id="a7f7d56071ea0130b2a112313928143c" data-ratio="1.33333333333333" src="http://dynamid.github.com//speakerdeck.com/assets/embed.js"></script>
+<script async class="speakerdeck-embed" data-id="a7f7d56071ea0130b2a112313928143c" data-ratio="1.33333333333333" src="http://dynamid.citi-lab.fr//speakerdeck.com/assets/embed.js"></script>
 
 
 

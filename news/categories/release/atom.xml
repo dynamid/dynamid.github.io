@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: release | DynaMid]]></title>
-  <link href="http://dynamid.github.com/news/categories/release/atom.xml" rel="self"/>
-  <link href="http://dynamid.github.com/"/>
-  <updated>2013-10-14T13:53:09+08:00</updated>
-  <id>http://dynamid.github.com/</id>
+  <link href="http://dynamid.citi-lab.fr/news/categories/release/atom.xml" rel="self"/>
+  <link href="http://dynamid.citi-lab.fr/"/>
+  <updated>2013-10-15T22:48:44+08:00</updated>
+  <id>http://dynamid.citi-lab.fr/</id>
   <author>
     <name><![CDATA[DynaMid Project]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Meet Golo]]></title>
-    <link href="http://dynamid.github.com/news/2013/04/03/meet-golo/"/>
+    <link href="http://dynamid.citi-lab.fr/news/2013/04/03/meet-golo/"/>
     <updated>2013-04-03T12:22:00+08:00</updated>
-    <id>http://dynamid.github.com/news/2013/04/03/meet-golo</id>
+    <id>http://dynamid.citi-lab.fr/news/2013/04/03/meet-golo</id>
     <content type="html"><![CDATA[<p><img src="http://golo-lang.org/images/logo-golo.png" alt="Golo" /></p>
 
 <p>The DynaMid group unveiled <a href="http://golo-lang.org/">Golo</a> last week at the <a href="http://www.devoxx.fr/">Devoxx France 2013 conference</a>.</p>
@@ -47,9 +47,9 @@ the DynaMid group. Of course Golo is far from being feature-complete, and we wil
   
   <entry>
     <title type="html"><![CDATA[Release of JooFlux r1]]></title>
-    <link href="http://dynamid.github.com/news/2013/02/19/release-of-jooflux-r1/"/>
+    <link href="http://dynamid.citi-lab.fr/news/2013/02/19/release-of-jooflux-r1/"/>
     <updated>2013-02-19T15:07:00+08:00</updated>
-    <id>http://dynamid.github.com/news/2013/02/19/release-of-jooflux-r1</id>
+    <id>http://dynamid.citi-lab.fr/news/2013/02/19/release-of-jooflux-r1</id>
     <content type="html"><![CDATA[<p>The DynaMid members are pleased to announce the second release of JooFlux.</p>
 
 <p>JooFlux r1 can be obtained from <a href="https://github.com/dynamid/jooflux">https://github.com/dynamid/jooflux</a>
@@ -66,9 +66,9 @@ contribute bug fixes and improvements.</p>
   
   <entry>
     <title type="html"><![CDATA[JooFlux Initial Public Release]]></title>
-    <link href="http://dynamid.github.com/news/2012/10/03/jooflux-initial-public-release/"/>
+    <link href="http://dynamid.citi-lab.fr/news/2012/10/03/jooflux-initial-public-release/"/>
     <updated>2012-10-03T12:00:00+08:00</updated>
-    <id>http://dynamid.github.com/news/2012/10/03/jooflux-initial-public-release</id>
+    <id>http://dynamid.citi-lab.fr/news/2012/10/03/jooflux-initial-public-release</id>
     <content type="html"><![CDATA[<p>The DynaMid members are pleased to announce the initial public release of JooFlux:</p>
 
 <blockquote><p>JooFlux a JVM agent that allows both the dynamic replacement of method implementations and the

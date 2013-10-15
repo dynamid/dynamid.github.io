@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: language | DynaMid]]></title>
-  <link href="http://dynamid.github.com/news/categories/language/atom.xml" rel="self"/>
-  <link href="http://dynamid.github.com/"/>
-  <updated>2013-10-14T13:53:09+08:00</updated>
-  <id>http://dynamid.github.com/</id>
+  <link href="http://dynamid.citi-lab.fr/news/categories/language/atom.xml" rel="self"/>
+  <link href="http://dynamid.citi-lab.fr/"/>
+  <updated>2013-10-15T22:48:44+08:00</updated>
+  <id>http://dynamid.citi-lab.fr/</id>
   <author>
     <name><![CDATA[DynaMid Project]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Meet Golo]]></title>
-    <link href="http://dynamid.github.com/news/2013/04/03/meet-golo/"/>
+    <link href="http://dynamid.citi-lab.fr/news/2013/04/03/meet-golo/"/>
     <updated>2013-04-03T12:22:00+08:00</updated>
-    <id>http://dynamid.github.com/news/2013/04/03/meet-golo</id>
+    <id>http://dynamid.citi-lab.fr/news/2013/04/03/meet-golo</id>
     <content type="html"><![CDATA[<p><img src="http://golo-lang.org/images/logo-golo.png" alt="Golo" /></p>
 
 <p>The DynaMid group unveiled <a href="http://golo-lang.org/">Golo</a> last week at the <a href="http://www.devoxx.fr/">Devoxx France 2013 conference</a>.</p>

@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: bytecode | DynaMid]]></title>
-  <link href="http://dynamid.github.com/news/categories/bytecode/atom.xml" rel="self"/>
-  <link href="http://dynamid.github.com/"/>
-  <updated>2013-10-14T13:53:17+08:00</updated>
-  <id>http://dynamid.github.com/</id>
+  <link href="http://dynamid.citi-lab.fr/news/categories/bytecode/atom.xml" rel="self"/>
+  <link href="http://dynamid.citi-lab.fr/"/>
+  <updated>2013-10-15T22:48:44+08:00</updated>
+  <id>http://dynamid.citi-lab.fr/</id>
   <author>
     <name><![CDATA[DynaMid Project]]></name>
     
@@ -15,35 +15,35 @@
   
   <entry>
     <title type="html"><![CDATA[Manipulation de bytecode @ Mix-It, Lyon, France, 2012]]></title>
-    <link href="http://dynamid.github.com/news/2012/04/26/manipulation-de-bytecode-at-mixit-lyon-france-2012/"/>
+    <link href="http://dynamid.citi-lab.fr/news/2012/04/26/manipulation-de-bytecode-at-mixit-lyon-france-2012/"/>
     <updated>2012-04-26T13:00:00+08:00</updated>
-    <id>http://dynamid.github.com/news/2012/04/26/manipulation-de-bytecode-at-mixit-lyon-france-2012</id>
+    <id>http://dynamid.citi-lab.fr/news/2012/04/26/manipulation-de-bytecode-at-mixit-lyon-france-2012</id>
     <content type="html"><![CDATA[<p>Revival talk given - in French - at <a href="http://www.mix-it.fr/session/24/manipulation-de-bytecode-democratisons-la-magie">Mix-It</a> on April, 26 2012.</p>
 
-<script async class="speakerdeck-embed" data-id="4fa0ef1e5f48f70022059a6b" data-ratio="1.7777777777777777" src="http://dynamid.github.com//speakerdeck.com/assets/embed.js"></script>
+<script async class="speakerdeck-embed" data-id="4fa0ef1e5f48f70022059a6b" data-ratio="1.7777777777777777" src="http://dynamid.citi-lab.fr//speakerdeck.com/assets/embed.js"></script>
 
 
-<p>{% img  /images/conferences/MixIT2012/MixIT2012-1.jpg %}
-{% img  /images/conferences/MixIT2012/MixIT2012-2.jpg %}</p>
+<p><img src="/images/conferences/MixIT2012/MixIT2012-1.jpg">
+<img src="/images/conferences/MixIT2012/MixIT2012-2.jpg"></p>
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA[Manipulation de bytecode @ Devoxx France, Paris, 2012]]></title>
-    <link href="http://dynamid.github.com/news/2012/04/19/manipulation-de-bytecode-at-devoxx-france-paris-2012/"/>
+    <link href="http://dynamid.citi-lab.fr/news/2012/04/19/manipulation-de-bytecode-at-devoxx-france-paris-2012/"/>
     <updated>2012-04-19T11:30:00+08:00</updated>
-    <id>http://dynamid.github.com/news/2012/04/19/manipulation-de-bytecode-at-devoxx-france-paris-2012</id>
+    <id>http://dynamid.citi-lab.fr/news/2012/04/19/manipulation-de-bytecode-at-devoxx-france-paris-2012</id>
     <content type="html"><![CDATA[<p>Talk given - in French - at <a href="http://www.devoxx.com/display/FR12/Manipulation+de+bytecode+++democratisons+la+magie+noire">Devoxx France</a> on April, 19 2012. The video is also available <a href="http://www.parleys.com/#st=5&amp;id=3190&amp;sl=95">here</a>.</p>
 
-<script async class="speakerdeck-embed" data-id="4f9014fca54208002201865a" data-ratio="1.7777777777777777" src="http://dynamid.github.com//speakerdeck.com/assets/embed.js"></script>
+<script async class="speakerdeck-embed" data-id="4f9014fca54208002201865a" data-ratio="1.7777777777777777" src="http://dynamid.citi-lab.fr//speakerdeck.com/assets/embed.js"></script>
 
 
-<p>{% img  /images/conferences/DevoxxFR2012/DevoxxFR2012-1.jpg %}
-{% img  /images/conferences/DevoxxFR2012/DevoxxFR2012-2.jpg %}
-{% img  /images/conferences/DevoxxFR2012/DevoxxFR2012-3.jpg %}
-{% img  /images/conferences/DevoxxFR2012/DevoxxFR2012-5.jpg %}
-{% img  /images/conferences/DevoxxFR2012/DevoxxFR2012-6.jpg %}
-{% img  /images/conferences/DevoxxFR2012/DevoxxFR2012-7.jpg %}</p>
+<p><img src="/images/conferences/DevoxxFR2012/DevoxxFR2012-1.jpg">
+<img src="/images/conferences/DevoxxFR2012/DevoxxFR2012-2.jpg">
+<img src="/images/conferences/DevoxxFR2012/DevoxxFR2012-3.jpg">
+<img src="/images/conferences/DevoxxFR2012/DevoxxFR2012-5.jpg">
+<img src="/images/conferences/DevoxxFR2012/DevoxxFR2012-6.jpg">
+<img src="/images/conferences/DevoxxFR2012/DevoxxFR2012-7.jpg"></p>
 ]]></content>
   </entry>
   

@@ -73,7 +73,6 @@ footer: false
     <td>Yufang Dan</td>
     <td>PhD Student</td>
     <td class="social-icons">
-      <a href="http://www.citi.insa-lyon.fr/staff/people/ydan/">{% img no-border /images/icons/safari.png 32 32 "Homepage" "Homepage" %}</a>
       <a href="mailto:yufang.dan@insa-lyon.fr">{% img no-border /images/social_networking_iconpack/email_32.png "Email" "Email" %}</a>
      <a href="http://fr.linkedin.com/pub/yufang-dan/36/497/57a">{% img no-border /images/social_networking_iconpack/linkedin_32.png "LinedIn" "LinkedIn" %}</a>
     </td>
@@ -83,7 +82,6 @@ footer: false
     <td>Roya Golchay</td>
     <td>PhD Student</td>
     <td class="social-icons">
-      <a href="http://www.citi.insa-lyon.fr/staff/people/rgolchay/">{% img no-border /images/icons/safari.png 32 32 "Homepage" "Homepage" %}</a>
       <a href="mailto:roya.golchay@insa-lyon.fr">{% img no-border /images/social_networking_iconpack/email_32.png "Email" "Email" %}</a>
       <a href="http://www.mendeley.com/profiles/roya-golchay/">{% img no-border /images/social_networking_iconpack/mendeley_32.png "Mendeley" "Mendeley" %}</a>
     </td>
@@ -93,7 +91,6 @@ footer: false
     <td>Marie-Ange Lèbre</td>
     <td>PhD Student</td>
     <td class="social-icons">
-      <a href="http://www.citi.insa-lyon.fr/staff/people/mlebre/">{% img no-border /images/social_networking_iconpack/windows_32.png "Homepage" "Homepage" %}</a>
       <a href="mailto:marieange.lebre@gmail.com">{% img no-border /images/social_networking_iconpack/email_32.png "Email" "Email" %}</a>
       <a href="http://www.mendeley.com/profiles/marie-ange-lebre/">{% img no-border /images/social_networking_iconpack/mendeley_32.png "Mendeley" "Mendeley" %}</a>
     </td>
@@ -103,6 +100,7 @@ footer: false
     <td>Trista Lin</td>
     <td>PhD Student</td>
     <td class="social-icons">
+      <a href="http://perso.citi-lab.fr/tlin/">{% img no-border /images/icons/safari.png 32 32 "Homepage" "Homepage" %}</a>
       <a href="mailto:tristalinlin@gmail.com">{% img no-border /images/social_networking_iconpack/email_32.png "Email" "Email" %}</a>
      <a href="http://fr.linkedin.com/pub/trista-lin/20/b7/a07">{% img no-border /images/social_networking_iconpack/linkedin_32.png "LinedIn" "LinkedIn" %}</a>
     </td>

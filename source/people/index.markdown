@@ -24,7 +24,8 @@ footer: false
       <a href="mailto:frederic.le-mouel@insa-lyon.fr">{% img no-border /images/social_networking_iconpack/email_32.png "Email" "Email" %}</a>
       <a href="https://twitter.com/flemouel/">{% img no-border /images/social_networking_iconpack/twitter_32.png "Twitter" "Twitter" %}</a>
       <a href="https://plus.google.com/u/0/112585781767079355378/posts/">{% img no-border /images/social_networking_iconpack/google_plus_32.png "Google+" "Google+" %}</a>
-      <a href="http://www.linkedin.com/in/fredericlemouel">{% img no-border /images/social_networking_iconpack/linkedin_32.png "LinedIn" "LinkedIn" %}</a>
+      <a href="http://www.linkedin.com/in/fredericlemouel">{% img no-border /images/social_networking_iconpack/linkedin_32.png "LinkedIn" "LinkedIn" %}</a>
+      <a href="https://speakerdeck.com/flemouel">{% img no-border /images/social_networking_iconpack/speakerdeck_32.png "Speakerdeck" "Speakerdeck" %}</a>
       <a href="https://github.com/flemouel">{% img no-border /images/social_networking_iconpack/github_32.png "GitHub" "GitHub" %}</a>
       <a href="http://www.mendeley.com/profiles/frederic-le-mouel/">{% img no-border /images/social_networking_iconpack/mendeley_32.png "Mendeley" "Mendeley" %}</a>
       <a href="https://www.researchgate.net/profile/Frederic_Le_Mouel/">{% img no-border /images/social_networking_iconpack/researchgate_32.png "ResearchGate" "ResearchGate" %}</a>
@@ -37,7 +38,7 @@ footer: false
     <td class="social-icons">
       <a href="http://perso.citi.insa-lyon.fr/osimonin/">{% img no-border /images/icons/safari.png 32 32 "Homepage" "Homepage" %}</a>
       <a href="mailto:olivier.simonin@insa-lyon.fr">{% img no-border /images/social_networking_iconpack/email_32.png "Email" "Email" %}</a>
-      <a href="http://fr.linkedin.com/in/osimonin">{% img no-border /images/social_networking_iconpack/linkedin_32.png "LinedIn" "LinkedIn" %}</a>
+      <a href="http://fr.linkedin.com/in/osimonin">{% img no-border /images/social_networking_iconpack/linkedin_32.png "LinkedIn" "LinkedIn" %}</a>
     </td>
   </tr>
   <tr>
@@ -49,7 +50,8 @@ footer: false
       <a href="mailto:julien.ponge@insa-lyon.fr">{% img no-border /images/social_networking_iconpack/email_32.png "Email" "Email" %}</a>
       <a href="https://twitter.com/jponge">{% img no-border /images/social_networking_iconpack/twitter_32.png "Twitter" "Twitter" %}</a>
       <a href="https://plus.google.com/u/0/106143787836384076615/posts/">{% img no-border /images/social_networking_iconpack/google_plus_32.png "Google+" "Google+" %}</a>
-      <a href="http://www.linkedin.com/in/julienponge">{% img no-border /images/social_networking_iconpack/linkedin_32.png "LinedIn" "LinkedIn" %}</a>
+      <a href="http://www.linkedin.com/in/julienponge">{% img no-border /images/social_networking_iconpack/linkedin_32.png "LinkedIn" "LinkedIn" %}</a>
+      <a href="https://speakerdeck.com/jponge">{% img no-border /images/social_networking_iconpack/speakerdeck_32.png "Speakerdeck" "Speakerdeck" %}</a>
       <a href="https://github.com/jponge">{% img no-border /images/social_networking_iconpack/github_32.png "GitHub" "GitHub" %}</a>
       <a href="http://www.mendeley.com/profiles/julien-ponge/">{% img no-border /images/social_networking_iconpack/mendeley_32.png "Mendeley" "Mendeley" %}</a>
       <a href="http://log.julien.ponge.info/">{% img no-border /images/social_networking_iconpack/tumblr_32.png "Tumblr" "Tumblr" %}</a>
@@ -64,7 +66,7 @@ footer: false
       <a href="http://perso.citi-lab.fr/nstouls/">{% img no-border /images/icons/safari.png 32 32 "Homepage" "Homepage" %}</a>
       <a href="mailto:nicolas.stouls@insa-lyon.fr">{% img no-border /images/social_networking_iconpack/email_32.png "Email" "Email" %}</a>
       <a href="https://twitter.com/nico_s99">{% img no-border /images/social_networking_iconpack/twitter_32.png "Twitter" "Twitter" %}</a>
-     <a href="http://www.linkedin.com/pub/nicolas-stouls/7/81b/19">{% img no-border /images/social_networking_iconpack/linkedin_32.png "LinedIn" "LinkedIn" %}</a>
+     <a href="http://www.linkedin.com/pub/nicolas-stouls/7/81b/19">{% img no-border /images/social_networking_iconpack/linkedin_32.png "LinkedIn" "LinkedIn" %}</a>
       <a href="http://www.mendeley.com/profiles/nicolas-stouls/">{% img no-border /images/social_networking_iconpack/mendeley_32.png "Mendeley" "Mendeley" %}</a>
     </td>
   </tr>
@@ -74,7 +76,7 @@ footer: false
     <td>PhD Student</td>
     <td class="social-icons">
       <a href="mailto:yufang.dan@insa-lyon.fr">{% img no-border /images/social_networking_iconpack/email_32.png "Email" "Email" %}</a>
-     <a href="http://fr.linkedin.com/pub/yufang-dan/36/497/57a">{% img no-border /images/social_networking_iconpack/linkedin_32.png "LinedIn" "LinkedIn" %}</a>
+     <a href="http://fr.linkedin.com/pub/yufang-dan/36/497/57a">{% img no-border /images/social_networking_iconpack/linkedin_32.png "LinkedIn" "LinkedIn" %}</a>
     </td>
   </tr>
   <tr>
@@ -91,7 +93,7 @@ footer: false
     <td>Marie-Ange Lèbre</td>
     <td>PhD Student</td>
     <td class="social-icons">
-      <a href="mailto:marieange.lebre@gmail.com">{% img no-border /images/social_networking_iconpack/email_32.png "Email" "Email" %}</a>
+      <a href="mailto:marie-ange.lebre@insa-lyon.fr">{% img no-border /images/social_networking_iconpack/email_32.png "Email" "Email" %}</a>
       <a href="http://www.mendeley.com/profiles/marie-ange-lebre/">{% img no-border /images/social_networking_iconpack/mendeley_32.png "Mendeley" "Mendeley" %}</a>
     </td>
   </tr>
@@ -101,8 +103,22 @@ footer: false
     <td>PhD Student</td>
     <td class="social-icons">
       <a href="http://perso.citi-lab.fr/tlin/">{% img no-border /images/icons/safari.png 32 32 "Homepage" "Homepage" %}</a>
-      <a href="mailto:tristalinlin@gmail.com">{% img no-border /images/social_networking_iconpack/email_32.png "Email" "Email" %}</a>
-     <a href="http://fr.linkedin.com/pub/trista-lin/20/b7/a07">{% img no-border /images/social_networking_iconpack/linkedin_32.png "LinedIn" "LinkedIn" %}</a>
+      <a href="mailto:trista.lin@insa-lyon.fr">{% img no-border /images/social_networking_iconpack/email_32.png "Email" "Email" %}</a>
+     <a href="http://fr.linkedin.com/pub/trista-lin/20/b7/a07">{% img no-border /images/social_networking_iconpack/linkedin_32.png "LinkedIn" "LinkedIn" %}</a>
+    </td>
+  </tr>
+  <tr>
+    <td class="min-size">{% img /images/faces/face-schitic.jpg 100 100 'schitic :-)' 'schitic' %}</td>
+    <td>Stefan Chitic</td>
+    <td>PhD Student</td>
+    <td class="social-icons">
+      <a href="http://about.me/schitic">{% img no-border /images/icons/safari.png 32 32 "Homepage" "Homepage" %}</a>
+      <a href="mailto:stefan.chitic@insa-lyon.fr">{% img no-border /images/social_networking_iconpack/email_32.png "Email" "Email" %}</a>
+      <a href="https://twitter.com/schitic">{% img no-border /images/social_networking_iconpack/twitter_32.png "Twitter" "Twitter" %}</a>
+      <a href="https://plus.google.com/117382360334349199147/posts">{% img no-border /images/social_networking_iconpack/google_plus_32.png "Google+" "Google+" %}</a>
+      <a href="http://www.linkedin.com/pub/chitic-stefan/15/273/92/en">{% img no-border /images/social_networking_iconpack/linkedin_32.png "LinkedIn" "LinkedIn" %}</a>
+      <a href="http://fr.slideshare.net/schitic">{% img no-border /images/social_networking_iconpack/slideshare_32.png "Slideshare" "Slideshare" %}</a>
+      <a href="https://github.com/schitic">{% img no-border /images/social_networking_iconpack/github_32.png "GitHub" "GitHub" %}</a>
     </td>
   </tr>
 </table>

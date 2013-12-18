@@ -19,22 +19,29 @@ Several environments are emerging, all with *high dynamic properties*:
 
 ## Hot Research Topics
 
-We concentrate on the software development process, especially on designing **[Middleware](http://en.wikipedia.org/wiki/Middleware)**, including programming languages, virtual machines and service-oriented architectures to tackle *- at run time-* the dynamic nature of these environments:
+We concentrate on designing **[Integrated Software Systems](http://en.wikipedia.org/wiki/System_integration), especially **[System of Systems](http://en.wikipedia.org/wiki/System_of_systems) and **[Middleware](http://en.wikipedia.org/wiki/Middleware)**, including specific programming languages, operating systems, virtual machines, service-oriented architectures, distributed systems to tackle *- at run time-* the dynamic nature of these environments. Our software development process and platforms particularly focus on two major issues:
 
-* Adaptive Virtual Machines
-  * Performant
-  * Multi-tenant
-  * Embedded
-  * Run-time Evolving
-* Autonomous Distributed Architectures and Algorithms
-  * Self-* (Healing, Organizing)
-  * Collaborative
-  * Scalable
-  * Long-life Living
-* Context-aware Domain Specific Languages
-  * Context-aware Primitives
-  * Heterogeneous Hardware|Software-specialization
-* Run-time Verification
-  * Formal Description Discovery 
-  * Run-time Checking, Monitoring, Negotiation, Substitution
+* Adaptive in the Small
+  * Context-aware Domain Specific Languages
+    * Context-aware Primitives
+    * User Profiling and Adapting
+    * Heterogeneous Hardware|Software-specialization
+  * Adaptive Virtual Machines
+    * Performant
+    * Multi-tenant
+    * Embedded
+    * Run-time Evolving
+* Autonomous and Collaborative in the Large
+  * Autonomous Distributed Architectures and Algorithms
+    * Self-organizing
+    * Collaborative
+    * Scalable
+    * Long-life Living
+  * Autonomous and Resilient Systems
+    * Spontaneous Integration
+    * Formal Description Discovery 
+    * Run-time Checking, Monitoring, Negotiation, Substitution
+    * Self-healing
+
+<script async class="speakerdeck-embed" data-id="78b6fb7045f40131b3867226022e8218" data-ratio="1.41436464088398" src="//speakerdeck.com/assets/embed.js"></script>
 

@@ -16,6 +16,22 @@ footer: false
     </tr>
   </thead>
   <tr>
+    <td class="min-size">
+      <a href="http://www.insa-lyon.fr">{% img no-border /images/logos/logo-insalyon.png 200 107 'INSA Lyon' 'INSA Lyon' %}</a><br />
+    </td>
+    <td class="project-text">
+      CROME BQR - Mobile Robot Fleets For The Multi-View Analysis Of Complex Scenes
+    </td>
+    <td>2014 - 2015</td>
+    <td>
+      <a href="/people">{% img /images/faces/face-osimonin.jpg 50 50 'osimonin :-)' 'osimonin' %}</a>
+      <a href="/people">{% img /images/faces/face-schitic.jpg 50 50 'schitic :-)' 'schitic' %}</a>
+      <a href="/people">{% img /images/faces/face-jponge.jpg 50 50 'jponge :-)' 'jponge' %}</a>
+      <a href="/people">{% img /images/faces/face-nstouls.jpg 50 50 'nstouls :-)' 'nstouls' %}</a>
+      <a href="/people">{% img /images/faces/face-flemouel.jpg 50 50 'flemouel :-)' 'flemouel' %}</a>
+    </td>
+  </tr>
+  <tr>
     <td class="min-size"><a href="http://www.valeo.com">{% img no-border /images/sponsors/valeo.png 200 90 'Valeo' 'Valeo' %}</a></td>
     <td class="project-text">
       Service Deployment and Invocation under Delay Constraints in Vehicular Networks.

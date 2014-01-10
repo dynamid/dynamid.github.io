@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: projects | DynaMid]]></title>
+  <link href="http://dynamid.citi-lab.fr/news/categories/projects/atom.xml" rel="self"/>
+  <link href="http://dynamid.citi-lab.fr/"/>
+  <updated>2014-01-10T10:45:52+08:00</updated>
+  <id>http://dynamid.citi-lab.fr/</id>
+  <author>
+    <name><![CDATA[Dynamid Team]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Our first robot]]></title>
+    <link href="http://dynamid.citi-lab.fr/news/2013/10/15/our-first-robot/"/>
+    <updated>2013-10-15T00:00:00+08:00</updated>
+    <id>http://dynamid.citi-lab.fr/news/2013/10/15/our-first-robot</id>
+    <content type="html"><![CDATA[<p><img src="/images/robotic_citi.jpg"></p>
+
+<p>Our first robot just arrived!</p>
+
+<p>It is a TurtleBot that we named "Astro".</p>
+
+<p>Stay tuned for developments with Astro and its (future) brothers.</p>
+]]></content>
+  </entry>
+  
+</feed>

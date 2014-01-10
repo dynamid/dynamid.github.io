@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: robotics | DynaMid]]></title>
+  <link href="http://dynamid.citi-lab.fr/news/categories/robotics/atom.xml" rel="self"/>
+  <link href="http://dynamid.citi-lab.fr/"/>
+  <updated>2014-01-10T10:45:52+08:00</updated>
+  <id>http://dynamid.citi-lab.fr/</id>
+  <author>
+    <name><![CDATA[Dynamid Team]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[CROME BQR Grant]]></title>
+    <link href="http://dynamid.citi-lab.fr/news/2013/12/10/crome-bqr-grant/"/>
+    <updated>2013-12-10T00:00:00+08:00</updated>
+    <id>http://dynamid.citi-lab.fr/news/2013/12/10/crome-bqr-grant</id>
+    <content type="html"><![CDATA[<p>Dynamid has received a research grant from <a href="http://www.insa-lyon.fr/">INSA-Lyon</a> as part of a BQR (<em>Bonus Qualité Recherche</em> in French).</p>
+
+<p>The Dynamid-lead CROME project is a 2 years project (2014 -- 2015) that will focus on mobile robot fleets for the multi-view analysis of complex scenes (monitoring, emergency assistance, medical applications, etc).</p>
+
+<p>CROME is a joint-project with the <a href="http://www.citi-lab.fr/">CITI</a> and <a href="http://liris.cnrs.fr">LIRIS</a> research labs:</p>
+
+<ul>
+<li>CITI:
+
+<ul>
+<li><a href="http://dynamid.citi-lab.fr">Dynamid</a> (O.Simonin, S.Chitic, J.Ponge, N.Stouls, F. Le Mouël)</li>
+<li><a href="http://www.citi-lab.fr/team/urbanet/">Urbanet</a> (F.Valois)</li>
+</ul>
+</li>
+<li>LIRIS:
+
+<ul>
+<li><a href="http://liris.cnrs.fr/imagine/">Imagine</a> (C.Wolf, A.Baskurt, E.Dogan)</li>
+<li><a href="http://liris.cnrs.fr/equipes?id=65">Grama</a> (L.Matignon, S.Hassas)</li>
+</ul>
+</li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Our first robot]]></title>
+    <link href="http://dynamid.citi-lab.fr/news/2013/10/15/our-first-robot/"/>
+    <updated>2013-10-15T00:00:00+08:00</updated>
+    <id>http://dynamid.citi-lab.fr/news/2013/10/15/our-first-robot</id>
+    <content type="html"><![CDATA[<p><img src="/images/robotic_citi.jpg"></p>
+
+<p>Our first robot just arrived!</p>
+
+<p>It is a TurtleBot that we named "Astro".</p>
+
+<p>Stay tuned for developments with Astro and its (future) brothers.</p>
+]]></content>
+  </entry>
+  
+</feed>

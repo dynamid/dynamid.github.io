@@ -4,10 +4,10 @@
   <title><![CDATA[Category: jooflux | DynaMid]]></title>
   <link href="http://dynamid.citi-lab.fr/news/categories/jooflux/atom.xml" rel="self"/>
   <link href="http://dynamid.citi-lab.fr/"/>
-  <updated>2013-12-18T16:12:19+08:00</updated>
+  <updated>2014-01-10T10:45:52+08:00</updated>
   <id>http://dynamid.citi-lab.fr/</id>
   <author>
-    <name><![CDATA[DynaMid Team]]></name>
+    <name><![CDATA[Dynamid Team]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
@@ -18,7 +18,7 @@
     <link href="http://dynamid.citi-lab.fr/news/2013/02/19/release-of-jooflux-r1/"/>
     <updated>2013-02-19T15:07:00+08:00</updated>
     <id>http://dynamid.citi-lab.fr/news/2013/02/19/release-of-jooflux-r1</id>
-    <content type="html"><![CDATA[<p>The DynaMid members are pleased to announce the second release of JooFlux.</p>
+    <content type="html"><![CDATA[<p>The Dynamid members are pleased to announce the second release of JooFlux.</p>
 
 <p>JooFlux r1 can be obtained from <a href="https://github.com/dynamid/jooflux">https://github.com/dynamid/jooflux</a>
 and is made available under the terms of the
@@ -37,7 +37,7 @@ contribute bug fixes and improvements.</p>
     <link href="http://dynamid.citi-lab.fr/news/2013/02/07/lavajug/"/>
     <updated>2013-02-07T00:00:00+08:00</updated>
     <id>http://dynamid.citi-lab.fr/news/2013/02/07/lavajug</id>
-    <content type="html"><![CDATA[<p>DynaMid members went to the mythical <a href="http://www.lavajug.org/">LavaJUG</a> to talk about <a href="http://www.lavajug.org/xwiki/bin/view/Main/EventTen"><code>invokedynamic</code>, JooFlux and Golo</a>.</p>
+    <content type="html"><![CDATA[<p>Dynamid members went to the mythical <a href="http://www.lavajug.org/">LavaJUG</a> to talk about <a href="http://www.lavajug.org/xwiki/bin/view/Main/EventTen"><code>invokedynamic</code>, JooFlux and Golo</a>.</p>
 
 <p>This was also the first public demonstration of the <a href="http://golo-lang.org/">Golo programming language</a>.</p>
 
@@ -92,7 +92,7 @@ in the <a href="http://compas2013.inrialpes.fr">CFSE 2013 conference</a>.</p>
 
 <p>CFSE is the top French national conference on operating system research. The program committee
 comprises big names in the field, the kind with proven research and industrial track records, so
-this is definitely a strong achievement for DynaMid.</p>
+this is definitely a strong achievement for Dynamid.</p>
 
 <p>Our next-step is to take the thoroughly-detailed reviews that we obtained and target a top
 international conference.</p>
@@ -104,7 +104,7 @@ international conference.</p>
     <link href="http://dynamid.citi-lab.fr/news/2012/11/07/nighthacking/"/>
     <updated>2012-11-07T10:51:00+08:00</updated>
     <id>http://dynamid.citi-lab.fr/news/2012/11/07/nighthacking</id>
-    <content type="html"><![CDATA[<p>DynaMid member <a href="http://julien.ponge.info/">Julien Ponge</a> recorded a
+    <content type="html"><![CDATA[<p>Dynamid member <a href="http://julien.ponge.info/">Julien Ponge</a> recorded a
 <a href="http://steveonjava.com/nighthacking/">NightHacking session with Stephen Chin from Oracle</a>.</p>
 
 <p>Stephen was doing a tour of Europe before ending at the <a href="http://www.devoxx.com/">Devoxx conference</a>.

@@ -4,14 +4,48 @@
   <title><![CDATA[Category: language | DynaMid]]></title>
   <link href="http://dynamid.citi-lab.fr/news/categories/language/atom.xml" rel="self"/>
   <link href="http://dynamid.citi-lab.fr/"/>
-  <updated>2013-12-18T16:12:19+08:00</updated>
+  <updated>2014-01-10T10:45:52+08:00</updated>
   <id>http://dynamid.citi-lab.fr/</id>
   <author>
-    <name><![CDATA[DynaMid Team]]></name>
+    <name><![CDATA[Dynamid Team]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Golo at Devoxx 2013]]></title>
+    <link href="http://dynamid.citi-lab.fr/news/2013/11/12/golo-at-devoxx13/"/>
+    <updated>2013-11-12T00:00:00+08:00</updated>
+    <id>http://dynamid.citi-lab.fr/news/2013/11/12/golo-at-devoxx13</id>
+    <content type="html"><![CDATA[<p><a href="http://golo-lang.org/">Golo</a> was presented at <a href="http://devoxx.be/">Devoxx 2013</a>.</p>
+
+<p><a href="http://www.parleys.com/play/529c6e3fe4b0e619540cc3c6/">The video is available on Parleys</a> to subscribers and it will be made freely available over the course of 2014:</p>
+
+<iframe type="text/html" width="420" height="290" mozallowfullscreen="true" webkitallowfullscreen="true" src="http://www.parleys.com/share.html#play/529c6e3fe4b0e619540cc3c6" frameborder="0">&lt;br /&gt;</iframe>
+
+
+<p>Meanwhile you can have a look at the slides:</p>
+
+<script async class="speakerdeck-embed" data-id="2200ba302e9c0131c0c026e3fa07b66c" data-ratio="1.77777777777778" src="http://dynamid.citi-lab.fr//speakerdeck.com/assets/embed.js"></script>
+
+
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Golo in Java Magazine May/June 2013]]></title>
+    <link href="http://dynamid.citi-lab.fr/news/2013/06/15/golo-in-java-magazine/"/>
+    <updated>2013-06-15T00:00:00+08:00</updated>
+    <id>http://dynamid.citi-lab.fr/news/2013/06/15/golo-in-java-magazine</id>
+    <content type="html"><![CDATA[<p><img src="http://golo-lang.org/images/logo-golo.png" alt="Golo" /></p>
+
+<p><a href="http://golo-lang.org/">Golo</a> got a <a href="http://www.oraclejavamagazine-digital.com/javamagazine/20130506?pg=10#pg10">mention in the May/June 2013 edition</a> of Oracle Java Magazine.</p>
+
+<p><img src="/images/posts/golo-javamag.png"></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Meet Golo]]></title>
@@ -20,13 +54,13 @@
     <id>http://dynamid.citi-lab.fr/news/2013/04/03/meet-golo</id>
     <content type="html"><![CDATA[<p><img src="http://golo-lang.org/images/logo-golo.png" alt="Golo" /></p>
 
-<p>The DynaMid group unveiled <a href="http://golo-lang.org/">Golo</a> last week at the <a href="http://www.devoxx.fr/">Devoxx France 2013 conference</a>.</p>
+<p>The Dynamid group unveiled <a href="http://golo-lang.org/">Golo</a> last week at the <a href="http://www.devoxx.fr/">Devoxx France 2013 conference</a>.</p>
 
 <p>Golo is a new dynamic language for the Java virtual machine that takes advantage of <code>invokedynamic</code>.
 It is lightweight and runs <em>fast</em>.</p>
 
 <p>Golo will be useful to us for playing with language extensions. It provides us with a stronger JVM expertise within
-the DynaMid group. Of course Golo is far from being feature-complete, and we will keep pushing on the development front.</p>
+the Dynamid group. Of course Golo is far from being feature-complete, and we will keep pushing on the development front.</p>
 
 <p>More details regarding Golo:</p>
 

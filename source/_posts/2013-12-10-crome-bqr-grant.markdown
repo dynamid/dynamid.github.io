@@ -12,7 +12,7 @@ The Dynamid-lead CROME project is a 2 years project (2014 -- 2015) that will foc
 CROME is a joint-project with the [CITI](http://www.citi-lab.fr/) and [LIRIS](http://liris.cnrs.fr) research labs:
 
 * CITI:
-  * [Dynamid](http://dynamid.citi-lab.fr) (O.Simonin, S.Chitic, J.Ponge, N.Stous, F. Le Mouel)
+  * [Dynamid](http://dynamid.citi-lab.fr) (O.Simonin, S.Chitic, J.Ponge, N.Stouls, F. Le Mouël)
   * [Urbanet](http://www.citi-lab.fr/team/urbanet/) (F.Valois)
 * LIRIS:
   * [Imagine](http://liris.cnrs.fr/imagine/) (C.Wolf, A.Baskurt, E.Dogan)

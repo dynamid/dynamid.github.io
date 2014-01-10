@@ -6,7 +6,7 @@ comments: true
 categories: jvm java jooflux software release publication invokedynamic
 ---
 
-The DynaMid members are pleased to announce the second release of JooFlux.
+The Dynamid members are pleased to announce the second release of JooFlux.
 
 JooFlux r1 can be obtained from [https://github.com/dynamid/jooflux](https://github.com/dynamid/jooflux)
 and is made available under the terms of the

@@ -8,13 +8,13 @@ categories: jvm java golo language software release publication invokedynamic
 
 ![Golo](http://golo-lang.org/images/logo-golo.png)
 
-The DynaMid group unveiled [Golo](http://golo-lang.org/) last week at the [Devoxx France 2013 conference](http://www.devoxx.fr/).
+The Dynamid group unveiled [Golo](http://golo-lang.org/) last week at the [Devoxx France 2013 conference](http://www.devoxx.fr/).
 
 Golo is a new dynamic language for the Java virtual machine that takes advantage of `invokedynamic`.
 It is lightweight and runs *fast*.
 
 Golo will be useful to us for playing with language extensions. It provides us with a stronger JVM expertise within
-the DynaMid group. Of course Golo is far from being feature-complete, and we will keep pushing on the development front.
+the Dynamid group. Of course Golo is far from being feature-complete, and we will keep pushing on the development front.
 
 More details regarding Golo:
 

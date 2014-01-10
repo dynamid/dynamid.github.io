@@ -6,6 +6,6 @@ comments: true
 categories: Internet-of-things Web-of-things Summer-school.
 ---
 
-Some DynaMid team members was in the organisation and scientific comitees of this school about Web of Things. 
+Some Dynamid team members were in the organization and scientific committees of this school about Web of Things. 
 
 [Here is school's website](http://www.web-intelligence-rhone-alpes.org/Ecoles/2013/) in french, with the program.

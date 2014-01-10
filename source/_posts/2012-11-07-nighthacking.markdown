@@ -6,7 +6,7 @@ comments: true
 categories: talk jooflux java jvm invokedynamic video
 ---
 
-DynaMid member [Julien Ponge](http://julien.ponge.info/) recorded a
+Dynamid member [Julien Ponge](http://julien.ponge.info/) recorded a
 [NightHacking session with Stephen Chin from Oracle](http://steveonjava.com/nighthacking/).
 
 Stephen was doing a tour of Europe before ending at the [Devoxx conference](http://www.devoxx.com/).

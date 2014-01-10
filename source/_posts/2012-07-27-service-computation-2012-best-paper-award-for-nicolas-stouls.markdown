@@ -6,7 +6,7 @@ comments: true
 categories: osgi self-healing-software stale-references substitution award soa
 ---
 
-DynaMid member [Nicolas Stouls](http://perso.citi-lab.fr/nstouls/)
+Dynamid member [Nicolas Stouls](http://perso.citi-lab.fr/nstouls/)
 published a paper called
 ["A Monitoring Approach for Dynamic Service-Oriented Architecture Systems](http://www.iaria.org/conferences2012/awardsSERVICECOMPUTATION12/servicecomputation2012_a2.pdf)
 in the *The Fourth International Conferences on Advanced Service Computing* that was held in Nice last July.

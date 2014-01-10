@@ -20,15 +20,15 @@ All rights are reserved and strictly limited.
 
 #### Director of the publication
 
-Frédéric Le Mouël, Head of DynaMid project.
+Frédéric Le Mouël, Head of Dynamid team.
 
 #### Project Management
 
-DynaMid project.
+Dynamid team.
 
 #### Conception and development
 
-DynaMid project ([credits](/about)).
+Dynamid team ([credits](/about)).
 
 #### Hosting
 

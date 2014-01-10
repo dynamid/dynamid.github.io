@@ -6,7 +6,7 @@ comments: true
 categories: jvm java jooflux software release publication invokedynamic
 ---
 
-The DynaMid members are pleased to announce the initial public release of JooFlux:
+The Dynamid members are pleased to announce the initial public release of JooFlux:
 
 > JooFlux a JVM agent that allows both the dynamic replacement of method implementations and the
 > application of aspect advices. Compared to existing approaches, JooFlux takes a novel route by

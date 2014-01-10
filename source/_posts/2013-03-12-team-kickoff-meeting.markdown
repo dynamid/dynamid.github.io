@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "DynaMid Kickoff Meeting"
+title: "Dynamid Kickoff Meeting"
 date: 2013-03-12 14:00
 comments: true
 categories: team meeting
 ---
 
-The DynaMid team has hold it's 2013 Kickoff Meeting in a good ambiance ! This meeting has introduced the members of the team and presented the on-going projects.
+The Dynamid team has hold it's 2013 Kickoff Meeting in a good ambiance ! This meeting has introduced the members of the team and presented the on-going projects.
 
 Let's meet again at the end of the year for the Late Spring Break. Hoping fruitful new collaborations, idea emulations and few administrative care !
 

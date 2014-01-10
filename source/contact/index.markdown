@@ -14,7 +14,7 @@ Frédéric Le Mouël - Head
 
 ## Address
 
-DynaMid Team  
+Dynamid Team  
 INRIA-CITI Laboratory <a href="http://www.citi.insa-lyon.fr"><i class="icon-globe"></i></a>    
 Telecommunication Department <a href="http://telecom.insa-lyon.fr"><i class="icon-globe"></i></a>  
 INSA-Lyon <a href="http://www.insa-lyon.fr"><i class="icon-globe"></i></a>  

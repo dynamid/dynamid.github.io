@@ -7,7 +7,7 @@ categories: grants team robotics
 
 Dynamid has received a research grant from [INSA-Lyon](http://www.insa-lyon.fr/) as part of a BQR (*Bonus Qualité Recherche* in French).
 
-The Dynamid-lead CROME project is a 2 years project (2014 -- 2015) that will focus on mobile robot fleets for the multi-view analysis of complex scenes (monitoring, emergency assistance, medical applications, etc).
+The Dynamid-lead CROME project (Standing for "Coordination d'une flotille de Robots mObiles pour l'analyse Multi-vue de scènes complexEs") is a 2 years project (2014 -- 2015) that will focus on mobile robot fleets for the multi-view analysis of complex scenes (monitoring, emergency assistance, medical applications, etc).
 
 CROME is a joint-project with the [CITI](http://www.citi-lab.fr/) and [LIRIS](http://liris.cnrs.fr) research labs:
 

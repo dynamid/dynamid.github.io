@@ -4,7 +4,7 @@
   <title><![CDATA[DynaMid]]></title>
   <link href="http://dynamid.citi-lab.fr/atom.xml" rel="self"/>
   <link href="http://dynamid.citi-lab.fr/"/>
-  <updated>2014-01-10T10:45:52+08:00</updated>
+  <updated>2014-09-30T01:36:10+02:00</updated>
   <id>http://dynamid.citi-lab.fr/</id>
   <author>
     <name><![CDATA[Dynamid Team]]></name>
@@ -14,9 +14,81 @@
 
   
   <entry>
+    <title type="html"><![CDATA[Congratulation Yufang DAN]]></title>
+    <link href="http://dynamid.citi-lab.fr/news/2014/05/14/Congratulation-Yufang-Dan/"/>
+    <updated>2014-05-14T00:00:00+02:00</updated>
+    <id>http://dynamid.citi-lab.fr/news/2014/05/14/Congratulation-Yufang-Dan</id>
+    <content type="html"><![CDATA[<p>Yufang DAN just defended her PhD about
+&#8220;Security and self-healability enforcement of
+dynamic components in a service-oriented system&#8221;.</p>
+
+<p>Congratulation Yufang !</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[DynaMid at Innorobo 2014]]></title>
+    <link href="http://dynamid.citi-lab.fr/news/2014/03/20/DynaMid-at-Innorob-2014/"/>
+    <updated>2014-03-20T00:00:00+01:00</updated>
+    <id>http://dynamid.citi-lab.fr/news/2014/03/20/DynaMid-at-Innorob-2014</id>
+    <content type="html"><![CDATA[<p>DynaMid team was at Innorobo 2014 on the INSA stand. Olivier, Stefan and Nicolas presented some prototypes and ideas in the context of the mechatronics and robotics. They mainly shown some teaching results, that are more visual.</p>
+
+<p>The following video is a presentation by Nicolas of a mechatronical prototype realized by Jean-Luc Pelligotti (INSA-Lyon) in the context of its teaching.</p>
+
+<ul>
+<li><a href="http://www.youtube.com/watch?v=8y3X7Sn7ui0">Innorobo presentation</a> (N.Stouls)</li>
+<li><a href="http://www.youtube.com/watch?v=TioTUlm8yec">Di Wheel official presentation</a> (J-L.Pelligotti)</li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Open associate professor position in DynaMid team]]></title>
+    <link href="http://dynamid.citi-lab.fr/news/2014/02/27/Open-associate-professor-position-in-DynaMid-Team/"/>
+    <updated>2014-02-27T00:00:00+01:00</updated>
+    <id>http://dynamid.citi-lab.fr/news/2014/02/27/Open-associate-professor-position-in-DynaMid-Team</id>
+    <content type="html"><![CDATA[<p>DynaMid team is recruting an associate professor under the thematics &#8220;Distributed decision making in robotics&#8221;. To apply, please consult the <a href="http://www.insa-lyon.fr/en/fr/insa-de-lyon/recrutement/enseignants/chercheurs/mcf/maitre-de-conference">open positions web page of INSA-Lyon</a> and focus on the position &#8220;27 MCF TC CITI 0327&#8221;.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Workshop on Multi-Agent Coordination in Robotic Exploration]]></title>
+    <link href="http://dynamid.citi-lab.fr/news/2014/02/20/Workshop-on-Multi-Agent-Coordination-in-Robotic-Exploration/"/>
+    <updated>2014-02-20T00:00:00+01:00</updated>
+    <id>http://dynamid.citi-lab.fr/news/2014/02/20/Workshop-on-Multi-Agent-Coordination-in-Robotic-Exploration</id>
+    <content type="html"><![CDATA[<p>Olivier Simonin and Jan Faigl will organize in August 18th, 2014, at Prague the <a href="http://robotics.fel.cvut.cz/macorex14/">Workshop on Multi-Agent Coordination in Robotic Exploration</a>.
+Robotic exploration is a fundamental problem in mobile robotics that addresses one of the most challenging application scenarios to provide an efficient approach to collect information about an unknown environment. There are many motivational scenarios for practical deployment of mobile robots and probably even more approaches promising benefits from deploying several mobile robots. However, what are the real performance guarantees of the modern sophisticated exploration strategies? Do the novel methods and experimental demonstrations provide qualitatively better results in a new principle way or are these improvement only the results of a better tuning for the particular platforms and scenarios? What is the bridge between algorithmic complexity and robotic limitations? How to define scalable solutions?</p>
+
+<p>The goal of the workshop is to foster a discussion about approaches and paradigms studied in artificial intelligence (AI) and multi-agent system (MAS) communities with the robotic limitations and requirements arising from their practical deployment in multi-robot exploration. In particular, the workshop is intended to explore the aforementioned questions within the context of the following scientific challenges:</p>
+
+<ul>
+<li>How balancing algorithmic (MAS) complexity and robotics limitation?</li>
+<li>How to measure performance in multi-robot exploration?</li>
+<li>How to facilitate the robotic deployment of AI strategies?</li>
+<li>What are the robotic limitations needed to be considered in the exploration strategies?</li>
+<li>What are the multi-robot benchmarks allowing qualitative and quantitative comparisons?</li>
+<li>What is the niche of multi-agent coordination mechanisms and capabilities of nowadays multi-robot systems?</li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[French application for RoboCup2016 organisation]]></title>
+    <link href="http://dynamid.citi-lab.fr/news/2014/02/15/French-application-for-RoboCup2016-organisation/"/>
+    <updated>2014-02-15T00:00:00+01:00</updated>
+    <id>http://dynamid.citi-lab.fr/news/2014/02/15/French-application-for-RoboCup2016-organisation</id>
+    <content type="html"><![CDATA[<p>Olivier simonin, from DynaMid, is heading the French application to the organisation of the international RoboCup 2016.</p>
+
+<p>RoboCup, its more than 3000 participants from 30 countries. More information on the dedicated website: <a href="https://sites.google.com/site/robocupfrance2016/home">RoboCup2016</a></p>
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[WoT Summer School 2013 report video]]></title>
     <link href="http://dynamid.citi-lab.fr/news/2014/01/07/wot-summer-school-report-video/"/>
-    <updated>2014-01-07T14:22:00+08:00</updated>
+    <updated>2014-01-07T14:22:00+01:00</updated>
     <id>http://dynamid.citi-lab.fr/news/2014/01/07/wot-summer-school-report-video</id>
     <content type="html"><![CDATA[<p>A report video following the <a href="http://dynamid.citi-lab.fr/news/2013/09/02/web-of-things-summer-school/">WoT Summer School</a> is now available (in French):</p>
 
@@ -30,11 +102,11 @@
   <entry>
     <title type="html"><![CDATA[CROME BQR Grant]]></title>
     <link href="http://dynamid.citi-lab.fr/news/2013/12/10/crome-bqr-grant/"/>
-    <updated>2013-12-10T00:00:00+08:00</updated>
+    <updated>2013-12-10T00:00:00+01:00</updated>
     <id>http://dynamid.citi-lab.fr/news/2013/12/10/crome-bqr-grant</id>
     <content type="html"><![CDATA[<p>Dynamid has received a research grant from <a href="http://www.insa-lyon.fr/">INSA-Lyon</a> as part of a BQR (<em>Bonus Qualité Recherche</em> in French).</p>
 
-<p>The Dynamid-lead CROME project is a 2 years project (2014 &#8211; 2015) that will focus on mobile robot fleets for the multi-view analysis of complex scenes (monitoring, emergency assistance, medical applications, etc).</p>
+<p>The Dynamid-lead CROME project (Standing for &#8220;Coordination d&#8217;une flotille de Robots mObiles pour l&#8217;analyse Multi-vue de scènes complexEs&#8221;) is a 2 years project (2014 &#8211; 2015) that will focus on mobile robot fleets for the multi-view analysis of complex scenes (monitoring, emergency assistance, medical applications, etc).</p>
 
 <p>CROME is a joint-project with the <a href="http://www.citi-lab.fr/">CITI</a> and <a href="http://liris.cnrs.fr">LIRIS</a> research labs:</p>
 
@@ -61,7 +133,7 @@
   <entry>
     <title type="html"><![CDATA[Golo at Devoxx 2013]]></title>
     <link href="http://dynamid.citi-lab.fr/news/2013/11/12/golo-at-devoxx13/"/>
-    <updated>2013-11-12T00:00:00+08:00</updated>
+    <updated>2013-11-12T00:00:00+01:00</updated>
     <id>http://dynamid.citi-lab.fr/news/2013/11/12/golo-at-devoxx13</id>
     <content type="html"><![CDATA[<p><a href="http://golo-lang.org/">Golo</a> was presented at <a href="http://devoxx.be/">Devoxx 2013</a>.</p>
 
@@ -82,7 +154,7 @@
   <entry>
     <title type="html"><![CDATA[Our first robot]]></title>
     <link href="http://dynamid.citi-lab.fr/news/2013/10/15/our-first-robot/"/>
-    <updated>2013-10-15T00:00:00+08:00</updated>
+    <updated>2013-10-15T00:00:00+02:00</updated>
     <id>http://dynamid.citi-lab.fr/news/2013/10/15/our-first-robot</id>
     <content type="html"><![CDATA[<p><img src="http://dynamid.citi-lab.fr/images/robotic_citi.jpg"></p>
 
@@ -97,7 +169,7 @@
   <entry>
     <title type="html"><![CDATA[Golo at PPPJ 2013]]></title>
     <link href="http://dynamid.citi-lab.fr/news/2013/09/19/golo-at-pppj-2013/"/>
-    <updated>2013-09-19T14:33:00+08:00</updated>
+    <updated>2013-09-19T14:33:00+02:00</updated>
     <id>http://dynamid.citi-lab.fr/news/2013/09/19/golo-at-pppj-2013</id>
     <content type="html"><![CDATA[<p>Our first research paper on the <a href="http://golo-lang.org/">Golo programming language</a> was published in the proceedings of the <a href="http://pppj2013.dhbw.de/conference-pppj2013.html">PPPJ 2013 conference</a>:</p>
 
@@ -115,7 +187,7 @@
   <entry>
     <title type="html"><![CDATA[New Dynamid members: Olivier and Stefan]]></title>
     <link href="http://dynamid.citi-lab.fr/news/2013/09/10/new-dynamid-members-olivier-and-stefan/"/>
-    <updated>2013-09-10T00:00:00+08:00</updated>
+    <updated>2013-09-10T00:00:00+02:00</updated>
     <id>http://dynamid.citi-lab.fr/news/2013/09/10/new-dynamid-members-olivier-and-stefan</id>
     <content type="html"><![CDATA[<p>The Dynamid team welcomes 2 new members!</p>
 
@@ -130,7 +202,7 @@
   <entry>
     <title type="html"><![CDATA[Web of Things Summer school 2013]]></title>
     <link href="http://dynamid.citi-lab.fr/news/2013/09/02/web-of-things-summer-school/"/>
-    <updated>2013-09-02T09:00:00+08:00</updated>
+    <updated>2013-09-02T09:00:00+02:00</updated>
     <id>http://dynamid.citi-lab.fr/news/2013/09/02/web-of-things-summer-school</id>
     <content type="html"><![CDATA[<p>Some Dynamid team members were in the organization and scientific committees of this school about Web of Things.</p>
 
@@ -141,7 +213,7 @@
   <entry>
     <title type="html"><![CDATA[Golo in Java Magazine May/June 2013]]></title>
     <link href="http://dynamid.citi-lab.fr/news/2013/06/15/golo-in-java-magazine/"/>
-    <updated>2013-06-15T00:00:00+08:00</updated>
+    <updated>2013-06-15T00:00:00+02:00</updated>
     <id>http://dynamid.citi-lab.fr/news/2013/06/15/golo-in-java-magazine</id>
     <content type="html"><![CDATA[<p><img src="http://golo-lang.org/images/logo-golo.png" alt="Golo" /></p>
 
@@ -154,7 +226,7 @@
   <entry>
     <title type="html"><![CDATA[SEmba 2013 : a regional workshop about embedded systems]]></title>
     <link href="http://dynamid.citi-lab.fr/news/2013/04/04/semba-2013-a-regional-workshop-about-embedded-systems/"/>
-    <updated>2013-04-04T09:00:00+08:00</updated>
+    <updated>2013-04-04T09:00:00+02:00</updated>
     <id>http://dynamid.citi-lab.fr/news/2013/04/04/semba-2013-a-regional-workshop-about-embedded-systems</id>
     <content type="html"><![CDATA[<p>Last 4th and 5th April 2013, the Dynamid team organized the 4th SEmba workshop. SEmba (standing for Embedded Systems in French) is a regional workshop sponsorized by the Region Rhône-Alpes, and trying to gives some animation in this research community.</p>
 
@@ -165,7 +237,7 @@
   <entry>
     <title type="html"><![CDATA[Meet Golo]]></title>
     <link href="http://dynamid.citi-lab.fr/news/2013/04/03/meet-golo/"/>
-    <updated>2013-04-03T12:22:00+08:00</updated>
+    <updated>2013-04-03T12:22:00+02:00</updated>
     <id>http://dynamid.citi-lab.fr/news/2013/04/03/meet-golo</id>
     <content type="html"><![CDATA[<p><img src="http://golo-lang.org/images/logo-golo.png" alt="Golo" /></p>
 
@@ -197,7 +269,7 @@ the Dynamid group. Of course Golo is far from being feature-complete, and we wil
   <entry>
     <title type="html"><![CDATA[Dynamid Kickoff Meeting]]></title>
     <link href="http://dynamid.citi-lab.fr/news/2013/03/12/team-kickoff-meeting/"/>
-    <updated>2013-03-12T14:00:00+08:00</updated>
+    <updated>2013-03-12T14:00:00+01:00</updated>
     <id>http://dynamid.citi-lab.fr/news/2013/03/12/team-kickoff-meeting</id>
     <content type="html"><![CDATA[<p>The Dynamid team has hold it&#8217;s 2013 Kickoff Meeting in a good ambiance ! This meeting has introduced the members of the team and presented the on-going projects.</p>
 
@@ -213,7 +285,7 @@ the Dynamid group. Of course Golo is far from being feature-complete, and we wil
   <entry>
     <title type="html"><![CDATA[Release of JooFlux r1]]></title>
     <link href="http://dynamid.citi-lab.fr/news/2013/02/19/release-of-jooflux-r1/"/>
-    <updated>2013-02-19T15:07:00+08:00</updated>
+    <updated>2013-02-19T15:07:00+01:00</updated>
     <id>http://dynamid.citi-lab.fr/news/2013/02/19/release-of-jooflux-r1</id>
     <content type="html"><![CDATA[<p>The Dynamid members are pleased to announce the second release of JooFlux.</p>
 
@@ -232,7 +304,7 @@ contribute bug fixes and improvements.</p>
   <entry>
     <title type="html"><![CDATA[LavaJUG]]></title>
     <link href="http://dynamid.citi-lab.fr/news/2013/02/07/lavajug/"/>
-    <updated>2013-02-07T00:00:00+08:00</updated>
+    <updated>2013-02-07T00:00:00+01:00</updated>
     <id>http://dynamid.citi-lab.fr/news/2013/02/07/lavajug</id>
     <content type="html"><![CDATA[<p>Dynamid members went to the mythical <a href="http://www.lavajug.org/">LavaJUG</a> to talk about <a href="http://www.lavajug.org/xwiki/bin/view/Main/EventTen"><code>invokedynamic</code>, JooFlux and Golo</a>.</p>
 
@@ -255,7 +327,7 @@ contribute bug fixes and improvements.</p>
   <entry>
     <title type="html"><![CDATA[Demystifying invokedynamic in Oracle Java Magazine]]></title>
     <link href="http://dynamid.citi-lab.fr/news/2013/01/28/demystifying-invokedynamic-in-oracle-java-magazine/"/>
-    <updated>2013-01-28T10:31:00+08:00</updated>
+    <updated>2013-01-28T10:31:00+01:00</updated>
     <id>http://dynamid.citi-lab.fr/news/2013/01/28/demystifying-invokedynamic-in-oracle-java-magazine</id>
     <content type="html"><![CDATA[<p><a href="http://julien.ponge.info/">Julien Ponge</a> wrote an article called
 <a href="http://www.oraclejavamagazine-digital.com/javamagazine/20130102#pg50">&#8220;Demystifying invokedynamic&#8221;</a>
@@ -274,7 +346,7 @@ fame who currently works on <a href="http://openjdk.java.net/projects/nashorn/">
   <entry>
     <title type="html"><![CDATA[JooFlux @ ComPAS, Grenoble, 2013]]></title>
     <link href="http://dynamid.citi-lab.fr/news/2013/01/24/jooflux-at-compas-2013/"/>
-    <updated>2013-01-24T07:21:00+08:00</updated>
+    <updated>2013-01-24T07:21:00+01:00</updated>
     <id>http://dynamid.citi-lab.fr/news/2013/01/24/jooflux-at-compas-2013</id>
     <content type="html"><![CDATA[<p>The current state of our research on the <a href="https://github.com/dynamid/jooflux">JooFlux project</a>
 was presented last week at the <a href="http://compas2013.inrialpes.fr">ComPAS 2013 conference</a>.</p>
@@ -294,86 +366,6 @@ specialists in the larger field of operating systems.</p>
 <img src="http://dynamid.citi-lab.fr/images/conferences/ComPAS-CFSE2013/P1040471.jpg">
 <img src="http://dynamid.citi-lab.fr/images/conferences/ComPAS-CFSE2013/P1040476.jpg">
 <img src="http://dynamid.citi-lab.fr/images/conferences/ComPAS-CFSE2013/P1040478.jpg"></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Smartphone Gateway Poster @ CFSE, Grenoble, 2013]]></title>
-    <link href="http://dynamid.citi-lab.fr/news/2012/11/28/smartphone-gateway-poster-in-cfse-2013/"/>
-    <updated>2012-11-28T10:32:00+08:00</updated>
-    <id>http://dynamid.citi-lab.fr/news/2012/11/28/smartphone-gateway-poster-in-cfse-2013</id>
-    <content type="html"><![CDATA[<p><a href="http://dynamid.citi-lab.fr/people/">Roya Golchay</a> will present preliminary ideas
-of her PhD work in the <a href="http://compas2013.inrialpes.fr">CFSE 2013 conference</a>.</p>
-
-<p>CFSE is the top French national conference on operating system research. The program
-committee comprises big names in the field, and we hope many interesting discussions
-over coffee about the poster.</p>
-
-<p><img src="http://dynamid.citi-lab.fr/images/conferences/ComPAS-CFSE2013/P1040700.jpg"></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[JooFlux article accepted at CFSE 2013]]></title>
-    <link href="http://dynamid.citi-lab.fr/news/2012/11/21/jooflux-paper-in-cfse-2013/"/>
-    <updated>2012-11-21T11:10:00+08:00</updated>
-    <id>http://dynamid.citi-lab.fr/news/2012/11/21/jooflux-paper-in-cfse-2013</id>
-    <content type="html"><![CDATA[<p>We are glad to report that our first peer-reviewed scientific paper
-for <a href="http://github.com/dynamid/jooflux">JooFlux</a> has been accepted
-in the <a href="http://compas2013.inrialpes.fr">CFSE 2013 conference</a>.</p>
-
-<p>CFSE is the top French national conference on operating system research. The program committee
-comprises big names in the field, the kind with proven research and industrial track records, so
-this is definitely a strong achievement for Dynamid.</p>
-
-<p>Our next-step is to take the thoroughly-detailed reviews that we obtained and target a top
-international conference.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Nighthacking]]></title>
-    <link href="http://dynamid.citi-lab.fr/news/2012/11/07/nighthacking/"/>
-    <updated>2012-11-07T10:51:00+08:00</updated>
-    <id>http://dynamid.citi-lab.fr/news/2012/11/07/nighthacking</id>
-    <content type="html"><![CDATA[<p>Dynamid member <a href="http://julien.ponge.info/">Julien Ponge</a> recorded a
-<a href="http://steveonjava.com/nighthacking/">NightHacking session with Stephen Chin from Oracle</a>.</p>
-
-<p>Stephen was doing a tour of Europe before ending at the <a href="http://www.devoxx.com/">Devoxx conference</a>.
-He had a stop in Lyon and the <a href="http://www.lyonjug.org">LyonJUG</a> arranged the interview.</p>
-
-<p>During the 1 hour informal discussion, Julien talked about bytecode manipulation on the JVM
-and even demoed <a href="https://github.com/dynamid/jooflux">JooFlux</a> at one point.</p>
-
-<iframe width="640" height="360" src="http://www.youtube-nocookie.com/embed/Z4nmsG7Bv2M" frameborder="0" allowfullscreen></iframe>
-
-
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[JooFlux in the OTN Java Developer Spotlight]]></title>
-    <link href="http://dynamid.citi-lab.fr/news/2012/10/30/jooflux-in-the-otn-java-developer-spotlight/"/>
-    <updated>2012-10-30T10:36:00+08:00</updated>
-    <id>http://dynamid.citi-lab.fr/news/2012/10/30/jooflux-in-the-otn-java-developer-spotlight</id>
-    <content type="html"><![CDATA[<p>Our project <a href="https://github.com/dynamid/jooflux">JooFlux</a> just made it into the
-<em>Developer Spotlight</em> section of the <a href="http://www.oracle.com/technetwork/java/index.html">Oracle Technology Network</a>!</p>
-
-<p><img src="http://dynamid.citi-lab.fr/images/posts/jooflux-otn-ds.png" title="JooFlux in the OTN Java Developer Spotlight" ></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Frederic Le Mouel participates to Zhang Heng Program in China]]></title>
-    <link href="http://dynamid.citi-lab.fr/news/2012/10/14/frederic-le-mouel-participates-to-zhang-heng-program-in-china/"/>
-    <updated>2012-10-14T17:06:00+08:00</updated>
-    <id>http://dynamid.citi-lab.fr/news/2012/10/14/frederic-le-mouel-participates-to-zhang-heng-program-in-china</id>
-    <content type="html"><![CDATA[<p><a href="http://en.wikipedia.org/wiki/Zhang_Heng"><img class="right" src="http://dynamid.citi-lab.fr/images/zhang_heng.jpg" width="220" height="334" title="Zhang Heng - Chinese astronomer, mathematician, inventor, geographer, cartographer, artist, poet, statesman, and literary scholar" alt="Zhang Heng"></a></p>
-
-<p>Frédéric Le Mouël participates to the Zhang Heng program about &#8220;Smart Cities and Internet of Things&#8221; organized by the French Ministry of Foreign Affairs and particularly the <a href="http://www.ambafrance-cn.org/Le-programme-Zhang-Heng.html?lang=fr" title="">French Embassy in China</a> from October, 14th to 20th.</p>
-
-<p>The program includes visits of Chinese Academy of Sciences, National Natural Science Foundation of China, Beihang University, Shanghai Jiao Tong University, plans discussions and workshops between French and Chinese researchers to initiate project collaborations.</p>
 ]]></content>
   </entry>
   

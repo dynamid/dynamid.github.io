@@ -4,7 +4,7 @@
   <title><![CDATA[Category: invokedynamic | DynaMid]]></title>
   <link href="http://dynamid.citi-lab.fr/news/categories/invokedynamic/atom.xml" rel="self"/>
   <link href="http://dynamid.citi-lab.fr/"/>
-  <updated>2014-01-10T10:45:52+08:00</updated>
+  <updated>2014-09-30T01:36:10+02:00</updated>
   <id>http://dynamid.citi-lab.fr/</id>
   <author>
     <name><![CDATA[Dynamid Team]]></name>
@@ -16,7 +16,7 @@
   <entry>
     <title type="html"><![CDATA[Golo in Java Magazine May/June 2013]]></title>
     <link href="http://dynamid.citi-lab.fr/news/2013/06/15/golo-in-java-magazine/"/>
-    <updated>2013-06-15T00:00:00+08:00</updated>
+    <updated>2013-06-15T00:00:00+02:00</updated>
     <id>http://dynamid.citi-lab.fr/news/2013/06/15/golo-in-java-magazine</id>
     <content type="html"><![CDATA[<p><img src="http://golo-lang.org/images/logo-golo.png" alt="Golo" /></p>
 
@@ -29,7 +29,7 @@
   <entry>
     <title type="html"><![CDATA[Meet Golo]]></title>
     <link href="http://dynamid.citi-lab.fr/news/2013/04/03/meet-golo/"/>
-    <updated>2013-04-03T12:22:00+08:00</updated>
+    <updated>2013-04-03T12:22:00+02:00</updated>
     <id>http://dynamid.citi-lab.fr/news/2013/04/03/meet-golo</id>
     <content type="html"><![CDATA[<p><img src="http://golo-lang.org/images/logo-golo.png" alt="Golo" /></p>
 
@@ -61,7 +61,7 @@ the Dynamid group. Of course Golo is far from being feature-complete, and we wil
   <entry>
     <title type="html"><![CDATA[Release of JooFlux r1]]></title>
     <link href="http://dynamid.citi-lab.fr/news/2013/02/19/release-of-jooflux-r1/"/>
-    <updated>2013-02-19T15:07:00+08:00</updated>
+    <updated>2013-02-19T15:07:00+01:00</updated>
     <id>http://dynamid.citi-lab.fr/news/2013/02/19/release-of-jooflux-r1</id>
     <content type="html"><![CDATA[<p>The Dynamid members are pleased to announce the second release of JooFlux.</p>
 
@@ -80,7 +80,7 @@ contribute bug fixes and improvements.</p>
   <entry>
     <title type="html"><![CDATA[Demystifying invokedynamic in Oracle Java Magazine]]></title>
     <link href="http://dynamid.citi-lab.fr/news/2013/01/28/demystifying-invokedynamic-in-oracle-java-magazine/"/>
-    <updated>2013-01-28T10:31:00+08:00</updated>
+    <updated>2013-01-28T10:31:00+01:00</updated>
     <id>http://dynamid.citi-lab.fr/news/2013/01/28/demystifying-invokedynamic-in-oracle-java-magazine</id>
     <content type="html"><![CDATA[<p><a href="http://julien.ponge.info/">Julien Ponge</a> wrote an article called
 <a href="http://www.oraclejavamagazine-digital.com/javamagazine/20130102#pg50">"Demystifying invokedynamic"</a>
@@ -99,7 +99,7 @@ fame who currently works on <a href="http://openjdk.java.net/projects/nashorn/">
   <entry>
     <title type="html"><![CDATA[JooFlux article accepted at CFSE 2013]]></title>
     <link href="http://dynamid.citi-lab.fr/news/2012/11/21/jooflux-paper-in-cfse-2013/"/>
-    <updated>2012-11-21T11:10:00+08:00</updated>
+    <updated>2012-11-21T11:10:00+01:00</updated>
     <id>http://dynamid.citi-lab.fr/news/2012/11/21/jooflux-paper-in-cfse-2013</id>
     <content type="html"><![CDATA[<p>We are glad to report that our first peer-reviewed scientific paper
 for <a href="http://github.com/dynamid/jooflux">JooFlux</a> has been accepted

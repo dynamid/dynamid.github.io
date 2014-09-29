@@ -4,7 +4,7 @@
   <title><![CDATA[Category: grants | DynaMid]]></title>
   <link href="http://dynamid.citi-lab.fr/news/categories/grants/atom.xml" rel="self"/>
   <link href="http://dynamid.citi-lab.fr/"/>
-  <updated>2014-01-10T10:45:52+08:00</updated>
+  <updated>2014-09-30T01:36:10+02:00</updated>
   <id>http://dynamid.citi-lab.fr/</id>
   <author>
     <name><![CDATA[Dynamid Team]]></name>
@@ -16,11 +16,11 @@
   <entry>
     <title type="html"><![CDATA[CROME BQR Grant]]></title>
     <link href="http://dynamid.citi-lab.fr/news/2013/12/10/crome-bqr-grant/"/>
-    <updated>2013-12-10T00:00:00+08:00</updated>
+    <updated>2013-12-10T00:00:00+01:00</updated>
     <id>http://dynamid.citi-lab.fr/news/2013/12/10/crome-bqr-grant</id>
     <content type="html"><![CDATA[<p>Dynamid has received a research grant from <a href="http://www.insa-lyon.fr/">INSA-Lyon</a> as part of a BQR (<em>Bonus Qualité Recherche</em> in French).</p>
 
-<p>The Dynamid-lead CROME project is a 2 years project (2014 -- 2015) that will focus on mobile robot fleets for the multi-view analysis of complex scenes (monitoring, emergency assistance, medical applications, etc).</p>
+<p>The Dynamid-lead CROME project (Standing for "Coordination d'une flotille de Robots mObiles pour l'analyse Multi-vue de scènes complexEs") is a 2 years project (2014 -- 2015) that will focus on mobile robot fleets for the multi-view analysis of complex scenes (monitoring, emergency assistance, medical applications, etc).</p>
 
 <p>CROME is a joint-project with the <a href="http://www.citi-lab.fr/">CITI</a> and <a href="http://liris.cnrs.fr">LIRIS</a> research labs:</p>
 

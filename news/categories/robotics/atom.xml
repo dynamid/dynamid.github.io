@@ -4,7 +4,7 @@
   <title><![CDATA[Category: robotics | DynaMid]]></title>
   <link href="http://dynamid.citi-lab.fr/news/categories/robotics/atom.xml" rel="self"/>
   <link href="http://dynamid.citi-lab.fr/"/>
-  <updated>2014-01-10T10:45:52+08:00</updated>
+  <updated>2014-09-30T01:36:10+02:00</updated>
   <id>http://dynamid.citi-lab.fr/</id>
   <author>
     <name><![CDATA[Dynamid Team]]></name>
@@ -14,13 +14,72 @@
 
   
   <entry>
+    <title type="html"><![CDATA[DynaMid at Innorobo 2014]]></title>
+    <link href="http://dynamid.citi-lab.fr/news/2014/03/20/DynaMid-at-Innorob-2014/"/>
+    <updated>2014-03-20T00:00:00+01:00</updated>
+    <id>http://dynamid.citi-lab.fr/news/2014/03/20/DynaMid-at-Innorob-2014</id>
+    <content type="html"><![CDATA[<p>DynaMid team was at Innorobo 2014 on the INSA stand. Olivier, Stefan and Nicolas presented some prototypes and ideas in the context of the mechatronics and robotics. They mainly shown some teaching results, that are more visual.</p>
+
+<p>The following video is a presentation by Nicolas of a mechatronical prototype realized by Jean-Luc Pelligotti (INSA-Lyon) in the context of its teaching.</p>
+
+<ul>
+<li><a href="http://www.youtube.com/watch?v=8y3X7Sn7ui0">Innorobo presentation</a> (N.Stouls)</li>
+<li><a href="http://www.youtube.com/watch?v=TioTUlm8yec">Di Wheel official presentation</a> (J-L.Pelligotti)</li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Open associate professor position in DynaMid team]]></title>
+    <link href="http://dynamid.citi-lab.fr/news/2014/02/27/Open-associate-professor-position-in-DynaMid-Team/"/>
+    <updated>2014-02-27T00:00:00+01:00</updated>
+    <id>http://dynamid.citi-lab.fr/news/2014/02/27/Open-associate-professor-position-in-DynaMid-Team</id>
+    <content type="html"><![CDATA[<p>DynaMid team is recruting an associate professor under the thematics "Distributed decision making in robotics". To apply, please consult the <a href="http://www.insa-lyon.fr/en/fr/insa-de-lyon/recrutement/enseignants/chercheurs/mcf/maitre-de-conference">open positions web page of INSA-Lyon</a> and focus on the position "27 MCF TC CITI 0327".</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Workshop on Multi-Agent Coordination in Robotic Exploration]]></title>
+    <link href="http://dynamid.citi-lab.fr/news/2014/02/20/Workshop-on-Multi-Agent-Coordination-in-Robotic-Exploration/"/>
+    <updated>2014-02-20T00:00:00+01:00</updated>
+    <id>http://dynamid.citi-lab.fr/news/2014/02/20/Workshop-on-Multi-Agent-Coordination-in-Robotic-Exploration</id>
+    <content type="html"><![CDATA[<p>Olivier Simonin and Jan Faigl will organize in August 18th, 2014, at Prague the <a href="http://robotics.fel.cvut.cz/macorex14/">Workshop on Multi-Agent Coordination in Robotic Exploration</a>.
+Robotic exploration is a fundamental problem in mobile robotics that addresses one of the most challenging application scenarios to provide an efficient approach to collect information about an unknown environment. There are many motivational scenarios for practical deployment of mobile robots and probably even more approaches promising benefits from deploying several mobile robots. However, what are the real performance guarantees of the modern sophisticated exploration strategies? Do the novel methods and experimental demonstrations provide qualitatively better results in a new principle way or are these improvement only the results of a better tuning for the particular platforms and scenarios? What is the bridge between algorithmic complexity and robotic limitations? How to define scalable solutions?</p>
+
+<p>The goal of the workshop is to foster a discussion about approaches and paradigms studied in artificial intelligence (AI) and multi-agent system (MAS) communities with the robotic limitations and requirements arising from their practical deployment in multi-robot exploration. In particular, the workshop is intended to explore the aforementioned questions within the context of the following scientific challenges:</p>
+
+<ul>
+<li>How balancing algorithmic (MAS) complexity and robotics limitation?</li>
+<li>How to measure performance in multi-robot exploration?</li>
+<li>How to facilitate the robotic deployment of AI strategies?</li>
+<li>What are the robotic limitations needed to be considered in the exploration strategies?</li>
+<li>What are the multi-robot benchmarks allowing qualitative and quantitative comparisons?</li>
+<li>What is the niche of multi-agent coordination mechanisms and capabilities of nowadays multi-robot systems?</li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[French application for RoboCup2016 organisation]]></title>
+    <link href="http://dynamid.citi-lab.fr/news/2014/02/15/French-application-for-RoboCup2016-organisation/"/>
+    <updated>2014-02-15T00:00:00+01:00</updated>
+    <id>http://dynamid.citi-lab.fr/news/2014/02/15/French-application-for-RoboCup2016-organisation</id>
+    <content type="html"><![CDATA[<p>Olivier simonin, from DynaMid, is heading the French application to the organisation of the international RoboCup 2016.</p>
+
+<p>RoboCup, its more than 3000 participants from 30 countries. More information on the dedicated website: <a href="https://sites.google.com/site/robocupfrance2016/home">RoboCup2016</a></p>
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[CROME BQR Grant]]></title>
     <link href="http://dynamid.citi-lab.fr/news/2013/12/10/crome-bqr-grant/"/>
-    <updated>2013-12-10T00:00:00+08:00</updated>
+    <updated>2013-12-10T00:00:00+01:00</updated>
     <id>http://dynamid.citi-lab.fr/news/2013/12/10/crome-bqr-grant</id>
     <content type="html"><![CDATA[<p>Dynamid has received a research grant from <a href="http://www.insa-lyon.fr/">INSA-Lyon</a> as part of a BQR (<em>Bonus Qualité Recherche</em> in French).</p>
 
-<p>The Dynamid-lead CROME project is a 2 years project (2014 -- 2015) that will focus on mobile robot fleets for the multi-view analysis of complex scenes (monitoring, emergency assistance, medical applications, etc).</p>
+<p>The Dynamid-lead CROME project (Standing for "Coordination d'une flotille de Robots mObiles pour l'analyse Multi-vue de scènes complexEs") is a 2 years project (2014 -- 2015) that will focus on mobile robot fleets for the multi-view analysis of complex scenes (monitoring, emergency assistance, medical applications, etc).</p>
 
 <p>CROME is a joint-project with the <a href="http://www.citi-lab.fr/">CITI</a> and <a href="http://liris.cnrs.fr">LIRIS</a> research labs:</p>
 
@@ -41,21 +100,6 @@
 </li>
 </ul>
 
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Our first robot]]></title>
-    <link href="http://dynamid.citi-lab.fr/news/2013/10/15/our-first-robot/"/>
-    <updated>2013-10-15T00:00:00+08:00</updated>
-    <id>http://dynamid.citi-lab.fr/news/2013/10/15/our-first-robot</id>
-    <content type="html"><![CDATA[<p><img src="/images/robotic_citi.jpg"></p>
-
-<p>Our first robot just arrived!</p>
-
-<p>It is a TurtleBot that we named "Astro".</p>
-
-<p>Stay tuned for developments with Astro and its (future) brothers.</p>
 ]]></content>
   </entry>
   

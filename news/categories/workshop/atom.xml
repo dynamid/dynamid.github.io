@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: workshop | DynaMid]]></title>
+  <title><![CDATA[Category: Workshop | DynaMid]]></title>
   <link href="http://dynamid.citi-lab.fr/news/categories/workshop/atom.xml" rel="self"/>
   <link href="http://dynamid.citi-lab.fr/"/>
-  <updated>2014-01-10T10:45:52+08:00</updated>
+  <updated>2014-09-30T01:36:10+02:00</updated>
   <id>http://dynamid.citi-lab.fr/</id>
   <author>
     <name><![CDATA[Dynamid Team]]></name>
@@ -14,27 +14,24 @@
 
   
   <entry>
-    <title type="html"><![CDATA[WoT Summer School 2013 report video]]></title>
-    <link href="http://dynamid.citi-lab.fr/news/2014/01/07/wot-summer-school-report-video/"/>
-    <updated>2014-01-07T14:22:00+08:00</updated>
-    <id>http://dynamid.citi-lab.fr/news/2014/01/07/wot-summer-school-report-video</id>
-    <content type="html"><![CDATA[<p>A report video following the <a href="/news/2013/09/02/web-of-things-summer-school/">WoT Summer School</a> is now available (in French):</p>
+    <title type="html"><![CDATA[Workshop on Multi-Agent Coordination in Robotic Exploration]]></title>
+    <link href="http://dynamid.citi-lab.fr/news/2014/02/20/Workshop-on-Multi-Agent-Coordination-in-Robotic-Exploration/"/>
+    <updated>2014-02-20T00:00:00+01:00</updated>
+    <id>http://dynamid.citi-lab.fr/news/2014/02/20/Workshop-on-Multi-Agent-Coordination-in-Robotic-Exploration</id>
+    <content type="html"><![CDATA[<p>Olivier Simonin and Jan Faigl will organize in August 18th, 2014, at Prague the <a href="http://robotics.fel.cvut.cz/macorex14/">Workshop on Multi-Agent Coordination in Robotic Exploration</a>.
+Robotic exploration is a fundamental problem in mobile robotics that addresses one of the most challenging application scenarios to provide an efficient approach to collect information about an unknown environment. There are many motivational scenarios for practical deployment of mobile robots and probably even more approaches promising benefits from deploying several mobile robots. However, what are the real performance guarantees of the modern sophisticated exploration strategies? Do the novel methods and experimental demonstrations provide qualitatively better results in a new principle way or are these improvement only the results of a better tuning for the particular platforms and scenarios? What is the bridge between algorithmic complexity and robotic limitations? How to define scalable solutions?</p>
 
-<iframe width="480" height="360" src="http://dynamid.citi-lab.fr//www.youtube-nocookie.com/embed/WodouSfT-H4" frameborder="0" allowfullscreen></iframe>
+<p>The goal of the workshop is to foster a discussion about approaches and paradigms studied in artificial intelligence (AI) and multi-agent system (MAS) communities with the robotic limitations and requirements arising from their practical deployment in multi-robot exploration. In particular, the workshop is intended to explore the aforementioned questions within the context of the following scientific challenges:</p>
 
+<ul>
+<li>How balancing algorithmic (MAS) complexity and robotics limitation?</li>
+<li>How to measure performance in multi-robot exploration?</li>
+<li>How to facilitate the robotic deployment of AI strategies?</li>
+<li>What are the robotic limitations needed to be considered in the exploration strategies?</li>
+<li>What are the multi-robot benchmarks allowing qualitative and quantitative comparisons?</li>
+<li>What is the niche of multi-agent coordination mechanisms and capabilities of nowadays multi-robot systems?</li>
+</ul>
 
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[SEmba 2013 : a regional workshop about embedded systems]]></title>
-    <link href="http://dynamid.citi-lab.fr/news/2013/04/04/semba-2013-a-regional-workshop-about-embedded-systems/"/>
-    <updated>2013-04-04T09:00:00+08:00</updated>
-    <id>http://dynamid.citi-lab.fr/news/2013/04/04/semba-2013-a-regional-workshop-about-embedded-systems</id>
-    <content type="html"><![CDATA[<p>Last 4th and 5th April 2013, the Dynamid team organized the 4th SEmba workshop. SEmba (standing for Embedded Systems in French) is a regional workshop sponsorized by the Region Rhône-Alpes, and trying to gives some animation in this research community.</p>
-
-<p>The complete program with and slideshows are available on the <a href="http://www.projet-semba-cluster-isle-rhone-alpes.org/semba13/Planning_Semba_2013.html">SEmba website</a>.</p>
 ]]></content>
   </entry>
   

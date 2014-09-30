@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "DynaMid at Innorobo 2014"
+title: "Dynamid at Innorobo 2014"
 comments: true
 categories: team robotics
 ---
 
-DynaMid team was at Innorobo 2014 on the INSA stand. Olivier, Stefan and Nicolas presented some prototypes and ideas in the context of the mechatronics and robotics. They mainly shown some teaching results, that are more visual.
+Dynamid team was at Innorobo 2014 on the INSA stand. Olivier, Stefan and Nicolas presented some prototypes and ideas in the context of the mechatronics and robotics. They mainly shown some teaching results, that are more visual.
 
 The following video is a presentation by Nicolas of a mechatronical prototype realized by Jean-Luc Pelligotti (INSA-Lyon) in the context of its teaching.
 

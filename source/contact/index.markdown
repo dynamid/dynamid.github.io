@@ -19,7 +19,7 @@ INRIA-CITI Laboratory <a href="http://www.citi.insa-lyon.fr"><i class="icon-glob
 Telecommunication Department <a href="http://telecom.insa-lyon.fr"><i class="icon-globe"></i></a>  
 INSA-Lyon <a href="http://www.insa-lyon.fr"><i class="icon-globe"></i></a>  
 Claude Chappe Building  
-Room TB-236  
+Room TB-121  
 6 avenue des Arts  
 F-69621 Villeurbanne Cedex, France  
 

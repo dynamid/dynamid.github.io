@@ -17,7 +17,7 @@ Expect more projects to be listed here in the future!
 
 * **GitHub repository:** [https://github.com/golo-lang/golo-lang](https://github.com/golo-lang/golo-lang)
 * **License:** [Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0)
-* **Current version:** `0-preview10` (December 18th 2013).
+* **Current version:** `1.1.0` (September 22th 2014).
 * **First public release:** March 27th 2013
 * **DynaMid Member:** Julien Ponge
 * **Status:** platform / early preview

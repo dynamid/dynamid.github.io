@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "sponsors"
+title: "Partnerships"
 comments: false
 sharing: false
 footer: false

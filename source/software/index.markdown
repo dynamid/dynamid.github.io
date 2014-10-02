@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "software"
+title: "Software"
 comments: false
 sharing: false
 footer: false

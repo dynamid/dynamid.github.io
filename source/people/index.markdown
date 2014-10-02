@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "people"
+title: "People"
 comments: false
 sharing: false
 footer: false

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "contact"
+title: "Contact"
 comments: false
 sharing: false
 footer: false

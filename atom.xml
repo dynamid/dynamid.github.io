@@ -4,7 +4,7 @@
   <title><![CDATA[DynaMid]]></title>
   <link href="http://dynamid.citi-lab.fr/atom.xml" rel="self"/>
   <link href="http://dynamid.citi-lab.fr/"/>
-  <updated>2014-09-30T12:06:19+02:00</updated>
+  <updated>2014-10-02T17:01:04+02:00</updated>
   <id>http://dynamid.citi-lab.fr/</id>
   <author>
     <name><![CDATA[Dynamid Team]]></name>
@@ -12,6 +12,23 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[New Dynamid members: Mark, Jilles, Fabrice and Jacques]]></title>
+    <link href="http://dynamid.citi-lab.fr/news/2014/09/01/new-dynamid-members-mark-jilles-fabrice-jacques/"/>
+    <updated>2014-09-01T00:00:00+02:00</updated>
+    <id>http://dynamid.citi-lab.fr/news/2014/09/01/new-dynamid-members-mark-jilles-fabrice-jacques</id>
+    <content type="html"><![CDATA[<p>This year, the Dynamid team welcomes 4 new members!</p>
+
+<p>Mark Little joins the team as Visiting Professor. Mark is CTO at RedHat and Professor at Newcastle University. With a deep background in transactional distributed systems, Mark pictures future middlewares as adaptive and evolving with core functionalites integrating IoT devices. Sharing the same vision, let&#8217;s start a close collaboration - still with an open-source issue !</p>
+
+<p><a href="http://jilles.dibangoye.net">Jilles Dibangoye</a> is recruited as Associate Professor. Gilles obtained a PhD at Laval University (Quebec City, Canada) and University of Caen (France). His research interests span the areas of single and multi-agent systems, optimal and approximate mathematical optimization techniques, statistics and machine learning, control and game theories.</p>
+
+<p>Fabrice Jumel and Jacques Saraydaryan, Associate Professors at CPE Lyon, join the team. With backgrounds in embedded systems and security, they developed a new expertise in robotic platform. They participated to 2014 edition of the RoboCup and won the 3rd place in the Robocup@work category.</p>
+
+<p>Welcome on board!</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Congratulation Yufang DAN]]></title>
@@ -340,32 +357,6 @@ for improving the implementation of dynamic languages on top of the JVM.</p>
 fame who currently works on <a href="http://openjdk.java.net/projects/nashorn/">Nashorn</a>.</p>
 
 <p><img src="http://dynamid.citi-lab.fr/images/posts/indy-javamag.png" title="Demystifying invokedynamic in Oracle Java Magazine" ></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[JooFlux @ ComPAS, Grenoble, 2013]]></title>
-    <link href="http://dynamid.citi-lab.fr/news/2013/01/24/jooflux-at-compas-2013/"/>
-    <updated>2013-01-24T07:21:00+01:00</updated>
-    <id>http://dynamid.citi-lab.fr/news/2013/01/24/jooflux-at-compas-2013</id>
-    <content type="html"><![CDATA[<p>The current state of our research on the <a href="https://github.com/dynamid/jooflux">JooFlux project</a>
-was presented last week at the <a href="http://compas2013.inrialpes.fr">ComPAS 2013 conference</a>.</p>
-
-<p>Our research paper was published in the
-<a href="http://compas2013.inrialpes.fr/cfp/systeme-cfse">CFSE track</a> that gathers the French
-specialists in the larger field of operating systems.</p>
-
-<p>Lots of positive feedback on our works, we couldn&#8217;t be happier!</p>
-
-<p>Here are the slides, in French:</p>
-
-<script async class="speakerdeck-embed" data-id="4a45b240420f0130e26112313d241d5f" data-ratio="1.2994923857868" src="http://dynamid.citi-lab.fr//speakerdeck.com/assets/embed.js"></script>
-
-
-<p><img src="http://dynamid.citi-lab.fr/images/conferences/ComPAS-CFSE2013/P1040469.jpg">
-<img src="http://dynamid.citi-lab.fr/images/conferences/ComPAS-CFSE2013/P1040471.jpg">
-<img src="http://dynamid.citi-lab.fr/images/conferences/ComPAS-CFSE2013/P1040476.jpg">
-<img src="http://dynamid.citi-lab.fr/images/conferences/ComPAS-CFSE2013/P1040478.jpg"></p>
 ]]></content>
   </entry>
   

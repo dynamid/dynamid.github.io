@@ -4,7 +4,7 @@
   <title><![CDATA[Category: team | DynaMid]]></title>
   <link href="http://dynamid.citi-lab.fr/news/categories/team/atom.xml" rel="self"/>
   <link href="http://dynamid.citi-lab.fr/"/>
-  <updated>2014-09-30T12:06:19+02:00</updated>
+  <updated>2014-10-02T17:01:04+02:00</updated>
   <id>http://dynamid.citi-lab.fr/</id>
   <author>
     <name><![CDATA[Dynamid Team]]></name>
@@ -12,6 +12,23 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[New Dynamid members: Mark, Jilles, Fabrice and Jacques]]></title>
+    <link href="http://dynamid.citi-lab.fr/news/2014/09/01/new-dynamid-members-mark-jilles-fabrice-jacques/"/>
+    <updated>2014-09-01T00:00:00+02:00</updated>
+    <id>http://dynamid.citi-lab.fr/news/2014/09/01/new-dynamid-members-mark-jilles-fabrice-jacques</id>
+    <content type="html"><![CDATA[<p>This year, the Dynamid team welcomes 4 new members!</p>
+
+<p>Mark Little joins the team as Visiting Professor. Mark is CTO at RedHat and Professor at Newcastle University. With a deep background in transactional distributed systems, Mark pictures future middlewares as adaptive and evolving with core functionalites integrating IoT devices. Sharing the same vision, let's start a close collaboration - still with an open-source issue !</p>
+
+<p><a href="http://jilles.dibangoye.net">Jilles Dibangoye</a> is recruited as Associate Professor. Gilles obtained a PhD at Laval University (Quebec City, Canada) and University of Caen (France). His research interests span the areas of single and multi-agent systems, optimal and approximate mathematical optimization techniques, statistics and machine learning, control and game theories.</p>
+
+<p>Fabrice Jumel and Jacques Saraydaryan, Associate Professors at CPE Lyon, join the team. With backgrounds in embedded systems and security, they developed a new expertise in robotic platform. They participated to 2014 edition of the RoboCup and won the 3rd place in the Robocup@work category.</p>
+
+<p>Welcome on board!</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Congratulation Yufang DAN]]></title>
@@ -71,17 +88,6 @@ Robotic exploration is a fundamental problem in mobile robotics that addresses o
 <li>What is the niche of multi-agent coordination mechanisms and capabilities of nowadays multi-robot systems?</li>
 </ul>
 
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[French application for RoboCup2016 organisation]]></title>
-    <link href="http://dynamid.citi-lab.fr/news/2014/02/15/french-application-for-robocup2016-organisation/"/>
-    <updated>2014-02-15T00:00:00+01:00</updated>
-    <id>http://dynamid.citi-lab.fr/news/2014/02/15/french-application-for-robocup2016-organisation</id>
-    <content type="html"><![CDATA[<p>Olivier Simonin, from Dynamid, is heading the French application to the organization of the international RoboCup 2016.</p>
-
-<p>RoboCup, its more than 3000 participants from 30 countries. More information on the dedicated website: <a href="https://sites.google.com/site/robocupfrance2016/home">RoboCup2016</a></p>
 ]]></content>
   </entry>
   

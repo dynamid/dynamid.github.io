@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: RoboCup | DynaMid]]></title>
+  <link href="http://dynamid.citi-lab.fr/news/categories/robocup/atom.xml" rel="self"/>
+  <link href="http://dynamid.citi-lab.fr/"/>
+  <updated>2014-10-03T16:29:30+02:00</updated>
+  <id>http://dynamid.citi-lab.fr/</id>
+  <author>
+    <name><![CDATA[Dynamid Team]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[French application for RoboCup2016 organisation]]></title>
+    <link href="http://dynamid.citi-lab.fr/news/2014/02/15/french-application-for-robocup2016-organisation/"/>
+    <updated>2014-02-15T00:00:00+01:00</updated>
+    <id>http://dynamid.citi-lab.fr/news/2014/02/15/french-application-for-robocup2016-organisation</id>
+    <content type="html"><![CDATA[<p>Olivier Simonin, from Dynamid, is heading the French application to the organization of the international RoboCup 2016.</p>
+
+<p>RoboCup, its more than 3000 participants from 30 countries. More information on the dedicated website: <a href="https://sites.google.com/site/robocupfrance2016/home">RoboCup2016</a></p>
+]]></content>
+  </entry>
+  
+</feed>

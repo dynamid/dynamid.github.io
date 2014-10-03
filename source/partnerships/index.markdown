@@ -6,6 +6,8 @@ sharing: false
 footer: false
 ---
 
+## Research Grants
+
 <table class="table">
   <thead>
     <tr>
@@ -20,7 +22,7 @@ footer: false
       <a href="http://www.insa-lyon.fr">{% img no-border /images/logos/logo-insalyon.png 200 107 'INSA Lyon' 'INSA Lyon' %}</a><br />
     </td>
     <td class="project-text">
-      CROME BQR - Mobile Robot Fleets For The Multi-View Analysis Of Complex Scenes
+      CROME - Mobile Robot Fleets For The Multi-View Analysis Of Complex Scenes
     </td>
     <td>2014 - 2015</td>
     <td>
@@ -43,16 +45,6 @@ footer: false
     </td>
   </tr>
   <tr>
-    <td class="min-size"><a href="http://www.oracle.com">{% img no-border /images/sponsors/oracle.png 200 80 'Oracle' 'Oracle' %}</a></td>
-    <td class="project-text">
-      Technical writing for the Oracle Technology Network and Oracle Java Magazine on Java SE and Java EE / GlassFish.
-    </td>
-    <td>2011 -</td>
-    <td>
-      <a href="/people">{% img /images/faces/face-jponge.jpg 50 50 'jponge :-)' 'jponge' %}</a>
-    </td>
-  </tr>  
-  <tr>
     <td class="min-size">
       <a href="http://arc.rhonealpes.fr/">{% img no-border /images/sponsors/region-arc.png 200 59 'Rhône Alpes Region' 'Rhône Alpes Region' %}</a><br />
       <a href="http://www.arc7-territoires-mobilites.rhonealpes.fr">{% img no-border /images/sponsors/region-arc7.png 200 50 'ARC 7' 'ARC 7' %}</a>
@@ -69,18 +61,55 @@ footer: false
     </td>
   </tr>
   <tr>
+    <td class="min-size"><a href="http://www.oracle.com">{% img no-border /images/sponsors/oracle.png 200 80 'Oracle' 'Oracle' %}</a></td>
+    <td class="project-text">
+      Technical writing for the Oracle Technology Network and Oracle Java Magazine on Java SE and Java EE / GlassFish.
+    </td>
+    <td>2011 -</td>
+    <td>
+      <a href="/people">{% img /images/faces/face-jponge.jpg 50 50 'jponge :-)' 'jponge' %}</a>
+    </td>
+  </tr>  
+  <tr>
     <td class="min-size">
-      <a href="http://arc.rhonealpes.fr/">{% img no-border /images/sponsors/region-arc.png 200 59 'Rhône Alpes Region' 'Rhône Alpes Region' %}</a><br />
-      <a href="http://arc6-tic.rhonealpes.fr/">{% img no-border /images/sponsors/region-arc6.png 200 65 'ARC 6' 'ARC 6' %}</a>
+      <a href="http://en.csc.edu.cn/">{% img no-border /images/sponsors/csc.jpg 200 150 'CSC' 'CSC' %}</a><br />
     </td>
     <td class="project-text">
-      <a href="http://www.projet-semba-cluster-isle-rhone-alpes.org/">SEmba Project - Embedded Systems</a>.
+      <a href="http://perso.citi.insa-lyon.fr/nstouls/SujetsStages/09-10_AmbiantCalculus-these_et_M2R.pdf">Ambient calculus for distributed, service oriented virtual machines</a>.
     </td>
-    <td>2012 - 2014</td>
+    <td>2010 - 2014</td>
+    <td>
+      <a href="/people">{% img /images/faces/face-ydan.jpg 50 50 'ydan :-)' 'ydan' %}</a>
+      <a href="/people">{% img /images/faces/face-nstouls.jpg 50 50 'nstouls :-)' 'nstouls' %}</a>
+      <a href="http://perso.citi.insa-lyon.fr/sfrenot/">{% img /images/faces/face-sfrenot.jpg 50 50 'sfrenot :-)' 'sfrenot' %}</a>
+    </td>
+  </tr>
+  <tr>
+    <td class="min-size">
+      <a href="http://www.insa-lyon.fr">{% img no-border /images/logos/logo-insalyon.png 200 107 'INSA Lyon' 'INSA Lyon' %}</a><br />
+      <a href="http://imu.universite-lyon.fr/">{% img no-border /images/sponsors/IMU.png 150 70 'IMU' 'IMU' %}</a><br />
+    </td>
+    <td class="project-text">
+      <a href="https://bqr2010.project.citi-lab.fr/">Conception Methodology to Optimize Sensor Network Energy Consumption</a>.
+    </td>
+    <td>2009 - 2012</td>
     <td>
       <a href="/people">{% img /images/faces/face-nstouls.jpg 50 50 'nstouls :-)' 'nstouls' %}</a>
     </td>
   </tr>
+</table>
+
+## Community Animation
+
+<table class="table">
+  <thead>
+    <tr>
+      <th></th>
+      <th>Project</th>
+      <th>Years</th>
+      <th>Contacts</th>
+    </tr>
+  </thead>
   <tr>
     <td class="min-size">
       <a href="http://arc.rhonealpes.fr/">{% img no-border /images/sponsors/region-arc.png 200 59 'Rhône Alpes Region' 'Rhône Alpes Region' %}</a><br />
@@ -97,30 +126,19 @@ footer: false
   </tr>
   <tr>
     <td class="min-size">
-      <a href="http://www.insa-lyon.fr">{% img no-border /images/logos/logo-insalyon.png 200 107 'INSA Lyon' 'INSA Lyon' %}</a><br />
-      <a href="http://imu.universite-lyon.fr/">{% img no-border /images/sponsors/IMU.png 150 70 'IMU' 'IMU' %}</a><br />
+      <a href="http://arc.rhonealpes.fr/">{% img no-border /images/sponsors/region-arc.png 200 59 'Rhône Alpes Region' 'Rhône Alpes Region' %}</a><br />
+      <a href="http://arc6-tic.rhonealpes.fr/">{% img no-border /images/sponsors/region-arc6.png 200 65 'ARC 6' 'ARC 6' %}</a>
     </td>
     <td class="project-text">
-      <a href="https://bqr2010.project.citi-lab.fr/">Conception Methodology to Optimize Sensor Network Energy Consumption</a>.
+      <a href="http://www.projet-semba-cluster-isle-rhone-alpes.org/">SEmba Project - Embedded Systems</a>.
     </td>
-    <td>2009 - 2012</td>
+    <td>2012 - 2014</td>
     <td>
       <a href="/people">{% img /images/faces/face-nstouls.jpg 50 50 'nstouls :-)' 'nstouls' %}</a>
-    </td>
-  </tr>
-  <tr>
-    <td class="min-size">
-      <a href="http://en.csc.edu.cn/">{% img no-border /images/sponsors/csc.jpg 200 150 'CSC' 'CSC' %}</a><br />
-    </td>
-    <td class="project-text">
-      <a href="http://perso.citi.insa-lyon.fr/nstouls/SujetsStages/09-10_AmbiantCalculus-these_et_M2R.pdf">Ambient calculus for distributed, service oriented virtual machines</a>.
-    </td>
-    <td>2010 - 2014</td>
-    <td>
-      <a href="/people">{% img /images/faces/face-ydan.jpg 50 50 'ydan :-)' 'ydan' %}</a>
-      <a href="/people">{% img /images/faces/face-nstouls.jpg 50 50 'nstouls :-)' 'nstouls' %}</a>
-      <a href="http://perso.citi.insa-lyon.fr/sfrenot/">{% img /images/faces/face-sfrenot.jpg 50 50 'sfrenot :-)' 'sfrenot' %}</a>
+      {% img no-shadow /images/1x1.png 50 50 %}
+      {% img no-shadow /images/1x1.png 50 50 %}
+      {% img no-shadow /images/1x1.png 50 50 %}
+      {% img no-shadow /images/1x1.png 50 50 %}
     </td>
   </tr>
 </table>
-

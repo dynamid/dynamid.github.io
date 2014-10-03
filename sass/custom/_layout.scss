@@ -25,6 +25,12 @@
   border: 0;
 }
 
+// No shadow
+.no-shadow {
+  border: 0;
+  box-shadow: 0px 0px 0px 0;
+}
+
 // People & Projects
 td.social-icons {
   max-width: 156px;

@@ -4,7 +4,7 @@
   <title><![CDATA[Category: software | DynaMid]]></title>
   <link href="http://dynamid.citi-lab.fr/news/categories/software/atom.xml" rel="self"/>
   <link href="http://dynamid.citi-lab.fr/"/>
-  <updated>2014-10-03T16:29:30+02:00</updated>
+  <updated>2014-10-03T17:15:40+02:00</updated>
   <id>http://dynamid.citi-lab.fr/</id>
   <author>
     <name><![CDATA[Dynamid Team]]></name>
@@ -12,6 +12,30 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Golo 1.0.0 !]]></title>
+    <link href="http://dynamid.citi-lab.fr/news/2014/07/09/golo-1.0.0-is-here/"/>
+    <updated>2014-07-09T00:00:00+02:00</updated>
+    <id>http://dynamid.citi-lab.fr/news/2014/07/09/golo-1.0.0-is-here</id>
+    <content type="html"><![CDATA[<p><img src="http://golo-lang.org/images/logo-golo.png" alt="Golo" /></p>
+
+<p>Golo 1.0.0 is here ! We are very glad to announce the release of Golo 1.0.0 exactly 2 years after the the initial commit!</p>
+
+<ul>
+<li><a href="http://golo-lang.org/">the website</a></li>
+<li><a href="http://golo-lang.org/download/">download Golo</a></li>
+<li><a href="http://golo-console.appspot.com/">try the language from a web browser on Google AppEngine</a></li>
+<li><a href="https://github.com/golo-lang/golo-lang">Golo on GitHub</a></li>
+<li><a href="http://golo-lang.org/news/2014/07/09/golo-1.0.0/">the original release announcement</a></li>
+</ul>
+
+
+<p>Golo is made available under the permissive Apache Software Licence version 2.0, and you are highly encouraged to try it and participate!</p>
+
+<p>We are looking forward to hearing what you will do with Golo.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Golo at Devoxx 2013]]></title>
@@ -92,36 +116,6 @@ and is made available under the terms of the
 
 <p>This release improves the compatibility with existing JVM-based applications. It also features additions
 to facilitate the implementation of remote management applications.</p>
-
-<p>We encourage the wider researchers and practitioners community to report any issue with JooFlux, and
-contribute bug fixes and improvements.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[JooFlux Initial Public Release]]></title>
-    <link href="http://dynamid.citi-lab.fr/news/2012/10/03/jooflux-initial-public-release/"/>
-    <updated>2012-10-03T12:00:00+02:00</updated>
-    <id>http://dynamid.citi-lab.fr/news/2012/10/03/jooflux-initial-public-release</id>
-    <content type="html"><![CDATA[<p>The Dynamid members are pleased to announce the initial public release of JooFlux:</p>
-
-<blockquote><p>JooFlux a JVM agent that allows both the dynamic replacement of method implementations and the
-application of aspect advices. Compared to existing approaches, JooFlux takes a novel route by
-taking advantage of the new <code>invokedynamic</code> instruction added in Java SE 7. The runtime overhead of
-JooFlux is marginal for method invocations, and fairly limited when aspects are being injected. In
-any case, JooFlux shows interesting performance compared to related approaches such as AOP tools or
-dynamic languages that rely on dynamic dispatch. More interestingly, JooFlux does not involve
-reloading whole classes on either method replacement or advice injection, which keeps a large range
-of just-in-time compilation optimizations valid.</p></blockquote>
-
-<p>JooFlux r0 can be obtained from <a href="https://github.com/dynamid/jooflux">https://github.com/dynamid/jooflux</a>
-and is made available under the terms of the
-<a href="http://www.mozilla.org/MPL/2.0/">Mozilla Public License Version 2.0</a>.</p>
-
-<p>While further scientific publications are foreseen, we also released a research technical report called
-<a href="http://hal.inria.fr/hal-00737897"><strong>"JooFlux: Hijacking Java 7 InvokeDynamic To Support Live Code Modifications"</strong></a>.
-It is available <a href="http://hal.inria.fr/hal-00737897">on the HAL INRIA open archive</a>, and hopefully soon
-on <a href="http://arxiv.org/">arXiv</a>.</p>
 
 <p>We encourage the wider researchers and practitioners community to report any issue with JooFlux, and
 contribute bug fixes and improvements.</p>

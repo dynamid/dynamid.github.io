@@ -4,7 +4,7 @@
   <title><![CDATA[DynaMid]]></title>
   <link href="http://dynamid.citi-lab.fr/atom.xml" rel="self"/>
   <link href="http://dynamid.citi-lab.fr/"/>
-  <updated>2014-10-03T16:29:30+02:00</updated>
+  <updated>2014-10-03T17:15:40+02:00</updated>
   <id>http://dynamid.citi-lab.fr/</id>
   <author>
     <name><![CDATA[Dynamid Team]]></name>
@@ -27,6 +27,30 @@
 <p>Fabrice Jumel and Jacques Saraydaryan, Associate Professors at CPE Lyon, join the team. With backgrounds in embedded systems and security, they developed a new expertise in robotic platform. They participated to 2014 edition of the RoboCup and won the 3rd place in the Robocup@work category.</p>
 
 <p>Welcome on board!</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Golo 1.0.0 !]]></title>
+    <link href="http://dynamid.citi-lab.fr/news/2014/07/09/golo-1.0.0-is-here/"/>
+    <updated>2014-07-09T00:00:00+02:00</updated>
+    <id>http://dynamid.citi-lab.fr/news/2014/07/09/golo-1.0.0-is-here</id>
+    <content type="html"><![CDATA[<p><img src="http://golo-lang.org/images/logo-golo.png" alt="Golo" /></p>
+
+<p>Golo 1.0.0 is here ! We are very glad to announce the release of Golo 1.0.0 exactly 2 years after the the initial commit!</p>
+
+<ul>
+<li><a href="http://golo-lang.org/">the website</a></li>
+<li><a href="http://golo-lang.org/download/">download Golo</a></li>
+<li><a href="http://golo-console.appspot.com/">try the language from a web browser on Google AppEngine</a></li>
+<li><a href="https://github.com/golo-lang/golo-lang">Golo on GitHub</a></li>
+<li><a href="http://golo-lang.org/news/2014/07/09/golo-1.0.0/">the original release announcement</a></li>
+</ul>
+
+
+<p>Golo is made available under the permissive Apache Software Licence version 2.0, and you are highly encouraged to try it and participate!</p>
+
+<p>We are looking forward to hearing what you will do with Golo.</p>
 ]]></content>
   </entry>
   
@@ -338,25 +362,6 @@ contribute bug fixes and improvements.</p>
 
 
 
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Demystifying invokedynamic in Oracle Java Magazine]]></title>
-    <link href="http://dynamid.citi-lab.fr/news/2013/01/28/demystifying-invokedynamic-in-oracle-java-magazine/"/>
-    <updated>2013-01-28T10:31:00+01:00</updated>
-    <id>http://dynamid.citi-lab.fr/news/2013/01/28/demystifying-invokedynamic-in-oracle-java-magazine</id>
-    <content type="html"><![CDATA[<p><a href="http://julien.ponge.info/">Julien Ponge</a> wrote an article called
-<a href="http://www.oraclejavamagazine-digital.com/javamagazine/20130102#pg50">&#8220;Demystifying invokedynamic&#8221;</a>
-for the latest edition of Oracle Java Magazine (free subscription).</p>
-
-<p>The article is a gentle introduction to <code>invokedynamic</code>, the addition to the Java virtual machine
-for improving the implementation of dynamic languages on top of the JVM.</p>
-
-<p>Last but not least, it was reviewed by <a href="https://twitter.com/lagergren">Marcus Lagergren</a> of JRockit
-fame who currently works on <a href="http://openjdk.java.net/projects/nashorn/">Nashorn</a>.</p>
-
-<p><img src="http://dynamid.citi-lab.fr/images/posts/indy-javamag.png" title="Demystifying invokedynamic in Oracle Java Magazine" ></p>
 ]]></content>
   </entry>
   

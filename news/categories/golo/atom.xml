@@ -4,7 +4,7 @@
   <title><![CDATA[Category: golo | DynaMid]]></title>
   <link href="http://dynamid.citi-lab.fr/news/categories/golo/atom.xml" rel="self"/>
   <link href="http://dynamid.citi-lab.fr/"/>
-  <updated>2014-10-03T16:29:30+02:00</updated>
+  <updated>2014-10-03T17:15:40+02:00</updated>
   <id>http://dynamid.citi-lab.fr/</id>
   <author>
     <name><![CDATA[Dynamid Team]]></name>
@@ -12,6 +12,30 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Golo 1.0.0 !]]></title>
+    <link href="http://dynamid.citi-lab.fr/news/2014/07/09/golo-1.0.0-is-here/"/>
+    <updated>2014-07-09T00:00:00+02:00</updated>
+    <id>http://dynamid.citi-lab.fr/news/2014/07/09/golo-1.0.0-is-here</id>
+    <content type="html"><![CDATA[<p><img src="http://golo-lang.org/images/logo-golo.png" alt="Golo" /></p>
+
+<p>Golo 1.0.0 is here ! We are very glad to announce the release of Golo 1.0.0 exactly 2 years after the the initial commit!</p>
+
+<ul>
+<li><a href="http://golo-lang.org/">the website</a></li>
+<li><a href="http://golo-lang.org/download/">download Golo</a></li>
+<li><a href="http://golo-console.appspot.com/">try the language from a web browser on Google AppEngine</a></li>
+<li><a href="https://github.com/golo-lang/golo-lang">Golo on GitHub</a></li>
+<li><a href="http://golo-lang.org/news/2014/07/09/golo-1.0.0/">the original release announcement</a></li>
+</ul>
+
+
+<p>Golo is made available under the permissive Apache Software Licence version 2.0, and you are highly encouraged to try it and participate!</p>
+
+<p>We are looking forward to hearing what you will do with Golo.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Golo at Devoxx 2013]]></title>
@@ -94,29 +118,6 @@ the Dynamid group. Of course Golo is far from being feature-complete, and we wil
 <p>Golo is made available under the permissive Apache Software Licence version 2.0, and you are highly encouraged to try it and participate!</p>
 
 <p>We are looking forward to hearing what you will do with Golo.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[LavaJUG]]></title>
-    <link href="http://dynamid.citi-lab.fr/news/2013/02/07/lavajug/"/>
-    <updated>2013-02-07T00:00:00+01:00</updated>
-    <id>http://dynamid.citi-lab.fr/news/2013/02/07/lavajug</id>
-    <content type="html"><![CDATA[<p>Dynamid members went to the mythical <a href="http://www.lavajug.org/">LavaJUG</a> to talk about <a href="http://www.lavajug.org/xwiki/bin/view/Main/EventTen"><code>invokedynamic</code>, JooFlux and Golo</a>.</p>
-
-<p>This was also the first public demonstration of the <a href="http://golo-lang.org/">Golo programming language</a>.</p>
-
-<p>Great crowd, great place, we had a lot of fun!</p>
-
-<script async class="speakerdeck-embed" data-id="be05b950541c0130178722000a1e8e84" data-ratio="1.77777777777778" src="http://dynamid.citi-lab.fr//speakerdeck.com/assets/embed.js"></script>
-
-
-
-
-<script async class="speakerdeck-embed" data-id="e04161c0541c013003781231381d4c11" data-ratio="1.33333333333333" src="http://dynamid.citi-lab.fr//speakerdeck.com/assets/embed.js"></script>
-
-
-
 ]]></content>
   </entry>
   

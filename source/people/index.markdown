@@ -170,11 +170,11 @@ footer: false
   <tr>
     <td class="min-size">{% img /images/faces/face-ydan.jpg 100 100 'ydan :-)' 'ydan' %}</td>
     <td>Yufang Dan</td>
-    <td>PhD Student<br />INSA Lyon</td>
+    <td>PhD Student - INSA Lyon</td>
     <td class="social-icons">
       <a href="mailto:yufang.dan@insa-lyon.fr">{% img no-border /images/social_networking_iconpack/email_32.png "Email" "Email" %}</a>
-     <a href="http://fr.linkedin.com/pub/yufang-dan/36/497/57a">{% img no-border /images/social_networking_iconpack/linkedin_32.png "LinkedIn" "LinkedIn" %}</a>
-     <a href="https://plus.google.com/107205695196953085340/posts/">{% img no-border /images/social_networking_iconpack/google_plus_32.png "Google+" "Google+" %}</a>
+      <a href="http://fr.linkedin.com/pub/yufang-dan/36/497/57a">{% img no-border /images/social_networking_iconpack/linkedin_32.png "LinkedIn" "LinkedIn" %}</a>
+      <a href="https://plus.google.com/107205695196953085340/posts/">{% img no-border /images/social_networking_iconpack/google_plus_32.png "Google+" "Google+" %}</a>
     </td>
   </tr>
 </table>

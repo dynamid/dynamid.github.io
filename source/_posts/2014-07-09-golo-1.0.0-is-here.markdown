@@ -1,0 +1,21 @@
+---
+layout: post
+title: "Golo 1.0.0 !"
+date: 2014-07-09
+comments: true
+categories: jvm java golo language software release publication invokedynamic
+---
+
+![Golo](http://golo-lang.org/images/logo-golo.png)
+
+Golo 1.0.0 is here ! We are very glad to announce the release of Golo 1.0.0 exactly 2 years after the the initial commit!
+
+* [the website](http://golo-lang.org/)
+* [download Golo](http://golo-lang.org/download/)
+* [try the language from a web browser on Google AppEngine](http://golo-console.appspot.com/)
+* [Golo on GitHub](https://github.com/golo-lang/golo-lang)
+* [the original release announcement](http://golo-lang.org/news/2014/07/09/golo-1.0.0/)
+
+Golo is made available under the permissive Apache Software Licence version 2.0, and you are highly encouraged to try it and participate!
+
+We are looking forward to hearing what you will do with Golo.

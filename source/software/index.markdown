@@ -20,7 +20,7 @@ Expect more projects to be listed here in the future!
 * **Current version:** `1.1.0` (September 22th 2014).
 * **First public release:** March 27th 2013
 * **DynaMid Member:** Julien Ponge
-* **Status:** platform / early preview
+* **Status:** platform
 
 ## JooFlux: a Java agent for dynamic aspect-oriented middlewares
 
@@ -49,4 +49,15 @@ Expect more projects to be listed here in the future!
 * **License:** [LGPLv3](http://www.gnu.org/licenses/)
 * **DynaMid Members:** Yufang Dan, Nicolas Stouls, Julien Ponge
 * **Status:** proof-of-concept
+
+## Taxi Trace - Contact Analysis
+
+> Multi-thread analysis of taxi GPS trace to extract taxi contacts.
+
+* **GitHub repository:** [https://github.com/flemouel/taxi-trace](https://github.com/flemouel/taxi-trace)
+* **License:** [Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0)
+* **Current version:** `d4fd01e` (October 1st 2014).
+* **First public release:** October 1st 2014
+* **DynaMid Member:** Frédéric Le Mouël
+* **Status:** toolkit
 

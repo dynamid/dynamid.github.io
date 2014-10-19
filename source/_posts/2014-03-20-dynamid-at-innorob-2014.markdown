@@ -11,3 +11,5 @@ The following video is a presentation by Nicolas of a mechatronical prototype re
 
 * [Innorobo presentation](http://www.youtube.com/watch?v=8y3X7Sn7ui0) (N.Stouls)
 * [Di Wheel official presentation](http://www.youtube.com/watch?v=TioTUlm8yec) (J-L.Pelligotti)
+
+{% img /images/posts/robotic_innorobo.jpg 'Candy Robot at Innorobo' 'Candy Robot at Innorobo' %}

@@ -5,7 +5,7 @@ comments: true
 categories: projects team robotics
 ---
 
-{% img /images/robotic_citi.jpg %}
+{% img /images/posts/robotic_citi.jpg %}
 
 Our first robot just arrived!
 

@@ -6,7 +6,7 @@ comments: true
 categories: smart-cities internet-of-things project china
 ---
 
-<a href="http://en.wikipedia.org/wiki/Zhang_Heng">{% img right /images/zhang_heng.jpg 220 334 'Zhang Heng - Chinese astronomer, mathematician, inventor, geographer, cartographer, artist, poet, statesman, and literary scholar' 'Zhang Heng' %}</a>
+<a href="http://en.wikipedia.org/wiki/Zhang_Heng">{% img right /images/posts/zhang_heng.jpg 220 334 'Zhang Heng - Chinese astronomer, mathematician, inventor, geographer, cartographer, artist, poet, statesman, and literary scholar' 'Zhang Heng' %}</a>
 
 Frédéric Le Mouël participates to the Zhang Heng program about "Smart Cities and Internet of Things" organized by the French Ministry of Foreign Affairs and particularly the [French Embassy in China](http://www.ambafrance-cn.org/Le-programme-Zhang-Heng.html?lang=fr") from October, 14th to 20th. 
 

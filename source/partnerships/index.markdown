@@ -19,6 +19,21 @@ footer: false
   </thead>
   <tr>
     <td class="project-icons">
+      <a href="http://www.campusfrance.org/fr/barrande">{% img no-border /images/sponsors/mae_mesr.jpg 200 109 'Ministère des Affaires Etrangères - Ministère de l'Enseignement Supérieur et de la Recherche' 'MAE - MESR' %}</a><br />
+    </td>
+    <td class="project-text">
+      MUROTEX - Multi-Agent Coordination in Robotic Exploration and Reconnaissance Missions
+    </td>
+    <td>2016 - 2014</td>
+    <td>
+      <a href="/people">{% img /images/faces/face-osimonin.jpg 50 50 'osimonin :-)' 'osimonin' %}</a>
+      <a href="/people">{% img /images/faces/face-jponge.jpg 50 50 'jponge :-)' 'jponge' %}</a>
+      <a href="/people">{% img /images/faces/face-nstouls.jpg 50 50 'nstouls :-)' 'nstouls' %}</a>
+      <a href="/people">{% img /images/faces/face-flemouel.jpg 50 50 'flemouel :-)' 'flemouel' %}</a>
+    </td>
+  </tr>
+  <tr>
+    <td class="project-icons">
       <a href="http://www.insa-lyon.fr">{% img no-border /images/logos/logo-insalyon.png 200 107 'INSA Lyon' 'INSA Lyon' %}</a><br />
     </td>
     <td class="project-text">

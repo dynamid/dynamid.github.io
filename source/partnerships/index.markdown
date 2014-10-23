@@ -18,7 +18,7 @@ footer: false
     </tr>
   </thead>
   <tr>
-    <td class="min-size">
+    <td class="project-icons">
       <a href="http://www.insa-lyon.fr">{% img no-border /images/logos/logo-insalyon.png 200 107 'INSA Lyon' 'INSA Lyon' %}</a><br />
     </td>
     <td class="project-text">
@@ -34,7 +34,7 @@ footer: false
     </td>
   </tr>
   <tr>
-    <td class="min-size"><a href="http://www.valeo.com">{% img no-border /images/sponsors/valeo.png 200 90 'Valeo' 'Valeo' %}</a></td>
+    <td class="project-icons"><a href="http://www.valeo.com">{% img no-border /images/sponsors/valeo.png 200 90 'Valeo' 'Valeo' %}</a></td>
     <td class="project-text">
       Service Deployment and Invocation under Delay Constraints in Vehicular Networks.
     </td>
@@ -45,9 +45,10 @@ footer: false
     </td>
   </tr>
   <tr>
-    <td class="min-size">
+    <td class="project-icons">
       <a href="http://arc.rhonealpes.fr/">{% img no-border /images/sponsors/region-arc.png 200 59 'Rhône Alpes Region' 'Rhône Alpes Region' %}</a><br />
-      <a href="http://www.arc7-territoires-mobilites.rhonealpes.fr">{% img no-border /images/sponsors/region-arc7.png 200 50 'ARC 7' 'ARC 7' %}</a>
+      <a href="http://www.arc7-territoires-mobilites.rhonealpes.fr">{% img no-border /images/sponsors/region-arc7.png 200 50 'ARC 7' 'ARC 7' %}</a><br />
+      <a href="http://www.urbalyon.org/">{% img middle no-border /images/sponsors/urbalyon.png 50 50 'Agence urbanisme de Lyon - UrbaLyon' 'Agence urbanisme de Lyon - UrbaLyon' %}</a>
     </td>
     <td class="project-text">
       Measuring Urban Mobility for a Citizenship Service Cartography and Assistance.
@@ -57,11 +58,10 @@ footer: false
       <a href="/people">{% img /images/faces/face-tlin.jpg 50 50 'tlin :-)' 'tlin' %}</a>
       <a href="http://perso.citi.insa-lyon.fr/hrivano/">{% img /images/faces/face-hrivano.jpg 50 50 'hrivano :-)' 'hrivano' %}</a>
       <a href="/people">{% img /images/faces/face-flemouel.jpg 50 50 'flemouel :-)' 'flemouel' %}</a>
-      <a href="http://www.urbalyon.org/">{% img /images/sponsors/urbalyon.png 50 50 'Agence urbanisme de Lyon - UrbaLyon' 'Agence urbanisme de Lyon - UrbaLyon' %}</a>
     </td>
   </tr>
   <tr>
-    <td class="min-size"><a href="http://www.oracle.com">{% img no-border /images/sponsors/oracle.png 200 80 'Oracle' 'Oracle' %}</a></td>
+    <td class="project-icons"><a href="http://www.oracle.com">{% img no-border /images/sponsors/oracle.png 200 80 'Oracle' 'Oracle' %}</a></td>
     <td class="project-text">
       Technical writing for the Oracle Technology Network and Oracle Java Magazine on Java SE and Java EE / GlassFish.
     </td>
@@ -71,7 +71,7 @@ footer: false
     </td>
   </tr>  
   <tr>
-    <td class="min-size">
+    <td class="project-icons">
       <a href="http://en.csc.edu.cn/">{% img no-border /images/sponsors/csc.jpg 200 150 'CSC' 'CSC' %}</a><br />
     </td>
     <td class="project-text">
@@ -85,9 +85,9 @@ footer: false
     </td>
   </tr>
   <tr>
-    <td class="min-size">
+    <td class="project-icons pagination-centered">
       <a href="http://www.insa-lyon.fr">{% img no-border /images/logos/logo-insalyon.png 200 107 'INSA Lyon' 'INSA Lyon' %}</a><br />
-      <a href="http://imu.universite-lyon.fr/">{% img no-border /images/sponsors/IMU.png 150 70 'IMU' 'IMU' %}</a><br />
+      <a href="http://imu.universite-lyon.fr/">{% img no-border /images/sponsors/IMU.png 200 93 'IMU' 'IMU' %}</a><br />
     </td>
     <td class="project-text">
       <a href="https://bqr2010.project.citi-lab.fr/">Conception Methodology to Optimize Sensor Network Energy Consumption</a>.
@@ -111,7 +111,7 @@ footer: false
     </tr>
   </thead>
   <tr>
-    <td class="min-size">
+    <td class="project-icons">
       <a href="http://www.insa-lyon.fr">{% img no-border /images/logos/logo-insalyon.png 200 107 'INSA Lyon' 'INSA Lyon' %}</a><br />
       <a href="http://www.cvut.cz">{% img no-border /images/sponsors/ctu.png 200 152 'Czech Technical University in Prague' 'CTU Prague' %}</a><br />
     </td>
@@ -124,7 +124,7 @@ footer: false
     </td>
   </tr>
   <tr>
-    <td class="min-size">
+    <td class="project-icons">
       <a href="http://arc.rhonealpes.fr/">{% img no-border /images/sponsors/region-arc.png 200 59 'Rhône Alpes Region' 'Rhône Alpes Region' %}</a><br />
       <a href="http://arc6-tic.rhonealpes.fr/">{% img no-border /images/sponsors/region-arc6.png 200 65 'ARC 6' 'ARC 6' %}</a>
     </td>
@@ -138,7 +138,7 @@ footer: false
     </td>
   </tr>
   <tr>
-    <td class="min-size">
+    <td class="project-icons">
       <a href="http://arc.rhonealpes.fr/">{% img no-border /images/sponsors/region-arc.png 200 59 'Rhône Alpes Region' 'Rhône Alpes Region' %}</a><br />
       <a href="http://arc6-tic.rhonealpes.fr/">{% img no-border /images/sponsors/region-arc6.png 200 65 'ARC 6' 'ARC 6' %}</a>
     </td>

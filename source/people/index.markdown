@@ -18,7 +18,7 @@ footer: false
     </tr>
   </thead>
   <tr>
-    <td class="min-size">{% img /images/faces/face-flemouel.jpg 100 100 'flemouel :-)' 'flemouel' %}</td>
+    <td class="people-icons">{% img /images/faces/face-flemouel.jpg 100 100 'flemouel :-)' 'flemouel' %}</td>
     <td>Frédéric Le Mouël</td>
     <td>Head - Associate Professor<br />INSA Lyon</td>
     <td class="social-icons">
@@ -34,7 +34,7 @@ footer: false
     </td>
   </tr>
   <tr>
-    <td class="min-size">{% img /images/faces/face-mlittle.jpg 100 100 'mlittle :-)' 'mlittle' %}</td>
+    <td class="people-icons">{% img /images/faces/face-mlittle.jpg 100 100 'mlittle :-)' 'mlittle' %}</td>
     <td>Mark Little</td>
     <td>Visiting Professor<br />Red Hat &amp; Newcastle University</td>
     <td class="social-icons">
@@ -46,7 +46,7 @@ footer: false
     </td>
   </tr>
   <tr>
-    <td class="min-size">{% img /images/faces/face-osimonin.jpg 100 100 'osimonin :-)' 'osimonin' %}</td>
+    <td class="people-icons">{% img /images/faces/face-osimonin.jpg 100 100 'osimonin :-)' 'osimonin' %}</td>
     <td>Olivier Simonin</td>
     <td>Full Professor<br />INSA Lyon</td>
     <td class="social-icons">
@@ -56,7 +56,7 @@ footer: false
     </td>
   </tr>
   <tr>
-    <td class="min-size">{% img /images/faces/face-jponge.jpg 100 100 'jponge :-)' 'jponge' %}</td>
+    <td class="people-icons">{% img /images/faces/face-jponge.jpg 100 100 'jponge :-)' 'jponge' %}</td>
     <td>Julien Ponge</td>
     <td>Associate Professor<br />INSA Lyon</td>
     <td class="social-icons">
@@ -73,7 +73,7 @@ footer: false
     </td>
   </tr>
   <tr>
-    <td class="min-size">{% img /images/faces/face-nstouls.jpg 100 100 'nstouls :-)' 'nstouls' %}</td>
+    <td class="people-icons">{% img /images/faces/face-nstouls.jpg 100 100 'nstouls :-)' 'nstouls' %}</td>
     <td>Nicolas Stouls</td>
     <td>Associate Professor<br />INSA Lyon</td>
     <td class="social-icons">
@@ -85,7 +85,7 @@ footer: false
     </td>
   </tr>
   <tr>
-    <td class="min-size">{% img /images/faces/face-jdibangoye.jpg 100 100 'jdibangoye :-)' 'jdibangoye' %}</td>
+    <td class="people-icons">{% img /images/faces/face-jdibangoye.jpg 100 100 'jdibangoye :-)' 'jdibangoye' %}</td>
     <td>Jilles Dibangoye</td>
     <td>Associate Professor<br />INSA Lyon</td>
     <td class="social-icons">
@@ -94,7 +94,7 @@ footer: false
     </td>
   </tr>
   <tr>
-    <td class="min-size">{% img /images/faces/face-fjumel.jpg 100 100 'fjumel :-)' 'fjumel' %}</td>
+    <td class="people-icons">{% img /images/faces/face-fjumel.jpg 100 100 'fjumel :-)' 'fjumel' %}</td>
     <td>Fabrice Jumel</td>
     <td>Associate Professor<br />CPE</td>
     <td class="social-icons">
@@ -104,7 +104,7 @@ footer: false
     </td>
   </tr>
   <tr>
-    <td class="min-size">{% img /images/faces/face-jsaraydaryan.jpg 100 100 'jsaraydaryan :-)' 'jsaraydaryan' %}</td>
+    <td class="people-icons">{% img /images/faces/face-jsaraydaryan.jpg 100 100 'jsaraydaryan :-)' 'jsaraydaryan' %}</td>
     <td>Jacques Saraydaryan</td>
     <td>Associate Professor<br />CPE</td>
     <td class="social-icons">
@@ -113,7 +113,7 @@ footer: false
     </td>
   </tr>
   <tr>
-    <td class="min-size">{% img /images/faces/face-rgolchay.jpg 100 100 'rgolchay :-)' 'rgolchay' %}</td>
+    <td class="people-icons">{% img /images/faces/face-rgolchay.jpg 100 100 'rgolchay :-)' 'rgolchay' %}</td>
     <td>Roya Golchay</td>
     <td>PhD Student<br />INSA Lyon</td>
     <td class="social-icons">
@@ -122,7 +122,7 @@ footer: false
     </td>
   </tr>
   <tr>
-    <td class="min-size">{% img /images/faces/face-mlebre.jpg 100 100 'mlebre :-)' 'mlebre' %}</td>
+    <td class="people-icons">{% img /images/faces/face-mlebre.jpg 100 100 'mlebre :-)' 'mlebre' %}</td>
     <td>Marie-Ange Lèbre</td>
     <td>PhD Student<br />INSA Lyon &amp; Valeo</td>
     <td class="social-icons">
@@ -131,7 +131,7 @@ footer: false
     </td>
   </tr>
   <tr>
-    <td class="min-size">{% img /images/faces/face-tlin.jpg 100 100 'tlin :-)' 'tlin' %}</td>
+    <td class="people-icons">{% img /images/faces/face-tlin.jpg 100 100 'tlin :-)' 'tlin' %}</td>
     <td>Trista Lin</td>
     <td>PhD Student<br />INSA Lyon</td>
     <td class="social-icons">
@@ -141,7 +141,7 @@ footer: false
     </td>
   </tr>
   <tr>
-    <td class="min-size">{% img /images/faces/face-schitic.jpg 100 100 'schitic :-)' 'schitic' %}</td>
+    <td class="people-icons">{% img /images/faces/face-schitic.jpg 100 100 'schitic :-)' 'schitic' %}</td>
     <td>Stefan Chitic</td>
     <td>PhD Student<br />INSA Lyon</td>
     <td class="social-icons">
@@ -168,7 +168,7 @@ footer: false
     </tr>
   </thead>
   <tr>
-    <td class="min-size">{% img /images/faces/face-ydan.jpg 100 100 'ydan :-)' 'ydan' %}</td>
+    <td class="people-icons">{% img /images/faces/face-ydan.jpg 100 100 'ydan :-)' 'ydan' %}</td>
     <td>Yufang Dan</td>
     <td>PhD Student - INSA Lyon</td>
     <td class="social-icons">

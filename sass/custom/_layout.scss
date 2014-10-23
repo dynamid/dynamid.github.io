@@ -35,10 +35,16 @@
 td.social-icons {
   max-width: 156px;
 }
-td.project-text{
+td.project-icons {
+  min-width: 100px;
+  max-width: 200px;
+  text-align: center !important;
+}
+td.project-text {
   max-width: 300px;
 }
-td.size-min{
+td.people-icons {
+  min-width: 50px;
   max-width: 100px;
 }
 

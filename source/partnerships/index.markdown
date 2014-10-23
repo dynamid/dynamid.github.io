@@ -31,6 +31,7 @@ footer: false
       <a href="/people">{% img /images/faces/face-jponge.jpg 50 50 'jponge :-)' 'jponge' %}</a>
       <a href="/people">{% img /images/faces/face-nstouls.jpg 50 50 'nstouls :-)' 'nstouls' %}</a>
       <a href="/people">{% img /images/faces/face-flemouel.jpg 50 50 'flemouel :-)' 'flemouel' %}</a>
+      <a href="/people">{% img /images/faces/face-jdibangoye.jpg 50 50 'jdibangoye :-)' 'jdibangoye' %}</a>
     </td>
   </tr>
   <tr>

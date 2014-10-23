@@ -24,7 +24,7 @@ footer: false
     <td class="project-text">
       CROME - Mobile Robot Fleets For The Multi-View Analysis Of Complex Scenes
     </td>
-    <td>2014 - 2015</td>
+    <td>2015 - 2014</td>
     <td>
       <a href="/people">{% img /images/faces/face-osimonin.jpg 50 50 'osimonin :-)' 'osimonin' %}</a>
       <a href="/people">{% img /images/faces/face-schitic.jpg 50 50 'schitic :-)' 'schitic' %}</a>
@@ -38,7 +38,7 @@ footer: false
     <td class="project-text">
       Service Deployment and Invocation under Delay Constraints in Vehicular Networks.
     </td>
-    <td>2012 - 2015</td>
+    <td>2015 - 2012</td>
     <td>
       <a href="/people">{% img /images/faces/face-mlebre.jpg 50 50 'mlebre :-)' 'mlebre' %}</a>
       <a href="/people">{% img /images/faces/face-flemouel.jpg 50 50 'flemouel :-)' 'flemouel' %}</a>
@@ -52,7 +52,7 @@ footer: false
     <td class="project-text">
       Measuring Urban Mobility for a Citizenship Service Cartography and Assistance.
     </td>
-    <td>2012 - 2015</td>
+    <td>2015 - 2012</td>
     <td>
       <a href="/people">{% img /images/faces/face-tlin.jpg 50 50 'tlin :-)' 'tlin' %}</a>
       <a href="http://perso.citi.insa-lyon.fr/hrivano/">{% img /images/faces/face-hrivano.jpg 50 50 'hrivano :-)' 'hrivano' %}</a>
@@ -77,7 +77,7 @@ footer: false
     <td class="project-text">
       <a href="http://perso.citi.insa-lyon.fr/nstouls/SujetsStages/09-10_AmbiantCalculus-these_et_M2R.pdf">Ambient calculus for distributed, service oriented virtual machines</a>.
     </td>
-    <td>2010 - 2014</td>
+    <td>2014 - 2010</td>
     <td>
       <a href="/people">{% img /images/faces/face-ydan.jpg 50 50 'ydan :-)' 'ydan' %}</a>
       <a href="/people">{% img /images/faces/face-nstouls.jpg 50 50 'nstouls :-)' 'nstouls' %}</a>
@@ -92,7 +92,7 @@ footer: false
     <td class="project-text">
       <a href="https://bqr2010.project.citi-lab.fr/">Conception Methodology to Optimize Sensor Network Energy Consumption</a>.
     </td>
-    <td>2009 - 2012</td>
+    <td>2012 - 2009</td>
     <td>
       <a href="/people">{% img /images/faces/face-nstouls.jpg 50 50 'nstouls :-)' 'nstouls' %}</a>
     </td>
@@ -145,7 +145,7 @@ footer: false
     <td class="project-text">
       <a href="http://www.projet-semba-cluster-isle-rhone-alpes.org/">SEmba Project - Embedded Systems</a>.
     </td>
-    <td>2012 - 2014</td>
+    <td>2014 - 2012</td>
     <td>
       <a href="/people">{% img /images/faces/face-nstouls.jpg 50 50 'nstouls :-)' 'nstouls' %}</a>
       {% img no-shadow /images/1x1.png 50 50 %}

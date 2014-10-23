@@ -116,7 +116,7 @@ footer: false
       <a href="http://arc6-tic.rhonealpes.fr/">{% img no-border /images/sponsors/region-arc6.png 200 65 'ARC 6' 'ARC 6' %}</a>
     </td>
     <td class="project-text">
-      Web of Things - Summer School.
+      <a href="http://www.web-intelligence-rhone-alpes.org/Ecoles/2013/">Web of Things - Summer School</a>.
     </td>
     <td>2013</td>
     <td>

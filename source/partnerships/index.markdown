@@ -112,6 +112,19 @@ footer: false
   </thead>
   <tr>
     <td class="min-size">
+      <a href="http://www.insa-lyon.fr">{% img no-border /images/logos/logo-insalyon.png 200 107 'INSA Lyon' 'INSA Lyon' %}</a><br />
+      <a href="http://www.cvut.cz">{% img no-border /images/sponsors/ctu.png 200 152 'Czech Technical University in Prague' 'CTU Prague' %}</a><br />
+    </td>
+    <td class="project-text">
+      <a href="http://robotics.fel.cvut.cz/macorex14/">Workshop on Multi-Agent Coordination in Robotic Exploration (MACoREx @ ECAI'14)</a>.
+    </td>
+    <td>2014</td>
+    <td>
+      <a href="/people">{% img /images/faces/face-osimonin.jpg 50 50 'osimonin :-)' 'osimonin' %}</a>
+    </td>
+  </tr>
+  <tr>
+    <td class="min-size">
       <a href="http://arc.rhonealpes.fr/">{% img no-border /images/sponsors/region-arc.png 200 59 'Rhône Alpes Region' 'Rhône Alpes Region' %}</a><br />
       <a href="http://arc6-tic.rhonealpes.fr/">{% img no-border /images/sponsors/region-arc6.png 200 65 'ARC 6' 'ARC 6' %}</a>
     </td>

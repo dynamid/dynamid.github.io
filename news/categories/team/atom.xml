@@ -4,7 +4,7 @@
   <title><![CDATA[Category: team | DynaMid]]></title>
   <link href="http://dynamid.citi-lab.fr/news/categories/team/atom.xml" rel="self"/>
   <link href="http://dynamid.citi-lab.fr/"/>
-  <updated>2014-11-12T12:13:32+08:00</updated>
+  <updated>2014-11-12T16:38:24+08:00</updated>
   <id>http://dynamid.citi-lab.fr/</id>
   <author>
     <name><![CDATA[Dynamid Team]]></name>
@@ -58,7 +58,7 @@ dynamic components in a service-oriented system".</p>
 </ul>
 
 
-<p>{% img /images/posts/robotic_innorobo.jpg 'Candy Robot at Innorobo' 'Candy Robot at Innorobo' %}</p>
+<p><img src="/images/posts/robotic_innorobo.jpg" title="Candy Robot at Innorobo" alt="Candy Robot at Innorobo"></p>
 ]]></content>
   </entry>
   

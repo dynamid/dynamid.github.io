@@ -4,7 +4,7 @@
   <title><![CDATA[Category: distributed | DynaMid]]></title>
   <link href="http://dynamid.citi-lab.fr/news/categories/distributed/atom.xml" rel="self"/>
   <link href="http://dynamid.citi-lab.fr/"/>
-  <updated>2014-11-12T16:38:24+08:00</updated>
+  <updated>2014-11-12T16:43:15+08:00</updated>
   <id>http://dynamid.citi-lab.fr/</id>
   <author>
     <name><![CDATA[Dynamid Team]]></name>
@@ -18,7 +18,7 @@
     <link href="http://dynamid.citi-lab.fr/news/2014/10/01/cands-at-vldb-2015/"/>
     <updated>2014-10-01T00:00:00+08:00</updated>
     <id>http://dynamid.citi-lab.fr/news/2014/10/01/cands-at-vldb-2015</id>
-    <content type="html"><![CDATA[<p>We are proud to announce that our article entitled "CANDS: Continuous Optimal Navigation via Distributed Stream Processing" is accepted to the top conference VLDB 2015 in Hawai, USA. The paper is already published in the PVLDB journal - VLDB Endowment, Volume 8, N.2, October 2014 avaliable online at <a href="http://www.vldb.org/pvldb/vol8.html">http://www.vldb.org/pvldb/vol8.html</a>. Feel free to read it !</p>
+    <content type="html"><![CDATA[<p>We are proud to announce that our article entitled "CANDS: Continuous Optimal Navigation via Distributed Stream Processing" is accepted to the top conference VLDB 2015 in Hawai, USA. The paper is already published in the PVLDB journal - VLDB Endowment, Volume 8, N.2, October 2014 available online at <a href="http://www.vldb.org/pvldb/vol8.html">http://www.vldb.org/pvldb/vol8.html</a>. Feel free to read it !</p>
 
 <p>This article is a successful one-year joint work between SJTU - CoopIS Lab with Prof.Cao, NUS - School of Computing with Prof. Tan and INSA Lyon - CITI Lab / Dynamid team with Prof. Le Mouël.</p>
 ]]></content>

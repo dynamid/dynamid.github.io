@@ -6,6 +6,7 @@ comments: true
 categories: publication paper research distributed middleware optimisation smart-cities
 ---
 
-We are proud to announce that our article entitled "CANDS: Continuous Optimal Navigation via Distributed Stream Processing" is accepted to the top conference VLDB 2015 in Hawai, USA. The paper is already published in the PVLDB journal - VLDB Endowment, Volume 8, N.2, October 2014 avaliable online at [http://www.vldb.org/pvldb/vol8.html](http://www.vldb.org/pvldb/vol8.html). Feel free to read it !
+We are proud to announce that our article entitled "CANDS: Continuous Optimal Navigation via Distributed Stream Processing" is accepted to the top conference VLDB 2015 in Hawai, USA. The paper is already published in the PVLDB journal - VLDB Endowment, Volume 8, N.2, October 2014 available online at [http://www.vldb.org/pvldb/vol8.html](http://www.vldb.org/pvldb/vol8.html). Feel free to read it !
 
 This article is a successful one-year joint work between SJTU - CoopIS Lab with Prof.Cao, NUS - School of Computing with Prof. Tan and INSA Lyon - CITI Lab / Dynamid team with Prof. Le Mouël.
+

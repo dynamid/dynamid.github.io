@@ -4,7 +4,7 @@
   <title><![CDATA[Category: invokdynamic | DynaMid]]></title>
   <link href="http://dynamid.citi-lab.fr/news/categories/invokdynamic/atom.xml" rel="self"/>
   <link href="http://dynamid.citi-lab.fr/"/>
-  <updated>2014-10-24T00:09:26+02:00</updated>
+  <updated>2014-11-12T11:22:40+08:00</updated>
   <id>http://dynamid.citi-lab.fr/</id>
   <author>
     <name><![CDATA[Dynamid Team]]></name>
@@ -16,7 +16,7 @@
   <entry>
     <title type="html"><![CDATA[LavaJUG]]></title>
     <link href="http://dynamid.citi-lab.fr/news/2013/02/07/lavajug/"/>
-    <updated>2013-02-07T00:00:00+01:00</updated>
+    <updated>2013-02-07T00:00:00+08:00</updated>
     <id>http://dynamid.citi-lab.fr/news/2013/02/07/lavajug</id>
     <content type="html"><![CDATA[<p>Dynamid members went to the mythical <a href="http://www.lavajug.org/">LavaJUG</a> to talk about <a href="http://www.lavajug.org/xwiki/bin/view/Main/EventTen"><code>invokedynamic</code>, JooFlux and Golo</a>.</p>
 

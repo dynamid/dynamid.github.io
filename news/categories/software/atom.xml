@@ -4,7 +4,7 @@
   <title><![CDATA[Category: software | DynaMid]]></title>
   <link href="http://dynamid.citi-lab.fr/news/categories/software/atom.xml" rel="self"/>
   <link href="http://dynamid.citi-lab.fr/"/>
-  <updated>2014-10-24T00:09:26+02:00</updated>
+  <updated>2014-11-12T11:22:40+08:00</updated>
   <id>http://dynamid.citi-lab.fr/</id>
   <author>
     <name><![CDATA[Dynamid Team]]></name>
@@ -16,7 +16,7 @@
   <entry>
     <title type="html"><![CDATA[Golo 1.0.0 !]]></title>
     <link href="http://dynamid.citi-lab.fr/news/2014/07/09/golo-1.0.0-is-here/"/>
-    <updated>2014-07-09T00:00:00+02:00</updated>
+    <updated>2014-07-09T00:00:00+08:00</updated>
     <id>http://dynamid.citi-lab.fr/news/2014/07/09/golo-1.0.0-is-here</id>
     <content type="html"><![CDATA[<p><img src="http://golo-lang.org/images/logo-golo.png" alt="Golo" /></p>
 
@@ -40,7 +40,7 @@
   <entry>
     <title type="html"><![CDATA[Golo at Devoxx 2013]]></title>
     <link href="http://dynamid.citi-lab.fr/news/2013/11/12/golo-at-devoxx13/"/>
-    <updated>2013-11-12T00:00:00+01:00</updated>
+    <updated>2013-11-12T00:00:00+08:00</updated>
     <id>http://dynamid.citi-lab.fr/news/2013/11/12/golo-at-devoxx13</id>
     <content type="html"><![CDATA[<p><a href="http://golo-lang.org/">Golo</a> was presented at <a href="http://devoxx.be/">Devoxx 2013</a>.</p>
 
@@ -61,7 +61,7 @@
   <entry>
     <title type="html"><![CDATA[Golo in Java Magazine May/June 2013]]></title>
     <link href="http://dynamid.citi-lab.fr/news/2013/06/15/golo-in-java-magazine/"/>
-    <updated>2013-06-15T00:00:00+02:00</updated>
+    <updated>2013-06-15T00:00:00+08:00</updated>
     <id>http://dynamid.citi-lab.fr/news/2013/06/15/golo-in-java-magazine</id>
     <content type="html"><![CDATA[<p><img src="http://golo-lang.org/images/logo-golo.png" alt="Golo" /></p>
 
@@ -74,7 +74,7 @@
   <entry>
     <title type="html"><![CDATA[Meet Golo]]></title>
     <link href="http://dynamid.citi-lab.fr/news/2013/04/03/meet-golo/"/>
-    <updated>2013-04-03T12:22:00+02:00</updated>
+    <updated>2013-04-03T12:22:00+08:00</updated>
     <id>http://dynamid.citi-lab.fr/news/2013/04/03/meet-golo</id>
     <content type="html"><![CDATA[<p><img src="http://golo-lang.org/images/logo-golo.png" alt="Golo" /></p>
 
@@ -106,7 +106,7 @@ the Dynamid group. Of course Golo is far from being feature-complete, and we wil
   <entry>
     <title type="html"><![CDATA[Release of JooFlux r1]]></title>
     <link href="http://dynamid.citi-lab.fr/news/2013/02/19/release-of-jooflux-r1/"/>
-    <updated>2013-02-19T15:07:00+01:00</updated>
+    <updated>2013-02-19T15:07:00+08:00</updated>
     <id>http://dynamid.citi-lab.fr/news/2013/02/19/release-of-jooflux-r1</id>
     <content type="html"><![CDATA[<p>The Dynamid members are pleased to announce the second release of JooFlux.</p>
 

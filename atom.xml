@@ -4,7 +4,7 @@
   <title><![CDATA[DynaMid]]></title>
   <link href="http://dynamid.citi-lab.fr/atom.xml" rel="self"/>
   <link href="http://dynamid.citi-lab.fr/"/>
-  <updated>2014-10-24T00:09:26+02:00</updated>
+  <updated>2014-11-12T11:22:40+08:00</updated>
   <id>http://dynamid.citi-lab.fr/</id>
   <author>
     <name><![CDATA[Dynamid Team]]></name>
@@ -16,7 +16,7 @@
   <entry>
     <title type="html"><![CDATA[New Dynamid members: Mark, Jilles, Fabrice and Jacques]]></title>
     <link href="http://dynamid.citi-lab.fr/news/2014/09/01/new-dynamid-members-mark-jilles-fabrice-jacques/"/>
-    <updated>2014-09-01T00:00:00+02:00</updated>
+    <updated>2014-09-01T00:00:00+08:00</updated>
     <id>http://dynamid.citi-lab.fr/news/2014/09/01/new-dynamid-members-mark-jilles-fabrice-jacques</id>
     <content type="html"><![CDATA[<p>This year, the Dynamid team welcomes 4 new members!</p>
 
@@ -33,7 +33,7 @@
   <entry>
     <title type="html"><![CDATA[Golo 1.0.0 !]]></title>
     <link href="http://dynamid.citi-lab.fr/news/2014/07/09/golo-1.0.0-is-here/"/>
-    <updated>2014-07-09T00:00:00+02:00</updated>
+    <updated>2014-07-09T00:00:00+08:00</updated>
     <id>http://dynamid.citi-lab.fr/news/2014/07/09/golo-1.0.0-is-here</id>
     <content type="html"><![CDATA[<p><img src="http://golo-lang.org/images/logo-golo.png" alt="Golo" /></p>
 
@@ -57,7 +57,7 @@
   <entry>
     <title type="html"><![CDATA[Congratulation Yufang DAN]]></title>
     <link href="http://dynamid.citi-lab.fr/news/2014/05/14/congratulation-yufang-dan/"/>
-    <updated>2014-05-14T00:00:00+02:00</updated>
+    <updated>2014-05-14T00:00:00+08:00</updated>
     <id>http://dynamid.citi-lab.fr/news/2014/05/14/congratulation-yufang-dan</id>
     <content type="html"><![CDATA[<p>Yufang DAN just defended her PhD about
 &#8220;Security and self-healability enforcement of
@@ -70,7 +70,7 @@ dynamic components in a service-oriented system&#8221;.</p>
   <entry>
     <title type="html"><![CDATA[Dynamid at Innorobo 2014]]></title>
     <link href="http://dynamid.citi-lab.fr/news/2014/03/20/dynamid-at-innorob-2014/"/>
-    <updated>2014-03-20T00:00:00+01:00</updated>
+    <updated>2014-03-20T00:00:00+08:00</updated>
     <id>http://dynamid.citi-lab.fr/news/2014/03/20/dynamid-at-innorob-2014</id>
     <content type="html"><![CDATA[<p>Dynamid team was at Innorobo 2014 on the INSA stand. Olivier, Stefan and Nicolas presented some prototypes and ideas in the context of the mechatronics and robotics. They mainly shown some teaching results, that are more visual.</p>
 
@@ -89,7 +89,7 @@ dynamic components in a service-oriented system&#8221;.</p>
   <entry>
     <title type="html"><![CDATA[Open associate professor position in Dynamid team]]></title>
     <link href="http://dynamid.citi-lab.fr/news/2014/02/27/open-associate-professor-position-in-dynamid-team/"/>
-    <updated>2014-02-27T00:00:00+01:00</updated>
+    <updated>2014-02-27T00:00:00+08:00</updated>
     <id>http://dynamid.citi-lab.fr/news/2014/02/27/open-associate-professor-position-in-dynamid-team</id>
     <content type="html"><![CDATA[<p>Dynamid team is recruting an associate professor under the thematics &#8220;Distributed decision making in robotics&#8221;. To apply, please consult the <a href="http://www.insa-lyon.fr/en/fr/insa-de-lyon/recrutement/enseignants/chercheurs/mcf/maitre-de-conference">open positions web page of INSA-Lyon</a> and focus on the position &#8220;27 MCF TC CITI 0327&#8221;.</p>
 ]]></content>
@@ -98,7 +98,7 @@ dynamic components in a service-oriented system&#8221;.</p>
   <entry>
     <title type="html"><![CDATA[Workshop on Multi-Agent Coordination in Robotic Exploration]]></title>
     <link href="http://dynamid.citi-lab.fr/news/2014/02/20/workshop-on-multi-agent-coordination-in-robotic-exploration/"/>
-    <updated>2014-02-20T00:00:00+01:00</updated>
+    <updated>2014-02-20T00:00:00+08:00</updated>
     <id>http://dynamid.citi-lab.fr/news/2014/02/20/workshop-on-multi-agent-coordination-in-robotic-exploration</id>
     <content type="html"><![CDATA[<p>Olivier Simonin and Jan Faigl will organize in August 18th, 2014, at Prague the <a href="http://robotics.fel.cvut.cz/macorex14/">Workshop on Multi-Agent Coordination in Robotic Exploration</a>.
 Robotic exploration is a fundamental problem in mobile robotics that addresses one of the most challenging application scenarios to provide an efficient approach to collect information about an unknown environment. There are many motivational scenarios for practical deployment of mobile robots and probably even more approaches promising benefits from deploying several mobile robots. However, what are the real performance guarantees of the modern sophisticated exploration strategies? Do the novel methods and experimental demonstrations provide qualitatively better results in a new principle way or are these improvement only the results of a better tuning for the particular platforms and scenarios? What is the bridge between algorithmic complexity and robotic limitations? How to define scalable solutions?</p>
@@ -120,7 +120,7 @@ Robotic exploration is a fundamental problem in mobile robotics that addresses o
   <entry>
     <title type="html"><![CDATA[French application for RoboCup2016 organisation]]></title>
     <link href="http://dynamid.citi-lab.fr/news/2014/02/15/french-application-for-robocup2016-organisation/"/>
-    <updated>2014-02-15T00:00:00+01:00</updated>
+    <updated>2014-02-15T00:00:00+08:00</updated>
     <id>http://dynamid.citi-lab.fr/news/2014/02/15/french-application-for-robocup2016-organisation</id>
     <content type="html"><![CDATA[<p>Olivier Simonin, from Dynamid, is heading the French application to the organization of the international RoboCup 2016.</p>
 
@@ -131,7 +131,7 @@ Robotic exploration is a fundamental problem in mobile robotics that addresses o
   <entry>
     <title type="html"><![CDATA[WoT Summer School 2013 report video]]></title>
     <link href="http://dynamid.citi-lab.fr/news/2014/01/07/wot-summer-school-report-video/"/>
-    <updated>2014-01-07T14:22:00+01:00</updated>
+    <updated>2014-01-07T14:22:00+08:00</updated>
     <id>http://dynamid.citi-lab.fr/news/2014/01/07/wot-summer-school-report-video</id>
     <content type="html"><![CDATA[<p>A report video following the <a href="http://dynamid.citi-lab.fr/news/2013/09/02/web-of-things-summer-school/">WoT Summer School</a> is now available (in French):</p>
 
@@ -145,7 +145,7 @@ Robotic exploration is a fundamental problem in mobile robotics that addresses o
   <entry>
     <title type="html"><![CDATA[CROME BQR Grant]]></title>
     <link href="http://dynamid.citi-lab.fr/news/2013/12/10/crome-bqr-grant/"/>
-    <updated>2013-12-10T00:00:00+01:00</updated>
+    <updated>2013-12-10T00:00:00+08:00</updated>
     <id>http://dynamid.citi-lab.fr/news/2013/12/10/crome-bqr-grant</id>
     <content type="html"><![CDATA[<p>Dynamid has received a research grant from <a href="http://www.insa-lyon.fr/">INSA-Lyon</a> as part of a BQR (<em>Bonus Qualité Recherche</em> in French).</p>
 
@@ -176,7 +176,7 @@ Robotic exploration is a fundamental problem in mobile robotics that addresses o
   <entry>
     <title type="html"><![CDATA[Golo at Devoxx 2013]]></title>
     <link href="http://dynamid.citi-lab.fr/news/2013/11/12/golo-at-devoxx13/"/>
-    <updated>2013-11-12T00:00:00+01:00</updated>
+    <updated>2013-11-12T00:00:00+08:00</updated>
     <id>http://dynamid.citi-lab.fr/news/2013/11/12/golo-at-devoxx13</id>
     <content type="html"><![CDATA[<p><a href="http://golo-lang.org/">Golo</a> was presented at <a href="http://devoxx.be/">Devoxx 2013</a>.</p>
 
@@ -197,7 +197,7 @@ Robotic exploration is a fundamental problem in mobile robotics that addresses o
   <entry>
     <title type="html"><![CDATA[Our first robot]]></title>
     <link href="http://dynamid.citi-lab.fr/news/2013/10/15/our-first-robot/"/>
-    <updated>2013-10-15T00:00:00+02:00</updated>
+    <updated>2013-10-15T00:00:00+08:00</updated>
     <id>http://dynamid.citi-lab.fr/news/2013/10/15/our-first-robot</id>
     <content type="html"><![CDATA[<p><img src="http://dynamid.citi-lab.fr/images/posts/robotic_citi.jpg"></p>
 
@@ -212,7 +212,7 @@ Robotic exploration is a fundamental problem in mobile robotics that addresses o
   <entry>
     <title type="html"><![CDATA[Golo at PPPJ 2013]]></title>
     <link href="http://dynamid.citi-lab.fr/news/2013/09/19/golo-at-pppj-2013/"/>
-    <updated>2013-09-19T14:33:00+02:00</updated>
+    <updated>2013-09-19T14:33:00+08:00</updated>
     <id>http://dynamid.citi-lab.fr/news/2013/09/19/golo-at-pppj-2013</id>
     <content type="html"><![CDATA[<p>Our first research paper on the <a href="http://golo-lang.org/">Golo programming language</a> was published in the proceedings of the <a href="http://pppj2013.dhbw.de/conference-pppj2013.html">PPPJ 2013 conference</a>:</p>
 
@@ -230,7 +230,7 @@ Robotic exploration is a fundamental problem in mobile robotics that addresses o
   <entry>
     <title type="html"><![CDATA[New Dynamid members: Olivier and Stefan]]></title>
     <link href="http://dynamid.citi-lab.fr/news/2013/09/10/new-dynamid-members-olivier-and-stefan/"/>
-    <updated>2013-09-10T00:00:00+02:00</updated>
+    <updated>2013-09-10T00:00:00+08:00</updated>
     <id>http://dynamid.citi-lab.fr/news/2013/09/10/new-dynamid-members-olivier-and-stefan</id>
     <content type="html"><![CDATA[<p>The Dynamid team welcomes 2 new members!</p>
 
@@ -245,7 +245,7 @@ Robotic exploration is a fundamental problem in mobile robotics that addresses o
   <entry>
     <title type="html"><![CDATA[Web of Things Summer school 2013]]></title>
     <link href="http://dynamid.citi-lab.fr/news/2013/09/02/web-of-things-summer-school/"/>
-    <updated>2013-09-02T09:00:00+02:00</updated>
+    <updated>2013-09-02T09:00:00+08:00</updated>
     <id>http://dynamid.citi-lab.fr/news/2013/09/02/web-of-things-summer-school</id>
     <content type="html"><![CDATA[<p>Some Dynamid team members were in the organization and scientific committees of this school about Web of Things.</p>
 
@@ -256,7 +256,7 @@ Robotic exploration is a fundamental problem in mobile robotics that addresses o
   <entry>
     <title type="html"><![CDATA[Golo in Java Magazine May/June 2013]]></title>
     <link href="http://dynamid.citi-lab.fr/news/2013/06/15/golo-in-java-magazine/"/>
-    <updated>2013-06-15T00:00:00+02:00</updated>
+    <updated>2013-06-15T00:00:00+08:00</updated>
     <id>http://dynamid.citi-lab.fr/news/2013/06/15/golo-in-java-magazine</id>
     <content type="html"><![CDATA[<p><img src="http://golo-lang.org/images/logo-golo.png" alt="Golo" /></p>
 
@@ -269,7 +269,7 @@ Robotic exploration is a fundamental problem in mobile robotics that addresses o
   <entry>
     <title type="html"><![CDATA[SEmba 2013 : a regional workshop about embedded systems]]></title>
     <link href="http://dynamid.citi-lab.fr/news/2013/04/04/semba-2013-a-regional-workshop-about-embedded-systems/"/>
-    <updated>2013-04-04T09:00:00+02:00</updated>
+    <updated>2013-04-04T09:00:00+08:00</updated>
     <id>http://dynamid.citi-lab.fr/news/2013/04/04/semba-2013-a-regional-workshop-about-embedded-systems</id>
     <content type="html"><![CDATA[<p>Last 4th and 5th April 2013, the Dynamid team organized the 4th SEmba workshop. SEmba (standing for Embedded Systems in French) is a regional workshop sponsorized by the Region Rhône-Alpes, and trying to gives some animation in this research community.</p>
 
@@ -280,7 +280,7 @@ Robotic exploration is a fundamental problem in mobile robotics that addresses o
   <entry>
     <title type="html"><![CDATA[Meet Golo]]></title>
     <link href="http://dynamid.citi-lab.fr/news/2013/04/03/meet-golo/"/>
-    <updated>2013-04-03T12:22:00+02:00</updated>
+    <updated>2013-04-03T12:22:00+08:00</updated>
     <id>http://dynamid.citi-lab.fr/news/2013/04/03/meet-golo</id>
     <content type="html"><![CDATA[<p><img src="http://golo-lang.org/images/logo-golo.png" alt="Golo" /></p>
 
@@ -312,7 +312,7 @@ the Dynamid group. Of course Golo is far from being feature-complete, and we wil
   <entry>
     <title type="html"><![CDATA[Dynamid Kickoff Meeting]]></title>
     <link href="http://dynamid.citi-lab.fr/news/2013/03/12/team-kickoff-meeting/"/>
-    <updated>2013-03-12T14:00:00+01:00</updated>
+    <updated>2013-03-12T14:00:00+08:00</updated>
     <id>http://dynamid.citi-lab.fr/news/2013/03/12/team-kickoff-meeting</id>
     <content type="html"><![CDATA[<p>The Dynamid team has hold it&#8217;s 2013 Kickoff Meeting in a good ambiance ! This meeting has introduced the members of the team and presented the on-going projects.</p>
 
@@ -328,7 +328,7 @@ the Dynamid group. Of course Golo is far from being feature-complete, and we wil
   <entry>
     <title type="html"><![CDATA[Release of JooFlux r1]]></title>
     <link href="http://dynamid.citi-lab.fr/news/2013/02/19/release-of-jooflux-r1/"/>
-    <updated>2013-02-19T15:07:00+01:00</updated>
+    <updated>2013-02-19T15:07:00+08:00</updated>
     <id>http://dynamid.citi-lab.fr/news/2013/02/19/release-of-jooflux-r1</id>
     <content type="html"><![CDATA[<p>The Dynamid members are pleased to announce the second release of JooFlux.</p>
 
@@ -347,7 +347,7 @@ contribute bug fixes and improvements.</p>
   <entry>
     <title type="html"><![CDATA[LavaJUG]]></title>
     <link href="http://dynamid.citi-lab.fr/news/2013/02/07/lavajug/"/>
-    <updated>2013-02-07T00:00:00+01:00</updated>
+    <updated>2013-02-07T00:00:00+08:00</updated>
     <id>http://dynamid.citi-lab.fr/news/2013/02/07/lavajug</id>
     <content type="html"><![CDATA[<p>Dynamid members went to the mythical <a href="http://www.lavajug.org/">LavaJUG</a> to talk about <a href="http://www.lavajug.org/xwiki/bin/view/Main/EventTen"><code>invokedynamic</code>, JooFlux and Golo</a>.</p>
 

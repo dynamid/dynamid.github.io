@@ -4,7 +4,7 @@
   <title><![CDATA[Category: talk | DynaMid]]></title>
   <link href="http://dynamid.citi-lab.fr/news/categories/talk/atom.xml" rel="self"/>
   <link href="http://dynamid.citi-lab.fr/"/>
-  <updated>2014-10-24T00:09:26+02:00</updated>
+  <updated>2014-11-12T11:22:40+08:00</updated>
   <id>http://dynamid.citi-lab.fr/</id>
   <author>
     <name><![CDATA[Dynamid Team]]></name>
@@ -16,7 +16,7 @@
   <entry>
     <title type="html"><![CDATA[Golo at PPPJ 2013]]></title>
     <link href="http://dynamid.citi-lab.fr/news/2013/09/19/golo-at-pppj-2013/"/>
-    <updated>2013-09-19T14:33:00+02:00</updated>
+    <updated>2013-09-19T14:33:00+08:00</updated>
     <id>http://dynamid.citi-lab.fr/news/2013/09/19/golo-at-pppj-2013</id>
     <content type="html"><![CDATA[<p>Our first research paper on the <a href="http://golo-lang.org/">Golo programming language</a> was published in the proceedings of the <a href="http://pppj2013.dhbw.de/conference-pppj2013.html">PPPJ 2013 conference</a>:</p>
 
@@ -34,7 +34,7 @@
   <entry>
     <title type="html"><![CDATA[LavaJUG]]></title>
     <link href="http://dynamid.citi-lab.fr/news/2013/02/07/lavajug/"/>
-    <updated>2013-02-07T00:00:00+01:00</updated>
+    <updated>2013-02-07T00:00:00+08:00</updated>
     <id>http://dynamid.citi-lab.fr/news/2013/02/07/lavajug</id>
     <content type="html"><![CDATA[<p>Dynamid members went to the mythical <a href="http://www.lavajug.org/">LavaJUG</a> to talk about <a href="http://www.lavajug.org/xwiki/bin/view/Main/EventTen"><code>invokedynamic</code>, JooFlux and Golo</a>.</p>
 
@@ -57,7 +57,7 @@
   <entry>
     <title type="html"><![CDATA[JooFlux @ ComPAS, Grenoble, 2013]]></title>
     <link href="http://dynamid.citi-lab.fr/news/2013/01/24/jooflux-at-compas-2013/"/>
-    <updated>2013-01-24T07:21:00+01:00</updated>
+    <updated>2013-01-24T07:21:00+08:00</updated>
     <id>http://dynamid.citi-lab.fr/news/2013/01/24/jooflux-at-compas-2013</id>
     <content type="html"><![CDATA[<p>The current state of our research on the <a href="https://github.com/dynamid/jooflux">JooFlux project</a>
 was presented last week at the <a href="http://compas2013.inrialpes.fr">ComPAS 2013 conference</a>.</p>
@@ -83,7 +83,7 @@ specialists in the larger field of operating systems.</p>
   <entry>
     <title type="html"><![CDATA[Nighthacking]]></title>
     <link href="http://dynamid.citi-lab.fr/news/2012/11/07/nighthacking/"/>
-    <updated>2012-11-07T10:51:00+01:00</updated>
+    <updated>2012-11-07T10:51:00+08:00</updated>
     <id>http://dynamid.citi-lab.fr/news/2012/11/07/nighthacking</id>
     <content type="html"><![CDATA[<p>Dynamid member <a href="http://julien.ponge.info/">Julien Ponge</a> recorded a
 <a href="http://steveonjava.com/nighthacking/">NightHacking session with Stephen Chin from Oracle</a>.</p>
@@ -104,7 +104,7 @@ and even demoed <a href="https://github.com/dynamid/jooflux">JooFlux</a> at one 
   <entry>
     <title type="html"><![CDATA[A Monitoring Approach for Dynamic Service-Oriented Architecture Systems @ Service Computation, Nice, France 2012]]></title>
     <link href="http://dynamid.citi-lab.fr/news/2012/07/23/a-monitoring-approach-for-dynamic-service-oriented-architecture-systems-at-service-computation-nice-france-2012/"/>
-    <updated>2012-07-23T14:30:00+02:00</updated>
+    <updated>2012-07-23T14:30:00+08:00</updated>
     <id>http://dynamid.citi-lab.fr/news/2012/07/23/a-monitoring-approach-for-dynamic-service-oriented-architecture-systems-at-service-computation-nice-france-2012</id>
     <content type="html"><![CDATA[<p>Talk given at <a href="http://www.iaria.org/conferences2012/SERVICECOMPUTATION12.html">Service Computation</a> on July, 23 2012.</p>
 

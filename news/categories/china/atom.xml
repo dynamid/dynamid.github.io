@@ -4,7 +4,7 @@
   <title><![CDATA[Category: china | DynaMid]]></title>
   <link href="http://dynamid.citi-lab.fr/news/categories/china/atom.xml" rel="self"/>
   <link href="http://dynamid.citi-lab.fr/"/>
-  <updated>2014-11-12T11:57:56+08:00</updated>
+  <updated>2014-11-12T12:13:32+08:00</updated>
   <id>http://dynamid.citi-lab.fr/</id>
   <author>
     <name><![CDATA[Dynamid Team]]></name>
@@ -18,7 +18,7 @@
     <link href="http://dynamid.citi-lab.fr/news/2012/10/14/frederic-le-mouel-participates-to-zhang-heng-program-in-china/"/>
     <updated>2012-10-14T17:06:00+08:00</updated>
     <id>http://dynamid.citi-lab.fr/news/2012/10/14/frederic-le-mouel-participates-to-zhang-heng-program-in-china</id>
-    <content type="html"><![CDATA[<p><a href="http://en.wikipedia.org/wiki/Zhang_Heng"><img class="right" src="/images/posts/zhang_heng.jpg" width="220" height="334" title="Zhang Heng - Chinese astronomer, mathematician, inventor, geographer, cartographer, artist, poet, statesman, and literary scholar" alt="Zhang Heng"></a></p>
+    <content type="html"><![CDATA[<p><a href="http://en.wikipedia.org/wiki/Zhang_Heng">{% img right /images/posts/zhang_heng.jpg 220 334 'Zhang Heng - Chinese astronomer, mathematician, inventor, geographer, cartographer, artist, poet, statesman, and literary scholar' 'Zhang Heng' %}</a></p>
 
 <p>Frédéric Le Mouël participates to the Zhang Heng program about "Smart Cities and Internet of Things" organized by the French Ministry of Foreign Affairs and particularly the <a href="http://www.ambafrance-cn.org/Le-programme-Zhang-Heng.html?lang=fr" title="">French Embassy in China</a> from October, 14th to 20th.</p>
 

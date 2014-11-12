@@ -4,7 +4,7 @@
   <title><![CDATA[Category: talk | DynaMid]]></title>
   <link href="http://dynamid.citi-lab.fr/news/categories/talk/atom.xml" rel="self"/>
   <link href="http://dynamid.citi-lab.fr/"/>
-  <updated>2014-11-12T11:57:56+08:00</updated>
+  <updated>2014-11-12T12:13:32+08:00</updated>
   <id>http://dynamid.citi-lab.fr/</id>
   <author>
     <name><![CDATA[Dynamid Team]]></name>
@@ -73,10 +73,10 @@ specialists in the larger field of operating systems.</p>
 <script async class="speakerdeck-embed" data-id="4a45b240420f0130e26112313d241d5f" data-ratio="1.2994923857868" src="http://dynamid.citi-lab.fr//speakerdeck.com/assets/embed.js"></script>
 
 
-<p><img src="/images/conferences/ComPAS-CFSE2013/P1040469.jpg">
-<img src="/images/conferences/ComPAS-CFSE2013/P1040471.jpg">
-<img src="/images/conferences/ComPAS-CFSE2013/P1040476.jpg">
-<img src="/images/conferences/ComPAS-CFSE2013/P1040478.jpg"></p>
+<p>{% img  /images/conferences/ComPAS-CFSE2013/P1040469.jpg %}
+{% img  /images/conferences/ComPAS-CFSE2013/P1040471.jpg %}
+{% img  /images/conferences/ComPAS-CFSE2013/P1040476.jpg %}
+{% img  /images/conferences/ComPAS-CFSE2013/P1040478.jpg %}</p>
 ]]></content>
   </entry>
   

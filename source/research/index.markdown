@@ -37,6 +37,11 @@ We concentrate on designing **[Integrated Software Systems](http://en.wikipedia.
     * Collaborative
     * Scalable
     * Long-life Living
+  * Distributed Decision and Artificial Intelligence
+    * Optimization and Planning
+    * Autonomous Multi-Agent Systems
+    * Bio-inspired algorithms
+    * Distributed Consensus
   * Autonomous and Resilient Systems
     * Spontaneous Integration
     * Formal Description Discovery 

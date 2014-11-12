@@ -50,6 +50,18 @@ footer: false
     </td>
   </tr>
   <tr>
+    <td class="project-icons">
+      <a href="http://www.serli.com">{% img no-border bg-serli /images/sponsors/serli.png 200 61 'SERLI' 'SERLI' %}</a><br />
+    </td>
+    <td class="project-text">
+      Open-source project development
+    </td>
+    <td>2014 - </td>
+    <td>
+      <a href="/people">{% img /images/faces/face-jponge.jpg 50 50 'jponge :-)' 'jponge' %}</a>
+    </td>
+  </tr>
+  <tr>
     <td class="project-icons"><a href="http://www.valeo.com">{% img no-border /images/sponsors/valeo.png 200 90 'Valeo' 'Valeo' %}</a></td>
     <td class="project-text">
       Service Deployment and Invocation under Delay Constraints in Vehicular Networks.

@@ -101,6 +101,7 @@ footer: false
   <tr>
     <td class="project-icons">
       <a href="http://en.csc.edu.cn/">{% img no-border /images/sponsors/csc.jpg 200 150 'CSC' 'CSC' %}</a><br />
+      <a href="http://www.um.edu.mt/">{% img no-border /images/sponsors/MaltaUniversity.jpg 200 150 'Malta University' 'Malta University' %}</a>
     </td>
     <td class="project-text">
       <a href="http://perso.citi.insa-lyon.fr/nstouls/SujetsStages/09-10_AmbiantCalculus-these_et_M2R.pdf">Ambient calculus for distributed, service oriented virtual machines</a>.

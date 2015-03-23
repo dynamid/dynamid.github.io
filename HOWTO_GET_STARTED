@@ -1,0 +1,13 @@
+Get all Ruby depencies:
+
+    gem update
+    gem install bundler
+    bundle install
+
+Rake is your friend:
+
+    rake -T
+
+To push, don't forget to:
+
+    rake setup_github_pages

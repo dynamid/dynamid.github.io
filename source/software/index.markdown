@@ -17,7 +17,8 @@ Expect more projects to be listed here in the future!
 
 * **GitHub repository:** [https://github.com/golo-lang/golo-lang](https://github.com/golo-lang/golo-lang)
 * **License:** [Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0)
-* **Current version:** `1.1.0` (September 22th 2014).
+* **Current version:** `2.1.0` (March 17th 2015)
+* **DOI**: [http://dx.doi.org/10.5281/zenodo.16110](http://dx.doi.org/10.5281/zenodo.16110)
 * **First public release:** March 27th 2013
 * **DynaMid Member:** Julien Ponge
 * **Status:** platform
@@ -35,7 +36,7 @@ Expect more projects to be listed here in the future!
 
 * **GitHub repository:** [https://github.com/dynamid/jooflux](https://github.com/dynamid/jooflux)
 * **License:** [Mozilla Public License Version 2.0](http://www.mozilla.org/MPL/2.0/)
-* **Current version:** `r1` (February 19th 2013).
+* **Current version:** `r1` (February 19th 2013)
 * **First public release:** October 2012
 * **DynaMid Members:** Julien Ponge and Frédéric Le Mouël
 * **Status:** research prototype / proof-of-concept
@@ -56,8 +57,7 @@ Expect more projects to be listed here in the future!
 
 * **GitHub repository:** [https://github.com/flemouel/taxi-trace](https://github.com/flemouel/taxi-trace)
 * **License:** [Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0)
-* **Current version:** `d4fd01e` (October 1st 2014).
+* **Current version:** `d4fd01e` (October 1st 2014)
 * **First public release:** October 1st 2014
 * **DynaMid Member:** Frédéric Le Mouël
 * **Status:** toolkit
-

@@ -4,7 +4,7 @@
   <title><![CDATA[Category: java | DynaMid]]></title>
   <link href="http://dynamid.citi-lab.fr/news/categories/java/atom.xml" rel="self"/>
   <link href="http://dynamid.citi-lab.fr/"/>
-  <updated>2014-11-12T19:02:20+08:00</updated>
+  <updated>2015-05-06T12:27:47+02:00</updated>
   <id>http://dynamid.citi-lab.fr/</id>
   <author>
     <name><![CDATA[Dynamid Team]]></name>
@@ -14,9 +14,24 @@
 
   
   <entry>
+    <title type="html"><![CDATA[Golo 2.1.0 released]]></title>
+    <link href="http://dynamid.citi-lab.fr/news/2015/03/23/golo-2-dot-1-0-released/"/>
+    <updated>2015-03-23T10:22:00+01:00</updated>
+    <id>http://dynamid.citi-lab.fr/news/2015/03/23/golo-2-dot-1-0-released</id>
+    <content type="html"><![CDATA[<p><img src="http://golo-lang.org/images/logo-golo.png" alt="Golo" /></p>
+
+<p>The Golo programming language that we develop as part of our research activities is making solid progress, as <a href="http://golo-lang.org/news/2015/03/17/golo-2.1.0/">we unveiled Golo 2.1.0 last week</a>.</p>
+
+<p>This new release is made of several community contributions from academics, hobbyists and companies.</p>
+
+<p><a href="http://golo-lang.org/download/">Get Golo now!</a></p>
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[Golo 1.1.0 - just released]]></title>
     <link href="http://dynamid.citi-lab.fr/news/2014/09/22/golo-1.1.0-just-released/"/>
-    <updated>2014-09-22T00:00:00+08:00</updated>
+    <updated>2014-09-22T00:00:00+02:00</updated>
     <id>http://dynamid.citi-lab.fr/news/2014/09/22/golo-1.1.0-just-released</id>
     <content type="html"><![CDATA[<p><img src="http://golo-lang.org/images/logo-golo.png" alt="Golo" /></p>
 
@@ -40,7 +55,7 @@
   <entry>
     <title type="html"><![CDATA[Golo 1.0.0 !]]></title>
     <link href="http://dynamid.citi-lab.fr/news/2014/07/09/golo-1.0.0-is-here/"/>
-    <updated>2014-07-09T00:00:00+08:00</updated>
+    <updated>2014-07-09T00:00:00+02:00</updated>
     <id>http://dynamid.citi-lab.fr/news/2014/07/09/golo-1.0.0-is-here</id>
     <content type="html"><![CDATA[<p><img src="http://golo-lang.org/images/logo-golo.png" alt="Golo" /></p>
 
@@ -64,7 +79,7 @@
   <entry>
     <title type="html"><![CDATA[Golo at Devoxx 2013]]></title>
     <link href="http://dynamid.citi-lab.fr/news/2013/11/12/golo-at-devoxx13/"/>
-    <updated>2013-11-12T00:00:00+08:00</updated>
+    <updated>2013-11-12T00:00:00+01:00</updated>
     <id>http://dynamid.citi-lab.fr/news/2013/11/12/golo-at-devoxx13</id>
     <content type="html"><![CDATA[<p><a href="http://golo-lang.org/">Golo</a> was presented at <a href="http://devoxx.be/">Devoxx 2013</a>.</p>
 
@@ -85,7 +100,7 @@
   <entry>
     <title type="html"><![CDATA[Golo at PPPJ 2013]]></title>
     <link href="http://dynamid.citi-lab.fr/news/2013/09/19/golo-at-pppj-2013/"/>
-    <updated>2013-09-19T14:33:00+08:00</updated>
+    <updated>2013-09-19T14:33:00+02:00</updated>
     <id>http://dynamid.citi-lab.fr/news/2013/09/19/golo-at-pppj-2013</id>
     <content type="html"><![CDATA[<p>Our first research paper on the <a href="http://golo-lang.org/">Golo programming language</a> was published in the proceedings of the <a href="http://pppj2013.dhbw.de/conference-pppj2013.html">PPPJ 2013 conference</a>:</p>
 
@@ -97,19 +112,6 @@
 
 
 
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Golo in Java Magazine May/June 2013]]></title>
-    <link href="http://dynamid.citi-lab.fr/news/2013/06/15/golo-in-java-magazine/"/>
-    <updated>2013-06-15T00:00:00+08:00</updated>
-    <id>http://dynamid.citi-lab.fr/news/2013/06/15/golo-in-java-magazine</id>
-    <content type="html"><![CDATA[<p><img src="http://golo-lang.org/images/logo-golo.png" alt="Golo" /></p>
-
-<p><a href="http://golo-lang.org/">Golo</a> got a <a href="http://www.oraclejavamagazine-digital.com/javamagazine/20130506?pg=10#pg10">mention in the May/June 2013 edition</a> of Oracle Java Magazine.</p>
-
-<p><img src="/images/posts/golo-javamag.png"></p>
 ]]></content>
   </entry>
   

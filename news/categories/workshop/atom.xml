@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Workshop | DynaMid]]></title>
   <link href="http://dynamid.citi-lab.fr/news/categories/workshop/atom.xml" rel="self"/>
   <link href="http://dynamid.citi-lab.fr/"/>
-  <updated>2014-11-12T19:02:20+08:00</updated>
+  <updated>2015-05-06T12:27:47+02:00</updated>
   <id>http://dynamid.citi-lab.fr/</id>
   <author>
     <name><![CDATA[Dynamid Team]]></name>
@@ -16,7 +16,7 @@
   <entry>
     <title type="html"><![CDATA[Workshop on Multi-Agent Coordination in Robotic Exploration]]></title>
     <link href="http://dynamid.citi-lab.fr/news/2014/02/20/workshop-on-multi-agent-coordination-in-robotic-exploration/"/>
-    <updated>2014-02-20T00:00:00+08:00</updated>
+    <updated>2014-02-20T00:00:00+01:00</updated>
     <id>http://dynamid.citi-lab.fr/news/2014/02/20/workshop-on-multi-agent-coordination-in-robotic-exploration</id>
     <content type="html"><![CDATA[<p>Olivier Simonin and Jan Faigl will organize in August 18th, 2014, at Prague the <a href="http://robotics.fel.cvut.cz/macorex14/">Workshop on Multi-Agent Coordination in Robotic Exploration</a>.
 Robotic exploration is a fundamental problem in mobile robotics that addresses one of the most challenging application scenarios to provide an efficient approach to collect information about an unknown environment. There are many motivational scenarios for practical deployment of mobile robots and probably even more approaches promising benefits from deploying several mobile robots. However, what are the real performance guarantees of the modern sophisticated exploration strategies? Do the novel methods and experimental demonstrations provide qualitatively better results in a new principle way or are these improvement only the results of a better tuning for the particular platforms and scenarios? What is the bridge between algorithmic complexity and robotic limitations? How to define scalable solutions?</p>

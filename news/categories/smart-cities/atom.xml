@@ -4,7 +4,7 @@
   <title><![CDATA[Category: smart-cities | DynaMid]]></title>
   <link href="http://dynamid.citi-lab.fr/news/categories/smart-cities/atom.xml" rel="self"/>
   <link href="http://dynamid.citi-lab.fr/"/>
-  <updated>2014-11-12T19:02:20+08:00</updated>
+  <updated>2015-05-06T12:27:47+02:00</updated>
   <id>http://dynamid.citi-lab.fr/</id>
   <author>
     <name><![CDATA[Dynamid Team]]></name>
@@ -14,9 +14,41 @@
 
   
   <entry>
+    <title type="html"><![CDATA[Microscopic vehicular mobility trace of Europarc roundabout, Creteil, France]]></title>
+    <link href="http://dynamid.citi-lab.fr/news/2015/05/06/microscopic-vehicular-mobility-trace/"/>
+    <updated>2015-05-06T11:58:00+02:00</updated>
+    <id>http://dynamid.citi-lab.fr/news/2015/05/06/microscopic-vehicular-mobility-trace</id>
+    <content type="html"><![CDATA[<p><img src="http://vehicular-mobility-trace.github.io/assets/img/header_bg.jpg" alt="Micromobility" /></p>
+
+<p>Understanding the dynamics of vehicles is a major issue in smart cities
+evolution. Most intelligent transportation systems concentrate on macro-
+mobility with centralized decisions and global optimizations for whole
+cities. With the great development of autonomous cars and vehicle-to-vehicule
+communication systems, micro-mobility is again of special importance for
+opportunistic data dissemination and local decisions - for instance when
+arriving at traffic lights or when vehicles meet.</p>
+
+<p>Simulation tools are widely used to evaluate assumption correctness and
+performances of optimization algorithms. Several macroscopic vehicular
+mobility trace exist, but few detailed ones at the microscopic level. Most of
+macro traces integrate simplistic models for intersections and roundabout,
+while the complexity of this fine-grained mobility can greatly affect the
+global optimization. For that purpose, we propose a dataset describing a
+complex roundabout in Creteil, France.</p>
+
+<p>Feel free to play with it ! #OpenData #SmartCity</p>
+
+<p>Available at <a href="">http://vehicular-mobility-trace.github.io</a></p>
+
+<p>Great job by Marie-Ange who coordinates this #JointWork between INSA-Lyon,
+VALEO Group and Val-de-Marne Region !</p>
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[CANDS accepted at VLDB 2015]]></title>
     <link href="http://dynamid.citi-lab.fr/news/2014/10/01/cands-at-vldb-2015/"/>
-    <updated>2014-10-01T00:00:00+08:00</updated>
+    <updated>2014-10-01T00:00:00+02:00</updated>
     <id>http://dynamid.citi-lab.fr/news/2014/10/01/cands-at-vldb-2015</id>
     <content type="html"><![CDATA[<p>We are proud to announce that our article entitled "CANDS: Continuous Optimal Navigation via Distributed Stream Processing" is accepted to the top conference VLDB 2015 in Hawai, USA. The paper is already published in the PVLDB journal - VLDB Endowment, Volume 8, N.2, October 2014 available online at <a href="http://www.vldb.org/pvldb/vol8.html">http://www.vldb.org/pvldb/vol8.html</a>. Feel free to read it !</p>
 
@@ -27,7 +59,7 @@
   <entry>
     <title type="html"><![CDATA[Frederic Le Mouel participates to Zhang Heng Program in China]]></title>
     <link href="http://dynamid.citi-lab.fr/news/2012/10/14/frederic-le-mouel-participates-to-zhang-heng-program-in-china/"/>
-    <updated>2012-10-14T17:06:00+08:00</updated>
+    <updated>2012-10-14T17:06:00+02:00</updated>
     <id>http://dynamid.citi-lab.fr/news/2012/10/14/frederic-le-mouel-participates-to-zhang-heng-program-in-china</id>
     <content type="html"><![CDATA[<p><a href="http://en.wikipedia.org/wiki/Zhang_Heng"><img class="right" src="/images/posts/zhang_heng.jpg" width="220" height="334" title="Zhang Heng - Chinese astronomer, mathematician, inventor, geographer, cartographer, artist, poet, statesman, and literary scholar" alt="Zhang Heng"></a></p>
 

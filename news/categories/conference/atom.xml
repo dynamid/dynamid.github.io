@@ -4,7 +4,7 @@
   <title><![CDATA[Category: conference | DynaMid]]></title>
   <link href="http://dynamid.citi-lab.fr/news/categories/conference/atom.xml" rel="self"/>
   <link href="http://dynamid.citi-lab.fr/"/>
-  <updated>2014-11-12T19:02:20+08:00</updated>
+  <updated>2015-05-06T12:27:47+02:00</updated>
   <id>http://dynamid.citi-lab.fr/</id>
   <author>
     <name><![CDATA[Dynamid Team]]></name>
@@ -16,7 +16,7 @@
   <entry>
     <title type="html"><![CDATA[Golo at PPPJ 2013]]></title>
     <link href="http://dynamid.citi-lab.fr/news/2013/09/19/golo-at-pppj-2013/"/>
-    <updated>2013-09-19T14:33:00+08:00</updated>
+    <updated>2013-09-19T14:33:00+02:00</updated>
     <id>http://dynamid.citi-lab.fr/news/2013/09/19/golo-at-pppj-2013</id>
     <content type="html"><![CDATA[<p>Our first research paper on the <a href="http://golo-lang.org/">Golo programming language</a> was published in the proceedings of the <a href="http://pppj2013.dhbw.de/conference-pppj2013.html">PPPJ 2013 conference</a>:</p>
 
@@ -34,7 +34,7 @@
   <entry>
     <title type="html"><![CDATA[JooFlux @ ComPAS, Grenoble, 2013]]></title>
     <link href="http://dynamid.citi-lab.fr/news/2013/01/24/jooflux-at-compas-2013/"/>
-    <updated>2013-01-24T07:21:00+08:00</updated>
+    <updated>2013-01-24T07:21:00+01:00</updated>
     <id>http://dynamid.citi-lab.fr/news/2013/01/24/jooflux-at-compas-2013</id>
     <content type="html"><![CDATA[<p>The current state of our research on the <a href="https://github.com/dynamid/jooflux">JooFlux project</a>
 was presented last week at the <a href="http://compas2013.inrialpes.fr">ComPAS 2013 conference</a>.</p>
@@ -60,7 +60,7 @@ specialists in the larger field of operating systems.</p>
   <entry>
     <title type="html"><![CDATA[JooFlux article accepted at CFSE 2013]]></title>
     <link href="http://dynamid.citi-lab.fr/news/2012/11/21/jooflux-paper-in-cfse-2013/"/>
-    <updated>2012-11-21T11:10:00+08:00</updated>
+    <updated>2012-11-21T11:10:00+01:00</updated>
     <id>http://dynamid.citi-lab.fr/news/2012/11/21/jooflux-paper-in-cfse-2013</id>
     <content type="html"><![CDATA[<p>We are glad to report that our first peer-reviewed scientific paper
 for <a href="http://github.com/dynamid/jooflux">JooFlux</a> has been accepted

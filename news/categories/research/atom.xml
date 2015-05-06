@@ -4,7 +4,7 @@
   <title><![CDATA[Category: research | DynaMid]]></title>
   <link href="http://dynamid.citi-lab.fr/news/categories/research/atom.xml" rel="self"/>
   <link href="http://dynamid.citi-lab.fr/"/>
-  <updated>2014-11-12T19:02:20+08:00</updated>
+  <updated>2015-05-06T12:27:47+02:00</updated>
   <id>http://dynamid.citi-lab.fr/</id>
   <author>
     <name><![CDATA[Dynamid Team]]></name>
@@ -16,7 +16,7 @@
   <entry>
     <title type="html"><![CDATA[CANDS accepted at VLDB 2015]]></title>
     <link href="http://dynamid.citi-lab.fr/news/2014/10/01/cands-at-vldb-2015/"/>
-    <updated>2014-10-01T00:00:00+08:00</updated>
+    <updated>2014-10-01T00:00:00+02:00</updated>
     <id>http://dynamid.citi-lab.fr/news/2014/10/01/cands-at-vldb-2015</id>
     <content type="html"><![CDATA[<p>We are proud to announce that our article entitled "CANDS: Continuous Optimal Navigation via Distributed Stream Processing" is accepted to the top conference VLDB 2015 in Hawai, USA. The paper is already published in the PVLDB journal - VLDB Endowment, Volume 8, N.2, October 2014 available online at <a href="http://www.vldb.org/pvldb/vol8.html">http://www.vldb.org/pvldb/vol8.html</a>. Feel free to read it !</p>
 
@@ -27,7 +27,7 @@
   <entry>
     <title type="html"><![CDATA[Golo at PPPJ 2013]]></title>
     <link href="http://dynamid.citi-lab.fr/news/2013/09/19/golo-at-pppj-2013/"/>
-    <updated>2013-09-19T14:33:00+08:00</updated>
+    <updated>2013-09-19T14:33:00+02:00</updated>
     <id>http://dynamid.citi-lab.fr/news/2013/09/19/golo-at-pppj-2013</id>
     <content type="html"><![CDATA[<p>Our first research paper on the <a href="http://golo-lang.org/">Golo programming language</a> was published in the proceedings of the <a href="http://pppj2013.dhbw.de/conference-pppj2013.html">PPPJ 2013 conference</a>:</p>
 

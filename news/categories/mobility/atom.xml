@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: mobility | DynaMid]]></title>
+  <link href="http://dynamid.citi-lab.fr/news/categories/mobility/atom.xml" rel="self"/>
+  <link href="http://dynamid.citi-lab.fr/"/>
+  <updated>2015-05-06T12:27:47+02:00</updated>
+  <id>http://dynamid.citi-lab.fr/</id>
+  <author>
+    <name><![CDATA[Dynamid Team]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Microscopic vehicular mobility trace of Europarc roundabout, Creteil, France]]></title>
+    <link href="http://dynamid.citi-lab.fr/news/2015/05/06/microscopic-vehicular-mobility-trace/"/>
+    <updated>2015-05-06T11:58:00+02:00</updated>
+    <id>http://dynamid.citi-lab.fr/news/2015/05/06/microscopic-vehicular-mobility-trace</id>
+    <content type="html"><![CDATA[<p><img src="http://vehicular-mobility-trace.github.io/assets/img/header_bg.jpg" alt="Micromobility" /></p>
+
+<p>Understanding the dynamics of vehicles is a major issue in smart cities
+evolution. Most intelligent transportation systems concentrate on macro-
+mobility with centralized decisions and global optimizations for whole
+cities. With the great development of autonomous cars and vehicle-to-vehicule
+communication systems, micro-mobility is again of special importance for
+opportunistic data dissemination and local decisions - for instance when
+arriving at traffic lights or when vehicles meet.</p>
+
+<p>Simulation tools are widely used to evaluate assumption correctness and
+performances of optimization algorithms. Several macroscopic vehicular
+mobility trace exist, but few detailed ones at the microscopic level. Most of
+macro traces integrate simplistic models for intersections and roundabout,
+while the complexity of this fine-grained mobility can greatly affect the
+global optimization. For that purpose, we propose a dataset describing a
+complex roundabout in Creteil, France.</p>
+
+<p>Feel free to play with it ! #OpenData #SmartCity</p>
+
+<p>Available at <a href="">http://vehicular-mobility-trace.github.io</a></p>
+
+<p>Great job by Marie-Ange who coordinates this #JointWork between INSA-Lyon,
+VALEO Group and Val-de-Marne Region !</p>
+]]></content>
+  </entry>
+  
+</feed>

@@ -113,6 +113,19 @@ footer: false
     </td>
   </tr>
   <tr>
+    <td class="people-icons">{% img /images/faces/face-yloiseau.jpg 100 100 'yloiseau :-)' 'yloiseau' %}</td>
+    <td>Yannick Loiseau</td>
+    <td>Associate Professor<br />University Blaise Pascal<br />External Collaborator</td>
+    <td class="social-icons">
+      <a href="http://yloiseau.net/">{% img no-border /images/icons/safari.png 32 32 "Homepage" "Homepage" %}</a>
+      <a href="mailto:yannick.loiseau@univ-bpclermont.fr">{% img no-border /images/social_networking_iconpack/email_32.png "Email" "Email" %}</a>
+      <a href="https://twitter.com/yannick_loiseau">{% img no-border /images/social_networking_iconpack/twitter_32.png "Twitter" "Twitter" %}</a>
+      <a href="https://fr.linkedin.com/in/yloiseau">{% img no-border /images/social_networking_iconpack/linkedin_32.png "LinkedIn" "LinkedIn" %}</a>
+      <a href="https://github.com/yloiseau">{% img no-border /images/social_networking_iconpack/github_32.png "GitHub" "GitHub" %}</a>
+      <a href="https://www.researchgate.net/profile/Yannick_Loiseau/">{% img no-border /images/social_networking_iconpack/researchgate_32.png "ResearchGate" "ResearchGate" %}</a>
+    </td>
+  </tr>
+  <tr>
     <td class="people-icons">{% img /images/faces/face-rgolchay.jpg 100 100 'rgolchay :-)' 'rgolchay' %}</td>
     <td>Roya Golchay</td>
     <td>PhD Student<br />INSA Lyon</td>

@@ -142,6 +142,19 @@ footer: false
   <tr>
     <td class="project-icons">
       <a href="http://www.insa-lyon.fr">{% img no-border /images/logos/logo-insalyon.png 200 107 'INSA Lyon' 'INSA Lyon' %}</a><br />
+      <a href="http://www.inria.fr">{% img no-border /images/logos/logo-inria.png 200 72 'Inria' 'Inria' %}</a><br />
+    </td>
+    <td class="project-text">
+      <a href="http://arso2015.inria.fr/">IEEE International Workshop on Advanced Robotics and its Social Impacts (ARSO '15)</a>.
+    </td>
+    <td>2015</td>
+    <td>
+      <a href="/people">{% img /images/faces/face-osimonin.jpg 50 50 'osimonin :-)' 'osimonin' %}</a>
+    </td>
+  </tr>
+  <tr>
+    <td class="project-icons">
+      <a href="http://www.insa-lyon.fr">{% img no-border /images/logos/logo-insalyon.png 200 107 'INSA Lyon' 'INSA Lyon' %}</a><br />
       <a href="http://www.cvut.cz">{% img no-border /images/sponsors/ctu.png 200 152 'Czech Technical University in Prague' 'CTU Prague' %}</a><br />
     </td>
     <td class="project-text">

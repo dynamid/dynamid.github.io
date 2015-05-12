@@ -2,7 +2,7 @@
 layout: post
 title: "Workshop on Multi-Agent Coordination in Robotic Exploration"
 comments: true
-categories: Workshop team robotics
+categories: workshop team robotics
 ---
 
 Olivier Simonin and Jan Faigl will organize in August 18th, 2014, at Prague the [Workshop on Multi-Agent Coordination in Robotic Exploration](http://robotics.fel.cvut.cz/macorex14/).

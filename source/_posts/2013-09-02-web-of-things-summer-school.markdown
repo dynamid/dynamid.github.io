@@ -3,7 +3,7 @@ layout: post
 title: "Web of Things Summer school 2013"
 date: 2013-09-02 09:00
 comments: true
-categories: Internet-of-things Web-of-things Summer-school.
+categories: internet-of-things web-of-things summer-school
 ---
 
 Some Dynamid team members were in the organization and scientific committees of this school about Web of Things. 

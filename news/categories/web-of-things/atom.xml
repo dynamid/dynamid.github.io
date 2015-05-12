@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: Web-of-things | DynaMid]]></title>
+  <title><![CDATA[Category: web-of-things | DynaMid]]></title>
   <link href="http://dynamid.citi-lab.fr/news/categories/web-of-things/atom.xml" rel="self"/>
   <link href="http://dynamid.citi-lab.fr/"/>
-  <updated>2015-05-12T15:15:27+02:00</updated>
+  <updated>2015-05-12T21:53:27+02:00</updated>
   <id>http://dynamid.citi-lab.fr/</id>
   <author>
     <name><![CDATA[Dynamid Team]]></name>

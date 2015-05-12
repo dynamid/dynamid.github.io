@@ -51,6 +51,19 @@ footer: false
   </tr>
   <tr>
     <td class="project-icons">
+      <a href="http://www.rhonealpes.fr">{% img no-border /images/sponsors/region-ra.png 200 54 'Rhône-Alpes Region' 'Rhône-Alpes Region' %}</a><br />
+      <a href="http://en.sjtu.edu.cn">{% img no-border /images/sponsors/sjtu.png 200 200 'SJTU' 'SJTU' %}</a><br />
+    </td>
+    <td class="project-text">
+      Smart Cities and IT Technologies for a Sustainable Development
+    </td>
+    <td>2015 - 2013</td>
+    <td>
+      <a href="/people">{% img /images/faces/face-flemouel.jpg 50 50 'flemouel :-)' 'flemouel' %}</a>
+    </td>
+  </tr>
+  <tr>
+    <td class="project-icons">
       <a href="http://www.serli.com">{% img no-border bg-serli /images/sponsors/serli.png 200 61 'SERLI' 'SERLI' %}</a><br />
     </td>
     <td class="project-text">
@@ -139,6 +152,19 @@ footer: false
       <th>Contacts</th>
     </tr>
   </thead>
+  <tr>
+    <td class="project-icons">
+      <a href="http://www.insa-lyon.fr">{% img no-border /images/logos/logo-insalyon.png 200 107 'INSA Lyon' 'INSA Lyon' %}</a><br />
+    </td>
+    <td class="project-text">
+      <a href="http://car-conference.fr">Control Architectures of Robots 2015 - 10th National Conference (CAR '15)</a>.
+    </td>
+    <td>2015</td>
+    <td>
+      <a href="/people">{% img /images/faces/face-osimonin.jpg 50 50 'osimonin :-)' 'osimonin' %}</a>
+      <a href="/people">{% img /images/faces/face-jponge.jpg 50 50 'jponge :-)' 'jponge' %}</a>      
+    </td>
+  </tr>
   <tr>
     <td class="project-icons">
       <a href="http://www.insa-lyon.fr">{% img no-border /images/logos/logo-insalyon.png 200 107 'INSA Lyon' 'INSA Lyon' %}</a><br />

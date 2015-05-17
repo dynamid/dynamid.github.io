@@ -8,9 +8,7 @@ footer: false
 
 We release *some* of our research work as [public open source projects on GitHub](https://github.com/dynamid).
 
-Expect more projects to be listed here in the future!
-
-## Golo: a lightweight dynamic language for the JVM.
+## Golo: a lightweight dynamic language for the JVM
 
 > Golo is a simple dynamic, weakly-typed language that favours explicit over implicit. You should become a Golo programmer within hours, not days.
 > Built from day 1 with `invokedynamic`, Golo takes advantage of the latest advances of the JVM. It is also a showcase on how to build a language runtime with invokedynamic.
@@ -20,7 +18,7 @@ Expect more projects to be listed here in the future!
 * **Current version:** `2.1.0` (March 17th 2015)
 * **DOI**: [http://dx.doi.org/10.5281/zenodo.16110](http://dx.doi.org/10.5281/zenodo.16110)
 * **First public release:** March 27th 2013
-* **DynaMid Member:** Julien Ponge
+* **Dynamid Member:** Julien Ponge
 * **Status:** platform
 
 ## JooFlux: a Java agent for dynamic aspect-oriented middlewares
@@ -38,7 +36,7 @@ Expect more projects to be listed here in the future!
 * **License:** [Mozilla Public License Version 2.0](http://www.mozilla.org/MPL/2.0/)
 * **Current version:** `r1` (February 19th 2013)
 * **First public release:** October 2012
-* **DynaMid Members:** Julien Ponge and Frédéric Le Mouël
+* **Dynamid Members:** Julien Ponge, Frédéric Le Mouël
 * **Status:** research prototype / proof-of-concept
 
 ## OSGi substitution library
@@ -48,8 +46,30 @@ Expect more projects to be listed here in the future!
 
 * **BitBucket repository:** [https://bitbucket.org/jponge/osgi-substitution](https://bitbucket.org/jponge/osgi-substitution)
 * **License:** [LGPLv3](http://www.gnu.org/licenses/)
-* **DynaMid Members:** Yufang Dan, Nicolas Stouls, Julien Ponge
+* **Dynamid Members:** Yufang Dan, Nicolas Stouls, Julien Ponge
 * **Status:** proof-of-concept
+
+***
+
+# Traces
+
+We also publish *some* of our research work as open data.
+
+## Microscopic vehicular mobility trace of Europarc roundabout, Creteil, France
+
+> Simulation tools are widely used to evaluate assumption correctness and performances of 
+> optimization algorithms. Several macroscopic vehicular mobility trace exist, but few detailed 
+> ones at the microscopic level. Most of macro traces integrate simplistic models for intersections 
+> and roundabout, while the complexity of this fine-grained mobility can greatly affect the global 
+> optimization. For that purpose, we propose a dataset describing a complex roundabout in Creteil, France.
+
+* **GitHub repository:** [http://vehicular-mobility-trace.github.io](http://vehicular-mobility-trace.github.io)
+* **License:** [Creative Commons Attribution-NonCommercial 4.0 International License](http://creativecommons.org/licenses/by-nc/4.0/)
+* **Current version:** `v1.0` (April 15th 2015)
+* **DOI**: [http://dx.doi.org/10.5281/zenodo.16870](http://dx.doi.org/10.5281/zenodo.16870)
+* **First public release:** April 15th 2015
+* **Dynamid Members:** Marie-Ange Lèbre, Frédéric Le Mouël
+* **Status:** trace
 
 ## Taxi Trace - Contact Analysis
 
@@ -59,5 +79,5 @@ Expect more projects to be listed here in the future!
 * **License:** [Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0)
 * **Current version:** `d4fd01e` (October 1st 2014)
 * **First public release:** October 1st 2014
-* **DynaMid Member:** Frédéric Le Mouël
+* **Dynamid Member:** Frédéric Le Mouël
 * **Status:** toolkit

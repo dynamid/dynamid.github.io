@@ -4,7 +4,7 @@
   <title><![CDATA[DynaMid]]></title>
   <link href="http://dynamid.citi-lab.fr/atom.xml" rel="self"/>
   <link href="http://dynamid.citi-lab.fr/"/>
-  <updated>2015-05-17T19:10:31+02:00</updated>
+  <updated>2015-05-22T10:43:36+02:00</updated>
   <id>http://dynamid.citi-lab.fr/</id>
   <author>
     <name><![CDATA[Dynamid Team]]></name>
@@ -12,6 +12,19 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Is the World deterministic ? Attend IJCAI 2015 for the answer]]></title>
+    <link href="http://dynamid.citi-lab.fr/news/2015/05/22/is-the-world-deterministic/"/>
+    <updated>2015-05-22T10:19:00+02:00</updated>
+    <id>http://dynamid.citi-lab.fr/news/2015/05/22/is-the-world-deterministic</id>
+    <content type="html"><![CDATA[<p><img class="right" src="http://dynamid.citi-lab.fr/images/posts/deterministic.jpg" title="Deterministic ?" alt="Deterministic ?"></p>
+
+<p>J. Dibangoye (Associate Professor at INSA Lyon, CITI) and his colleagues from MIT and INRIA are working on a completely new decision theory, in which any decision problem can be re-casted into a deterministic problem. They developed an efficient theory and algorithms for solving Markov decision problems and extensions by recasting them all into the same deterministic shortest-path problem. That is surprising since Markov decision models are notorious frameworks for modeling and solving stochastic problems. This year, Jilles&#8217; research got awarded with five publications at the top international conferences and journals in Artificial Intelligence, including two papers at IJCAI and JAIR. See <a href="http://jilles.dibangoye.net">http://jilles.dibangoye.net</a> for further information.</p>
+
+<p><a href="http://ijcai-15.org/index.php/accepted-papers">IJCAI&#8217;2015 accepted papers</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Microscopic vehicular mobility trace of Europarc roundabout, Creteil, France]]></title>
@@ -345,17 +358,6 @@ Robotic exploration is a fundamental problem in mobile robotics that addresses o
 <p><a href="http://golo-lang.org/">Golo</a> got a <a href="http://www.oraclejavamagazine-digital.com/javamagazine/20130506?pg=10#pg10">mention in the May/June 2013 edition</a> of Oracle Java Magazine.</p>
 
 <p><img src="http://dynamid.citi-lab.fr/images/posts/golo-javamag.png"></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[SEmba 2013 : a regional workshop about embedded systems]]></title>
-    <link href="http://dynamid.citi-lab.fr/news/2013/04/04/semba-2013-a-regional-workshop-about-embedded-systems/"/>
-    <updated>2013-04-04T09:00:00+02:00</updated>
-    <id>http://dynamid.citi-lab.fr/news/2013/04/04/semba-2013-a-regional-workshop-about-embedded-systems</id>
-    <content type="html"><![CDATA[<p>Last 4th and 5th April 2013, the Dynamid team organized the 4th SEmba workshop. SEmba (standing for Embedded Systems in French) is a regional workshop sponsorized by the Region Rhône-Alpes, and trying to gives some animation in this research community.</p>
-
-<p>The complete program with and slideshows are available on the <a href="http://www.projet-semba-cluster-isle-rhone-alpes.org/semba13/Planning_Semba_2013.html">SEmba website</a>.</p>
 ]]></content>
   </entry>
   

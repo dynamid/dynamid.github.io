@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: deterministic | DynaMid]]></title>
+  <link href="http://dynamid.citi-lab.fr/news/categories/deterministic/atom.xml" rel="self"/>
+  <link href="http://dynamid.citi-lab.fr/"/>
+  <updated>2015-05-22T10:43:36+02:00</updated>
+  <id>http://dynamid.citi-lab.fr/</id>
+  <author>
+    <name><![CDATA[Dynamid Team]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Is the World deterministic ? Attend IJCAI 2015 for the answer]]></title>
+    <link href="http://dynamid.citi-lab.fr/news/2015/05/22/is-the-world-deterministic/"/>
+    <updated>2015-05-22T10:19:00+02:00</updated>
+    <id>http://dynamid.citi-lab.fr/news/2015/05/22/is-the-world-deterministic</id>
+    <content type="html"><![CDATA[<p><img class="right" src="/images/posts/deterministic.jpg" title="Deterministic ?" alt="Deterministic ?"></p>
+
+<p>J. Dibangoye (Associate Professor at INSA Lyon, CITI) and his colleagues from MIT and INRIA are working on a completely new decision theory, in which any decision problem can be re-casted into a deterministic problem. They developed an efficient theory and algorithms for solving Markov decision problems and extensions by recasting them all into the same deterministic shortest-path problem. That is surprising since Markov decision models are notorious frameworks for modeling and solving stochastic problems. This year, Jilles' research got awarded with five publications at the top international conferences and journals in Artificial Intelligence, including two papers at IJCAI and JAIR. See <a href="http://jilles.dibangoye.net">http://jilles.dibangoye.net</a> for further information.</p>
+
+<p><a href="http://ijcai-15.org/index.php/accepted-papers">IJCAI'2015 accepted papers</a></p>
+]]></content>
+  </entry>
+  
+</feed>

@@ -4,7 +4,7 @@
   <title><![CDATA[Category: java | DynaMid]]></title>
   <link href="http://dynamid.citi-lab.fr/news/categories/java/atom.xml" rel="self"/>
   <link href="http://dynamid.citi-lab.fr/"/>
-  <updated>2015-05-22T10:43:36+02:00</updated>
+  <updated>2015-05-28T21:30:19+02:00</updated>
   <id>http://dynamid.citi-lab.fr/</id>
   <author>
     <name><![CDATA[Dynamid Team]]></name>
@@ -12,6 +12,19 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Julien Ponge prospecting Emerging Languages at JavaOne]]></title>
+    <link href="http://dynamid.citi-lab.fr/news/2015/05/28/julien-ponge-prospecting-emerging-languages-at-javaone/"/>
+    <updated>2015-05-28T21:14:00+02:00</updated>
+    <id>http://dynamid.citi-lab.fr/news/2015/05/28/julien-ponge-prospecting-emerging-languages-at-javaone</id>
+    <content type="html"><![CDATA[<p><img src="/images/posts/conference-oracle-javaone-2015.jpg" title="JavaOne 2015" alt="JavaOne 2015"></p>
+
+<p>Julien Ponge is a member of the <a href="https://www.oracle.com/javaone/index.html">JavaOne 2015</a> programming committee in the <a href="https://www.oracle.com/javaone/program-committee.html">Emerging Languages track</a>.</p>
+
+<p>JavaOne is the biggest conference of the Java ecosystem. Co-located with the Oracle OpenWorld conference, <a href="http://www.oracle.com/us/corporate/how-big-is-openworld-2019871.pdf">the two events are significant in the San Francisco Bay Area</a>.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Golo 2.1.0 released]]></title>
@@ -91,24 +104,6 @@
 <p>Meanwhile you can have a look at the slides:</p>
 
 <script async class="speakerdeck-embed" data-id="2200ba302e9c0131c0c026e3fa07b66c" data-ratio="1.77777777777778" src="http://dynamid.citi-lab.fr//speakerdeck.com/assets/embed.js"></script>
-
-
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Golo at PPPJ 2013]]></title>
-    <link href="http://dynamid.citi-lab.fr/news/2013/09/19/golo-at-pppj-2013/"/>
-    <updated>2013-09-19T14:33:00+02:00</updated>
-    <id>http://dynamid.citi-lab.fr/news/2013/09/19/golo-at-pppj-2013</id>
-    <content type="html"><![CDATA[<p>Our first research paper on the <a href="http://golo-lang.org/">Golo programming language</a> was published in the proceedings of the <a href="http://pppj2013.dhbw.de/conference-pppj2013.html">PPPJ 2013 conference</a>:</p>
-
-<blockquote><p>Julien Ponge, Frédéric Le Mouël, and Nicolas Stouls. <strong>Golo, a dynamic, light and efficient language for post-invokedynamic JVM</strong>. In Proceedings of the 2013 International Conference on Principles and Practices of Programming on the Java Platform: Virtual Machines, Languages, and Tools (PPPJ '13). ACM, New York, NY, USA, 153-158.</p></blockquote>
-
-<p><a href="http://dx.doi.org/10.1145/2500828.2500844">DOI link of the paper</a>.</p>
-
-<script async class="speakerdeck-embed" data-id="fa415880fdcf0130f6d8022f0de05eea" data-ratio="1.77777777777778" src="http://dynamid.citi-lab.fr//speakerdeck.com/assets/embed.js"></script>
 
 
 

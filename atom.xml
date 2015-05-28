@@ -4,7 +4,7 @@
   <title><![CDATA[DynaMid]]></title>
   <link href="http://dynamid.citi-lab.fr/atom.xml" rel="self"/>
   <link href="http://dynamid.citi-lab.fr/"/>
-  <updated>2015-05-22T10:43:36+02:00</updated>
+  <updated>2015-05-28T21:30:19+02:00</updated>
   <id>http://dynamid.citi-lab.fr/</id>
   <author>
     <name><![CDATA[Dynamid Team]]></name>
@@ -12,6 +12,19 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Julien Ponge prospecting Emerging Languages at JavaOne]]></title>
+    <link href="http://dynamid.citi-lab.fr/news/2015/05/28/julien-ponge-prospecting-emerging-languages-at-javaone/"/>
+    <updated>2015-05-28T21:14:00+02:00</updated>
+    <id>http://dynamid.citi-lab.fr/news/2015/05/28/julien-ponge-prospecting-emerging-languages-at-javaone</id>
+    <content type="html"><![CDATA[<p><img src="http://dynamid.citi-lab.fr/images/posts/conference-oracle-javaone-2015.jpg" title="JavaOne 2015" alt="JavaOne 2015"></p>
+
+<p>Julien Ponge is a member of the <a href="https://www.oracle.com/javaone/index.html">JavaOne 2015</a> programming committee in the <a href="https://www.oracle.com/javaone/program-committee.html">Emerging Languages track</a>.</p>
+
+<p>JavaOne is the biggest conference of the Java ecosystem. Co-located with the Oracle OpenWorld conference, <a href="http://www.oracle.com/us/corporate/how-big-is-openworld-2019871.pdf">the two events are significant in the San Francisco Bay Area</a>.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Is the World deterministic ? Attend IJCAI 2015 for the answer]]></title>
@@ -345,19 +358,6 @@ Robotic exploration is a fundamental problem in mobile robotics that addresses o
     <content type="html"><![CDATA[<p>Some Dynamid team members were in the organization and scientific committees of this school about Web of Things.</p>
 
 <p><a href="http://www.web-intelligence-rhone-alpes.org/Ecoles/2013/">Here is school&#8217;s website</a> in french, with the program.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Golo in Java Magazine May/June 2013]]></title>
-    <link href="http://dynamid.citi-lab.fr/news/2013/06/15/golo-in-java-magazine/"/>
-    <updated>2013-06-15T00:00:00+02:00</updated>
-    <id>http://dynamid.citi-lab.fr/news/2013/06/15/golo-in-java-magazine</id>
-    <content type="html"><![CDATA[<p><img src="http://golo-lang.org/images/logo-golo.png" alt="Golo" /></p>
-
-<p><a href="http://golo-lang.org/">Golo</a> got a <a href="http://www.oraclejavamagazine-digital.com/javamagazine/20130506?pg=10#pg10">mention in the May/June 2013 edition</a> of Oracle Java Magazine.</p>
-
-<p><img src="http://dynamid.citi-lab.fr/images/posts/golo-javamag.png"></p>
 ]]></content>
   </entry>
   

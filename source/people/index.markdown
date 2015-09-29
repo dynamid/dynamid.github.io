@@ -46,16 +46,6 @@ footer: false
     </td>
   </tr>
   <tr>
-    <td class="people-icons">{% img /images/faces/face-osimonin.jpg 100 100 'osimonin :-)' 'osimonin' %}</td>
-    <td>Olivier Simonin</td>
-    <td>Full Professor<br />INSA Lyon</td>
-    <td class="social-icons">
-      <a href="http://perso.citi.insa-lyon.fr/osimonin/">{% img no-border /images/icons/safari.png 32 32 "Homepage" "Homepage" %}</a>
-      <a href="mailto:olivier.simonin@insa-lyon.fr">{% img no-border /images/social_networking_iconpack/email_32.png "Email" "Email" %}</a>
-      <a href="http://fr.linkedin.com/in/osimonin">{% img no-border /images/social_networking_iconpack/linkedin_32.png "LinkedIn" "LinkedIn" %}</a>
-    </td>
-  </tr>
-  <tr>
     <td class="people-icons">{% img /images/faces/face-jponge.jpg 100 100 'jponge :-)' 'jponge' %}</td>
     <td>Julien Ponge</td>
     <td>Associate Professor<br />INSA Lyon</td>
@@ -82,34 +72,6 @@ footer: false
       <a href="https://twitter.com/nico_s99">{% img no-border /images/social_networking_iconpack/twitter_32.png "Twitter" "Twitter" %}</a>
      <a href="http://www.linkedin.com/pub/nicolas-stouls/7/81b/19">{% img no-border /images/social_networking_iconpack/linkedin_32.png "LinkedIn" "LinkedIn" %}</a>
       <a href="http://www.mendeley.com/profiles/nicolas-stouls/">{% img no-border /images/social_networking_iconpack/mendeley_32.png "Mendeley" "Mendeley" %}</a>
-    </td>
-  </tr>
-  <tr>
-    <td class="people-icons">{% img /images/faces/face-jdibangoye.jpg 100 100 'jdibangoye :-)' 'jdibangoye' %}</td>
-    <td>Jilles Dibangoye</td>
-    <td>Associate Professor<br />INSA Lyon</td>
-    <td class="social-icons">
-      <a href="http://jilles.dibangoye.net">{% img no-border /images/icons/safari.png 32 32 "Homepage" "Homepage" %}</a>
-      <a href="mailto:jilles-steeve.dibangoye@insa-lyon.fr">{% img no-border /images/social_networking_iconpack/email_32.png "Email" "Email" %}</a>
-    </td>
-  </tr>
-  <tr>
-    <td class="people-icons">{% img /images/faces/face-fjumel.jpg 100 100 'fjumel :-)' 'fjumel' %}</td>
-    <td>Fabrice Jumel</td>
-    <td>Associate Professor<br />CPE</td>
-    <td class="social-icons">
-      <a href="mailto:fabrice.jumel@cpe.fr">{% img no-border /images/social_networking_iconpack/email_32.png "Email" "Email" %}</a>
-     <a href="https://www.linkedin.com/pub/fabrice-jumel/9/243/132">{% img no-border /images/social_networking_iconpack/linkedin_32.png "LinkedIn" "LinkedIn" %}</a>
-      <a href="https://www.researchgate.net/profile/Fabrice_Jumel/">{% img no-border /images/social_networking_iconpack/researchgate_32.png "ResearchGate" "ResearchGate" %}</a>
-    </td>
-  </tr>
-  <tr>
-    <td class="people-icons">{% img /images/faces/face-jsaraydaryan.jpg 100 100 'jsaraydaryan :-)' 'jsaraydaryan' %}</td>
-    <td>Jacques Saraydaryan</td>
-    <td>Associate Professor<br />CPE</td>
-    <td class="social-icons">
-      <a href="mailto:jacques.saraydaryan@cpe.fr">{% img no-border /images/social_networking_iconpack/email_32.png "Email" "Email" %}</a>     
-     <a href="https://www.linkedin.com/pub/jacques-saraydaryan/41/b00/634">{% img no-border /images/social_networking_iconpack/linkedin_32.png "LinkedIn" "LinkedIn" %}</a>
     </td>
   </tr>
   <tr>
@@ -180,6 +142,44 @@ footer: false
       <th>Contact</th>
     </tr>
   </thead>
+  <tr>
+    <td class="people-icons">{% img /images/faces/face-osimonin.jpg 100 100 'osimonin :-)' 'osimonin' %}</td>
+    <td>Olivier Simonin</td>
+    <td>Full Professor<br />INSA Lyon</td>
+    <td class="social-icons">
+      <a href="http://perso.citi.insa-lyon.fr/osimonin/">{% img no-border /images/icons/safari.png 32 32 "Homepage" "Homepage" %}</a>
+      <a href="mailto:olivier.simonin@insa-lyon.fr">{% img no-border /images/social_networking_iconpack/email_32.png "Email" "Email" %}</a>
+      <a href="http://fr.linkedin.com/in/osimonin">{% img no-border /images/social_networking_iconpack/linkedin_32.png "LinkedIn" "LinkedIn" %}</a>
+    </td>
+  </tr>
+  <tr>
+    <td class="people-icons">{% img /images/faces/face-jdibangoye.jpg 100 100 'jdibangoye :-)' 'jdibangoye' %}</td>
+    <td>Jilles Dibangoye</td>
+    <td>Associate Professor<br />INSA Lyon</td>
+    <td class="social-icons">
+      <a href="http://jilles.dibangoye.net">{% img no-border /images/icons/safari.png 32 32 "Homepage" "Homepage" %}</a>
+      <a href="mailto:jilles-steeve.dibangoye@insa-lyon.fr">{% img no-border /images/social_networking_iconpack/email_32.png "Email" "Email" %}</a>
+    </td>
+  </tr>
+  <tr>
+    <td class="people-icons">{% img /images/faces/face-fjumel.jpg 100 100 'fjumel :-)' 'fjumel' %}</td>
+    <td>Fabrice Jumel</td>
+    <td>Associate Professor<br />CPE</td>
+    <td class="social-icons">
+      <a href="mailto:fabrice.jumel@cpe.fr">{% img no-border /images/social_networking_iconpack/email_32.png "Email" "Email" %}</a>
+     <a href="https://www.linkedin.com/pub/fabrice-jumel/9/243/132">{% img no-border /images/social_networking_iconpack/linkedin_32.png "LinkedIn" "LinkedIn" %}</a>
+      <a href="https://www.researchgate.net/profile/Fabrice_Jumel/">{% img no-border /images/social_networking_iconpack/researchgate_32.png "ResearchGate" "ResearchGate" %}</a>
+    </td>
+  </tr>
+  <tr>
+    <td class="people-icons">{% img /images/faces/face-jsaraydaryan.jpg 100 100 'jsaraydaryan :-)' 'jsaraydaryan' %}</td>
+    <td>Jacques Saraydaryan</td>
+    <td>Associate Professor<br />CPE</td>
+    <td class="social-icons">
+      <a href="mailto:jacques.saraydaryan@cpe.fr">{% img no-border /images/social_networking_iconpack/email_32.png "Email" "Email" %}</a>   
+     <a href="https://www.linkedin.com/pub/jacques-saraydaryan/41/b00/634">{% img no-border /images/social_networking_iconpack/linkedin_32.png "LinkedIn" "LinkedIn" %}</a>
+    </td>
+  </tr>
   <tr>
     <td class="people-icons">{% img /images/faces/face-ydan.jpg 100 100 'ydan :-)' 'ydan' %}</td>
     <td>Yufang Dan</td>

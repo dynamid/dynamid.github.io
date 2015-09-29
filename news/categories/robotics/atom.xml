@@ -4,7 +4,7 @@
   <title><![CDATA[Category: robotics | DynaMid]]></title>
   <link href="http://dynamid.citi-lab.fr/news/categories/robotics/atom.xml" rel="self"/>
   <link href="http://dynamid.citi-lab.fr/"/>
-  <updated>2015-05-28T21:30:19+02:00</updated>
+  <updated>2015-09-29T17:06:51+02:00</updated>
   <id>http://dynamid.citi-lab.fr/</id>
   <author>
     <name><![CDATA[Dynamid Team]]></name>
@@ -12,6 +12,17 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[New CHROMA team]]></title>
+    <link href="http://dynamid.citi-lab.fr/news/2015/07/16/new-chroma-team/"/>
+    <updated>2015-07-16T08:00:00+02:00</updated>
+    <id>http://dynamid.citi-lab.fr/news/2015/07/16/new-chroma-team</id>
+    <content type="html"><![CDATA[<p><img src="/images/posts/chroma_turtlebots.jpg" title="INRIA CHROMA team" alt="INRIA CHROMA team"></p>
+
+<p>Congrats to Olivier, who has successfully built the INRIA <a href="https://team.inria.fr/chroma/">CHROMA</a> team, bi-localized in Lyon with Jilles, Jacques and Fabrice, and in Grenoble with Christian, Agostino and Dizan ! Enjoy in letting Human and Robots cooperate in dynamic environments !</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Dynamid at Innorobo 2014]]></title>
@@ -71,37 +82,6 @@ Robotic exploration is a fundamental problem in mobile robotics that addresses o
     <content type="html"><![CDATA[<p>Olivier Simonin, from Dynamid, is heading the French application to the organization of the international RoboCup 2016.</p>
 
 <p>RoboCup, its more than 3000 participants from 30 countries. More information on the dedicated website: <a href="https://sites.google.com/site/robocupfrance2016/home">RoboCup2016</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[CROME BQR Grant]]></title>
-    <link href="http://dynamid.citi-lab.fr/news/2013/12/10/crome-bqr-grant/"/>
-    <updated>2013-12-10T00:00:00+01:00</updated>
-    <id>http://dynamid.citi-lab.fr/news/2013/12/10/crome-bqr-grant</id>
-    <content type="html"><![CDATA[<p>Dynamid has received a research grant from <a href="http://www.insa-lyon.fr/">INSA-Lyon</a> as part of a BQR (<em>Bonus Qualité Recherche</em> in French).</p>
-
-<p>The Dynamid-lead CROME project (Standing for "Coordination d'une flotille de Robots mObiles pour l'analyse Multi-vue de scènes complexEs") is a 2 years project (2014 -- 2015) that will focus on mobile robot fleets for the multi-view analysis of complex scenes (monitoring, emergency assistance, medical applications, etc).</p>
-
-<p>CROME is a joint-project with the <a href="http://www.citi-lab.fr/">CITI</a> and <a href="http://liris.cnrs.fr">LIRIS</a> research labs:</p>
-
-<ul>
-<li>CITI:
-
-<ul>
-<li><a href="http://dynamid.citi-lab.fr">Dynamid</a> (O.Simonin, S.Chitic, J.Ponge, N.Stouls, F. Le Mouël)</li>
-<li><a href="http://www.citi-lab.fr/team/urbanet/">Urbanet</a> (F.Valois)</li>
-</ul>
-</li>
-<li>LIRIS:
-
-<ul>
-<li><a href="http://liris.cnrs.fr/imagine/">Imagine</a> (C.Wolf, A.Baskurt, E.Dogan)</li>
-<li><a href="http://liris.cnrs.fr/equipes?id=65">Grama</a> (L.Matignon, S.Hassas)</li>
-</ul>
-</li>
-</ul>
-
 ]]></content>
   </entry>
   

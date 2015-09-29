@@ -4,7 +4,7 @@
   <title><![CDATA[Category: team | DynaMid]]></title>
   <link href="http://dynamid.citi-lab.fr/news/categories/team/atom.xml" rel="self"/>
   <link href="http://dynamid.citi-lab.fr/"/>
-  <updated>2015-05-28T21:30:19+02:00</updated>
+  <updated>2015-09-29T17:06:51+02:00</updated>
   <id>http://dynamid.citi-lab.fr/</id>
   <author>
     <name><![CDATA[Dynamid Team]]></name>
@@ -12,6 +12,17 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[New CHROMA team]]></title>
+    <link href="http://dynamid.citi-lab.fr/news/2015/07/16/new-chroma-team/"/>
+    <updated>2015-07-16T08:00:00+02:00</updated>
+    <id>http://dynamid.citi-lab.fr/news/2015/07/16/new-chroma-team</id>
+    <content type="html"><![CDATA[<p><img src="/images/posts/chroma_turtlebots.jpg" title="INRIA CHROMA team" alt="INRIA CHROMA team"></p>
+
+<p>Congrats to Olivier, who has successfully built the INRIA <a href="https://team.inria.fr/chroma/">CHROMA</a> team, bi-localized in Lyon with Jilles, Jacques and Fabrice, and in Grenoble with Christian, Agostino and Dizan ! Enjoy in letting Human and Robots cooperate in dynamic environments !</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[New Dynamid members: Mark, Jilles, Fabrice and Jacques]]></title>
@@ -68,28 +79,6 @@ dynamic components in a service-oriented system".</p>
     <updated>2014-02-27T00:00:00+01:00</updated>
     <id>http://dynamid.citi-lab.fr/news/2014/02/27/open-associate-professor-position-in-dynamid-team</id>
     <content type="html"><![CDATA[<p>Dynamid team is recruting an associate professor under the thematics "Distributed decision making in robotics". To apply, please consult the <a href="http://www.insa-lyon.fr/en/fr/insa-de-lyon/recrutement/enseignants/chercheurs/mcf/maitre-de-conference">open positions web page of INSA-Lyon</a> and focus on the position "27 MCF TC CITI 0327".</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Workshop on Multi-Agent Coordination in Robotic Exploration]]></title>
-    <link href="http://dynamid.citi-lab.fr/news/2014/02/20/workshop-on-multi-agent-coordination-in-robotic-exploration/"/>
-    <updated>2014-02-20T00:00:00+01:00</updated>
-    <id>http://dynamid.citi-lab.fr/news/2014/02/20/workshop-on-multi-agent-coordination-in-robotic-exploration</id>
-    <content type="html"><![CDATA[<p>Olivier Simonin and Jan Faigl will organize in August 18th, 2014, at Prague the <a href="http://robotics.fel.cvut.cz/macorex14/">Workshop on Multi-Agent Coordination in Robotic Exploration</a>.
-Robotic exploration is a fundamental problem in mobile robotics that addresses one of the most challenging application scenarios to provide an efficient approach to collect information about an unknown environment. There are many motivational scenarios for practical deployment of mobile robots and probably even more approaches promising benefits from deploying several mobile robots. However, what are the real performance guarantees of the modern sophisticated exploration strategies? Do the novel methods and experimental demonstrations provide qualitatively better results in a new principle way or are these improvement only the results of a better tuning for the particular platforms and scenarios? What is the bridge between algorithmic complexity and robotic limitations? How to define scalable solutions?</p>
-
-<p>The goal of the workshop is to foster a discussion about approaches and paradigms studied in artificial intelligence (AI) and multi-agent system (MAS) communities with the robotic limitations and requirements arising from their practical deployment in multi-robot exploration. In particular, the workshop is intended to explore the aforementioned questions within the context of the following scientific challenges:</p>
-
-<ul>
-<li>How balancing algorithmic (MAS) complexity and robotics limitation?</li>
-<li>How to measure performance in multi-robot exploration?</li>
-<li>How to facilitate the robotic deployment of AI strategies?</li>
-<li>What are the robotic limitations needed to be considered in the exploration strategies?</li>
-<li>What are the multi-robot benchmarks allowing qualitative and quantitative comparisons?</li>
-<li>What is the niche of multi-agent coordination mechanisms and capabilities of nowadays multi-robot systems?</li>
-</ul>
-
 ]]></content>
   </entry>
   

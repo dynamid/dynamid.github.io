@@ -4,7 +4,7 @@
   <title><![CDATA[DynaMid]]></title>
   <link href="http://dynamid.citi-lab.fr/atom.xml" rel="self"/>
   <link href="http://dynamid.citi-lab.fr/"/>
-  <updated>2015-05-28T21:30:19+02:00</updated>
+  <updated>2015-09-29T17:06:51+02:00</updated>
   <id>http://dynamid.citi-lab.fr/</id>
   <author>
     <name><![CDATA[Dynamid Team]]></name>
@@ -12,6 +12,17 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[New CHROMA team]]></title>
+    <link href="http://dynamid.citi-lab.fr/news/2015/07/16/new-chroma-team/"/>
+    <updated>2015-07-16T08:00:00+02:00</updated>
+    <id>http://dynamid.citi-lab.fr/news/2015/07/16/new-chroma-team</id>
+    <content type="html"><![CDATA[<p><img src="http://dynamid.citi-lab.fr/images/posts/chroma_turtlebots.jpg" title="INRIA CHROMA team" alt="INRIA CHROMA team"></p>
+
+<p>Congrats to Olivier, who has successfully built the INRIA <a href="https://team.inria.fr/chroma/">CHROMA</a> team, bi-localized in Lyon with Jilles, Jacques and Fabrice, and in Grenoble with Christian, Agostino and Dizan ! Enjoy in letting Human and Robots cooperate in dynamic environments !</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Julien Ponge prospecting Emerging Languages at JavaOne]]></title>
@@ -347,17 +358,6 @@ Robotic exploration is a fundamental problem in mobile robotics that addresses o
 <p><a href="http://about.me/schitic">Stefan Chitic</a> joins us as a PhD student under the supervision of Olivier and <a href="http://julien.ponge.org/">Julien</a>. Stefan is on a 3 years French Research Ministry Grant and will work on <em>&#8220;programming models and runtime support for highly dynamic applications and robotic systems&#8221;</em>. Before joining Dynamid, Stefan obtained a Master degree from <a href="http://telecom.insa-lyon.fr/">INSA Lyon Telecom</a> and did internships at both <a href="http://www.google.com/">Google</a> and <a href="http://home.web.cern.ch">CERN</a>.</p>
 
 <p>Welcome on board!</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Web of Things Summer school 2013]]></title>
-    <link href="http://dynamid.citi-lab.fr/news/2013/09/02/web-of-things-summer-school/"/>
-    <updated>2013-09-02T09:00:00+02:00</updated>
-    <id>http://dynamid.citi-lab.fr/news/2013/09/02/web-of-things-summer-school</id>
-    <content type="html"><![CDATA[<p>Some Dynamid team members were in the organization and scientific committees of this school about Web of Things.</p>
-
-<p><a href="http://www.web-intelligence-rhone-alpes.org/Ecoles/2013/">Here is school&#8217;s website</a> in french, with the program.</p>
 ]]></content>
   </entry>
   

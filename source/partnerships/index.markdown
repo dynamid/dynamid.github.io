@@ -19,6 +19,19 @@ footer: false
   </thead>
   <tr>
     <td class="project-icons">
+      {% img no-border /images/posts/PIA.jpg 200 109 'Programme Investissements d'Avenir' %}<br />
+    </td>
+    <td class="project-text">
+      Connect-IO - Cours Ouverts Numériques sur les Objets Connectés - INSA OpenClassrooms
+      (Open courses on Connected Objects - INSA OpenClassrooms)
+    </td>
+    <td>2018 - 2016</td>
+    <td>
+      <a href="/people">{% img /images/faces/face-nstouls.jpg 50 50 'nstouls :-)' 'nstouls' %}</a>
+    </td>
+  </tr>
+  <tr>
+    <td class="project-icons">
       <a href="http://www.campusfrance.org/fr/barrande">{% img no-border /images/sponsors/mae_mesr.jpg 200 109 'Ministère des Affaires Etrangères - Ministère de l'Enseignement Supérieur et de la Recherche' 'MAE - MESR' %}</a><br />
     </td>
     <td class="project-text">
@@ -114,7 +127,7 @@ footer: false
   <tr>
     <td class="project-icons">
       <a href="http://en.csc.edu.cn/">{% img no-border /images/sponsors/csc.jpg 200 150 'CSC' 'CSC' %}</a><br />
-      <a href="http://www.um.edu.mt/">{% img no-border /images/sponsors/MaltaUniversity.jpg 200 150 'Malta University' 'Malta University' %}</a> 
+      <a href="http://www.um.edu.mt/">{% img no-border /images/sponsors/MaltaUniversity.jpg 200 150 'Malta University' 'Malta University' %}</a>
     </td>
     <td class="project-text">
       <a href="http://perso.citi.insa-lyon.fr/nstouls/SujetsStages/09-10_AmbiantCalculus-these_et_M2R.pdf">Ambient calculus for distributed, service oriented virtual machines</a>.
@@ -152,6 +165,18 @@ footer: false
       <th>Contacts</th>
     </tr>
   </thead>
+  <tr>
+    <td class="project-icons">
+      <a href="http://afadl2016.conf.citi-lab.fr/">{% img no-border /images/logos/logo-gdrgpl.jpg 'AFADL 2016' %}</a>
+    </td>
+    <td class="project-text">
+      <a href="http://afadl2016.conf.citi-lab.fr/">AFADL 2016 - Formal approches for software development</a>.
+    </td>
+    <td>2013</td>
+    <td>
+      <a href="/people">{% img /images/faces/face-nstouls.jpg 50 50 'nstouls :-)' 'nstouls' %}</a>
+    </td>
+  </tr>
   <tr>
     <td class="project-icons">
       <a href="http://www.insa-lyon.fr">{% img no-border /images/logos/logo-insalyon.png 200 107 'INSA Lyon' 'INSA Lyon' %}</a><br />

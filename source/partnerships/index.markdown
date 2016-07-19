@@ -22,8 +22,7 @@ footer: false
       {% img no-border /images/posts/PIA.jpg 200 109 'Programme Investissements d'Avenir' %}<br />
     </td>
     <td class="project-text">
-      Connect-IO - Cours Ouverts Numériques sur les Objets Connectés - INSA OpenClassrooms
-      (Open courses on Connected Objects - INSA OpenClassrooms)
+      Open courses on Connected Objects - INSA OpenClassrooms
     </td>
     <td>2018 - 2016</td>
     <td>

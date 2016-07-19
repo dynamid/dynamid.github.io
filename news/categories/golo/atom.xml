@@ -4,7 +4,7 @@
   <title><![CDATA[Category: golo | DynaMid]]></title>
   <link href="http://dynamid.citi-lab.fr/news/categories/golo/atom.xml" rel="self"/>
   <link href="http://dynamid.citi-lab.fr/"/>
-  <updated>2015-09-29T17:21:34+02:00</updated>
+  <updated>2016-07-19T15:35:50+02:00</updated>
   <id>http://dynamid.citi-lab.fr/</id>
   <author>
     <name><![CDATA[Dynamid Team]]></name>
@@ -12,6 +12,21 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Welcome Hardened Golo!]]></title>
+    <link href="http://dynamid.citi-lab.fr/news/2016/03/29/Welcome-Hardened-Golo/"/>
+    <updated>2016-03-29T00:00:00+02:00</updated>
+    <id>http://dynamid.citi-lab.fr/news/2016/03/29/Welcome-Hardened-Golo</id>
+    <content type="html"><![CDATA[<p>The Golo Galaxy has recently be extended by a new project: Hardened Golo.</p>
+
+<p>This sub-project aims at giving some trust into a Golo program by formally proving their correctness. This project has been initiated with the help of two interns: Bertrand CAYEUX and Raphaël LAURENT.</p>
+
+<p>Bertrand starded the work and made a first proposition based on a translation of Golo into Java in order to use Krakatoa in front Why to verify a Golo program. He introduced the specification language name "JGolo". Afterwhat, Raphael continued the work and developped Hardened Golo Version 0.1. He tried to make a direct translation of Golo program into WhyML.</p>
+
+<p>Welcome on board Hardened Golo! :D</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Golo 2.1.0 released]]></title>
@@ -91,24 +106,6 @@
 <p>Meanwhile you can have a look at the slides:</p>
 
 <script async class="speakerdeck-embed" data-id="2200ba302e9c0131c0c026e3fa07b66c" data-ratio="1.77777777777778" src="http://dynamid.citi-lab.fr//speakerdeck.com/assets/embed.js"></script>
-
-
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Golo at PPPJ 2013]]></title>
-    <link href="http://dynamid.citi-lab.fr/news/2013/09/19/golo-at-pppj-2013/"/>
-    <updated>2013-09-19T14:33:00+02:00</updated>
-    <id>http://dynamid.citi-lab.fr/news/2013/09/19/golo-at-pppj-2013</id>
-    <content type="html"><![CDATA[<p>Our first research paper on the <a href="http://golo-lang.org/">Golo programming language</a> was published in the proceedings of the <a href="http://pppj2013.dhbw.de/conference-pppj2013.html">PPPJ 2013 conference</a>:</p>
-
-<blockquote><p>Julien Ponge, Frédéric Le Mouël, and Nicolas Stouls. <strong>Golo, a dynamic, light and efficient language for post-invokedynamic JVM</strong>. In Proceedings of the 2013 International Conference on Principles and Practices of Programming on the Java Platform: Virtual Machines, Languages, and Tools (PPPJ '13). ACM, New York, NY, USA, 153-158.</p></blockquote>
-
-<p><a href="http://dx.doi.org/10.1145/2500828.2500844">DOI link of the paper</a>.</p>
-
-<script async class="speakerdeck-embed" data-id="fa415880fdcf0130f6d8022f0de05eea" data-ratio="1.77777777777778" src="http://dynamid.citi-lab.fr//speakerdeck.com/assets/embed.js"></script>
 
 
 

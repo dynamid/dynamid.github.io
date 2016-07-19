@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: teaching | DynaMid]]></title>
+  <link href="http://dynamid.citi-lab.fr/news/categories/teaching/atom.xml" rel="self"/>
+  <link href="http://dynamid.citi-lab.fr/"/>
+  <updated>2016-07-19T15:35:50+02:00</updated>
+  <id>http://dynamid.citi-lab.fr/</id>
+  <author>
+    <name><![CDATA[Dynamid Team]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Connect-IO: a project for Connected Objects]]></title>
+    <link href="http://dynamid.citi-lab.fr/news/2016/01/01/Connect-IO-a-project-for-Connected-Objects/"/>
+    <updated>2016-01-01T00:00:00+01:00</updated>
+    <id>http://dynamid.citi-lab.fr/news/2016/01/01/Connect-IO-a-project-for-Connected-Objects</id>
+    <content type="html"><![CDATA[<p>Connect-IO project officially starts today! :D</p>
+
+<p>The Connect-IO project, labelled by the ANR agency, has been accepted in the <a href="http://www.agence-nationale-recherche.fr/fileadmin/documents/2015/communique-presse-IDEFIN-13-11-2015.pdf">IDEFI-N call</a>, founded by the PIA (Programme d'Investissements d'Avenir). The consortium is composed of all <a href="http://www.groupe-insa.fr">INSA institutes</a> (Toulouse, Lyon, Rennes, Rouen, Strasbourg, Centre Val de Loire, Fèz) and the <a href="https://openclassrooms.com/">OpenClassrooms</a> startup.</p>
+
+<p><img src="/images/posts/PIA.jpg"></p>
+
+<p>This project aims at developing a set of MOOCs and SPOCs dedicated to connected objects. DynaMid team is participating to the steering comity of the project.</p>
+]]></content>
+  </entry>
+  
+</feed>

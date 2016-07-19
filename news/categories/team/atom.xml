@@ -4,7 +4,7 @@
   <title><![CDATA[Category: team | DynaMid]]></title>
   <link href="http://dynamid.citi-lab.fr/news/categories/team/atom.xml" rel="self"/>
   <link href="http://dynamid.citi-lab.fr/"/>
-  <updated>2015-09-29T17:21:34+02:00</updated>
+  <updated>2016-07-19T15:35:50+02:00</updated>
   <id>http://dynamid.citi-lab.fr/</id>
   <author>
     <name><![CDATA[Dynamid Team]]></name>
@@ -12,6 +12,21 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Welcome Hardened Golo!]]></title>
+    <link href="http://dynamid.citi-lab.fr/news/2016/03/29/Welcome-Hardened-Golo/"/>
+    <updated>2016-03-29T00:00:00+02:00</updated>
+    <id>http://dynamid.citi-lab.fr/news/2016/03/29/Welcome-Hardened-Golo</id>
+    <content type="html"><![CDATA[<p>The Golo Galaxy has recently be extended by a new project: Hardened Golo.</p>
+
+<p>This sub-project aims at giving some trust into a Golo program by formally proving their correctness. This project has been initiated with the help of two interns: Bertrand CAYEUX and Raphaël LAURENT.</p>
+
+<p>Bertrand starded the work and made a first proposition based on a translation of Golo into Java in order to use Krakatoa in front Why to verify a Golo program. He introduced the specification language name "JGolo". Afterwhat, Raphael continued the work and developped Hardened Golo Version 0.1. He tried to make a direct translation of Golo program into WhyML.</p>
+
+<p>Welcome on board Hardened Golo! :D</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[New CHROMA team]]></title>
@@ -70,15 +85,6 @@ dynamic components in a service-oriented system".</p>
 
 
 <p><img src="/images/posts/robotic_innorobo.jpg" title="Candy Robot at Innorobo" alt="Candy Robot at Innorobo"></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Open associate professor position in Dynamid team]]></title>
-    <link href="http://dynamid.citi-lab.fr/news/2014/02/27/open-associate-professor-position-in-dynamid-team/"/>
-    <updated>2014-02-27T00:00:00+01:00</updated>
-    <id>http://dynamid.citi-lab.fr/news/2014/02/27/open-associate-professor-position-in-dynamid-team</id>
-    <content type="html"><![CDATA[<p>Dynamid team is recruting an associate professor under the thematics "Distributed decision making in robotics". To apply, please consult the <a href="http://www.insa-lyon.fr/en/fr/insa-de-lyon/recrutement/enseignants/chercheurs/mcf/maitre-de-conference">open positions web page of INSA-Lyon</a> and focus on the position "27 MCF TC CITI 0327".</p>
 ]]></content>
   </entry>
   

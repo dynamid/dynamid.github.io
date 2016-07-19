@@ -4,7 +4,7 @@
   <title><![CDATA[DynaMid]]></title>
   <link href="http://dynamid.citi-lab.fr/atom.xml" rel="self"/>
   <link href="http://dynamid.citi-lab.fr/"/>
-  <updated>2015-09-29T17:21:34+02:00</updated>
+  <updated>2016-07-19T15:35:50+02:00</updated>
   <id>http://dynamid.citi-lab.fr/</id>
   <author>
     <name><![CDATA[Dynamid Team]]></name>
@@ -12,6 +12,47 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[AFADL 2016: a national workshop about Formal approches for software development]]></title>
+    <link href="http://dynamid.citi-lab.fr/news/2016/06/08/AFADL2016-Workshop-on-formal-approches-for-software-development/"/>
+    <updated>2016-06-08T09:00:00+02:00</updated>
+    <id>http://dynamid.citi-lab.fr/news/2016/06/08/AFADL2016-Workshop-on-formal-approches-for-software-development</id>
+    <content type="html"><![CDATA[<p>Last 7th and 8th June of 2016, the Dynamid team organized the 15th AFADL workshop. AFADL (standing for Approches Formelles dans l&#8217;Assistance au Développement de Logiciels) is a national workshop sponsorized by the GDR-GPL.</p>
+
+<p>The complete program, including slideshows of contributions and <a href="http://afadl2016.conf.citi-lab.fr/Documents/AFADL2016.pdf">proceedings</a>, is available on the <a href="http://afadl2016.conf.citi-lab.fr/">AFADL 2016 website</a>.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Welcome Hardened Golo!]]></title>
+    <link href="http://dynamid.citi-lab.fr/news/2016/03/29/Welcome-Hardened-Golo/"/>
+    <updated>2016-03-29T00:00:00+02:00</updated>
+    <id>http://dynamid.citi-lab.fr/news/2016/03/29/Welcome-Hardened-Golo</id>
+    <content type="html"><![CDATA[<p>The Golo Galaxy has recently be extended by a new project: Hardened Golo.</p>
+
+<p>This sub-project aims at giving some trust into a Golo program by formally proving their correctness. This project has been initiated with the help of two interns: Bertrand CAYEUX and Raphaël LAURENT.</p>
+
+<p>Bertrand starded the work and made a first proposition based on a translation of Golo into Java in order to use Krakatoa in front Why to verify a Golo program. He introduced the specification language name &#8220;JGolo&#8221;. Afterwhat, Raphael continued the work and developped Hardened Golo Version 0.1. He tried to make a direct translation of Golo program into WhyML.</p>
+
+<p>Welcome on board Hardened Golo! :D</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Connect-IO: a project for Connected Objects]]></title>
+    <link href="http://dynamid.citi-lab.fr/news/2016/01/01/Connect-IO-a-project-for-Connected-Objects/"/>
+    <updated>2016-01-01T00:00:00+01:00</updated>
+    <id>http://dynamid.citi-lab.fr/news/2016/01/01/Connect-IO-a-project-for-Connected-Objects</id>
+    <content type="html"><![CDATA[<p>Connect-IO project officially starts today! :D</p>
+
+<p>The Connect-IO project, labelled by the ANR agency, has been accepted in the <a href="http://www.agence-nationale-recherche.fr/fileadmin/documents/2015/communique-presse-IDEFIN-13-11-2015.pdf">IDEFI-N call</a>, founded by the PIA (Programme d&#8217;Investissements d&#8217;Avenir). The consortium is composed of all <a href="http://www.groupe-insa.fr">INSA institutes</a> (Toulouse, Lyon, Rennes, Rouen, Strasbourg, Centre Val de Loire, Fèz) and the <a href="https://openclassrooms.com/">OpenClassrooms</a> startup.</p>
+
+<p><img src="http://dynamid.citi-lab.fr/images/posts/PIA.jpg"></p>
+
+<p>This project aims at developing a set of MOOCs and SPOCs dedicated to connected objects. DynaMid team is participating to the steering comity of the project.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[New CHROMA team]]></title>
@@ -310,54 +351,6 @@ Robotic exploration is a fundamental problem in mobile robotics that addresses o
 
 
 
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Our first robot]]></title>
-    <link href="http://dynamid.citi-lab.fr/news/2013/10/15/our-first-robot/"/>
-    <updated>2013-10-15T00:00:00+02:00</updated>
-    <id>http://dynamid.citi-lab.fr/news/2013/10/15/our-first-robot</id>
-    <content type="html"><![CDATA[<p><img src="http://dynamid.citi-lab.fr/images/posts/robotic_citi.jpg"></p>
-
-<p>Our first robot just arrived!</p>
-
-<p>It is a TurtleBot that we named &#8220;Astro&#8221;.</p>
-
-<p>Stay tuned for developments with Astro and its (future) brothers.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Golo at PPPJ 2013]]></title>
-    <link href="http://dynamid.citi-lab.fr/news/2013/09/19/golo-at-pppj-2013/"/>
-    <updated>2013-09-19T14:33:00+02:00</updated>
-    <id>http://dynamid.citi-lab.fr/news/2013/09/19/golo-at-pppj-2013</id>
-    <content type="html"><![CDATA[<p>Our first research paper on the <a href="http://golo-lang.org/">Golo programming language</a> was published in the proceedings of the <a href="http://pppj2013.dhbw.de/conference-pppj2013.html">PPPJ 2013 conference</a>:</p>
-
-<blockquote><p>Julien Ponge, Frédéric Le Mouël, and Nicolas Stouls. <strong>Golo, a dynamic, light and efficient language for post-invokedynamic JVM</strong>. In Proceedings of the 2013 International Conference on Principles and Practices of Programming on the Java Platform: Virtual Machines, Languages, and Tools (PPPJ &#8216;13). ACM, New York, NY, USA, 153-158.</p></blockquote>
-
-<p><a href="http://dx.doi.org/10.1145/2500828.2500844">DOI link of the paper</a>.</p>
-
-<script async class="speakerdeck-embed" data-id="fa415880fdcf0130f6d8022f0de05eea" data-ratio="1.77777777777778" src="http://dynamid.citi-lab.fr//speakerdeck.com/assets/embed.js"></script>
-
-
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[New Dynamid members: Olivier and Stefan]]></title>
-    <link href="http://dynamid.citi-lab.fr/news/2013/09/10/new-dynamid-members-olivier-and-stefan/"/>
-    <updated>2013-09-10T00:00:00+02:00</updated>
-    <id>http://dynamid.citi-lab.fr/news/2013/09/10/new-dynamid-members-olivier-and-stefan</id>
-    <content type="html"><![CDATA[<p>The Dynamid team welcomes 2 new members!</p>
-
-<p><a href="http://perso.citi-lab.fr/osimonin/">Olivier Simonin</a> joins as a Professor. Previously at Université de Lorraine and <a href="http://maia.loria.fr/">INRIA MaIA</a>, Olivier brings his expertise in robotics, distributed systems and artificial intelligence.</p>
-
-<p><a href="http://about.me/schitic">Stefan Chitic</a> joins us as a PhD student under the supervision of Olivier and <a href="http://julien.ponge.org/">Julien</a>. Stefan is on a 3 years French Research Ministry Grant and will work on <em>&#8220;programming models and runtime support for highly dynamic applications and robotic systems&#8221;</em>. Before joining Dynamid, Stefan obtained a Master degree from <a href="http://telecom.insa-lyon.fr/">INSA Lyon Telecom</a> and did internships at both <a href="http://www.google.com/">Google</a> and <a href="http://home.web.cern.ch">CERN</a>.</p>
-
-<p>Welcome on board!</p>
 ]]></content>
   </entry>
   

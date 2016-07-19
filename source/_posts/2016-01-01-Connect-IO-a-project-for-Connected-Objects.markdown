@@ -11,4 +11,4 @@ The Connect-IO project, labelled by the ANR agency, has been accepted in the [ID
 
 {% img  /images/PIA.jpg %}
 
-This project aims at develop a set of MOOCs and SPOCs dedicated to connected objects. DynaMid team is present in the steering comity of the project.
+This project aims at developing a set of MOOCs and SPOCs dedicated to connected objects. DynaMid team is participating to the steering comity of the project.

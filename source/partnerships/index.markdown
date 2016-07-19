@@ -169,7 +169,7 @@ footer: false
       <a href="http://afadl2016.conf.citi-lab.fr/">{% img no-border /images/logos/logo-gdrgpl.jpg 'AFADL 2016' %}</a>
     </td>
     <td class="project-text">
-      <a href="http://afadl2016.conf.citi-lab.fr/">AFADL 2016 - Formal approches for software development</a>.
+      <a href="http://afadl2016.conf.citi-lab.fr/">Formal approches for software development (AFADL '16)</a>.
     </td>
     <td>2013</td>
     <td>

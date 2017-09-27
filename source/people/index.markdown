@@ -87,6 +87,19 @@ footer: false
     </td>
   </tr>
   <tr>
+    <td class="people-icons">{% img /images/faces/face-ocarrillo.jpg 100 100 'ocarrillo :-)' 'ocarrillo' %}</td>
+    <td>Oscar Carrillo</td>
+    <td>Associate Professor<br />CPE</td>
+    <td class="social-icons">
+      <a href="https://ocrozo.github.io">{% img no-border /images/icons/safari.png 32 32 "Homepage" "Homepage" %}</a>
+      <a href="mailto:oscar.carrillo@insa-lyon.fr">{% img no-border /images/social_networking_iconpack/email_32.png "Email" "Email" %}</a>
+      <a href="https://twitter.com/ocrozo">{% img no-border /images/social_networking_iconpack/twitter_32.png "Twitter" "Twitter" %}</a>
+      <a href="https://www.linkedin.com/in/ocrozo/">{% img no-border /images/social_networking_iconpack/linkedin_32.png "LinkedIn" "LinkedIn" %}</a>
+      <a href="https://github.com/ocrozo">{% img no-border /images/social_networking_iconpack/github_32.png "GitHub" "GitHub" %}</a>
+      <a href="https://www.researchgate.net/profile/Oscar_CARRILLO">{% img no-border /images/social_networking_iconpack/researchgate_32.png "ResearchGate" "ResearchGate" %}</a>
+    </td>
+  </tr>
+  <tr>
     <td class="people-icons">{% img /images/faces/face-yloiseau.jpg 100 100 'yloiseau :-)' 'yloiseau' %}</td>
     <td>Yannick Loiseau</td>
     <td>Associate Professor<br />University Blaise Pascal<br />External Collaborator</td>

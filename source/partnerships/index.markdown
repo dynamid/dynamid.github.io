@@ -171,7 +171,7 @@ footer: false
     <td class="project-text">
       <a href="http://afadl2016.conf.citi-lab.fr/">Formal approches for software development (AFADL '16)</a>.
     </td>
-    <td>2013</td>
+    <td>2016</td>
     <td>
       <a href="/people">{% img /images/faces/face-nstouls.jpg 50 50 'nstouls :-)' 'nstouls' %}</a>
     </td>

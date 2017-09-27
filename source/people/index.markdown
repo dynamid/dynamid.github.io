@@ -91,7 +91,7 @@ footer: false
     <td>Associate Professor<br />CPE</td>
     <td class="social-icons">
       <a href="https://ocrozo.github.io">{% img no-border /images/icons/safari.png 32 32 "Homepage" "Homepage" %}</a>
-      <a href="mailto:oscar.carrillo@insa-lyon.fr">{% img no-border /images/social_networking_iconpack/email_32.png "Email" "Email" %}</a>
+      <a href="mailto:oscar.carrillo@cpe.fr">{% img no-border /images/social_networking_iconpack/email_32.png "Email" "Email" %}</a>
       <a href="https://twitter.com/ocrozo">{% img no-border /images/social_networking_iconpack/twitter_32.png "Twitter" "Twitter" %}</a>
       <a href="https://www.linkedin.com/in/ocrozo/">{% img no-border /images/social_networking_iconpack/linkedin_32.png "LinkedIn" "LinkedIn" %}</a>
       <a href="https://github.com/ocrozo">{% img no-border /images/social_networking_iconpack/github_32.png "GitHub" "GitHub" %}</a>

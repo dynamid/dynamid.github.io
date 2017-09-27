@@ -14,8 +14,8 @@ We release *some* of our research work as [public open source projects on GitHub
 > Built from day 1 with `invokedynamic`, Golo takes advantage of the latest advances of the JVM. It is also a showcase on how to build a language runtime with invokedynamic.
 
 * **GitHub repository:** [https://github.com/golo-lang/golo-lang](https://github.com/golo-lang/golo-lang)
-* **License:** [Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0)
-* **Current version:** `2.1.0` (March 17th 2015)
+* **License:** [Eclipse Public License v1.0](https://www.eclipse.org/legal/epl-v10.html)
+* **Current version:** `3.2.0` (June 26th 2017)
 * **DOI**: [http://dx.doi.org/10.5281/zenodo.16110](http://dx.doi.org/10.5281/zenodo.16110)
 * **First public release:** March 27th 2013
 * **Dynamid Member:** Julien Ponge

@@ -14,20 +14,12 @@ Frédéric Le Mouël - Head
 
 ## Address
 
-Dynamid Team  
 INRIA-CITI Laboratory <a href="http://www.citi.insa-lyon.fr"><i class="icon-globe"></i></a>    
 Telecommunication Department <a href="http://telecom.insa-lyon.fr"><i class="icon-globe"></i></a>  
 INSA-Lyon <a href="http://www.insa-lyon.fr"><i class="icon-globe"></i></a>  
-Claude Chappe Building  
-Room TB-121  
+Claude Chappe Building   
 6 avenue des Arts  
 F-69621 Villeurbanne Cedex, France  
-
-<div class="alert alert-info">
-  <h4 class="alert-heading">Less details ?</h4>
-  <span class="label label-info">Useful !</span>
-  For a real mailing, team, department, building and room can be omitted from the address.
-</div>
 
 ## Map
 

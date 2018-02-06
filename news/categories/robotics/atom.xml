@@ -4,7 +4,7 @@
   <title><![CDATA[Category: robotics | DynaMid]]></title>
   <link href="http://dynamid.citi-lab.fr/news/categories/robotics/atom.xml" rel="self"/>
   <link href="http://dynamid.citi-lab.fr/"/>
-  <updated>2017-10-24T18:04:32+02:00</updated>
+  <updated>2017-11-01T09:57:20+01:00</updated>
   <id>http://dynamid.citi-lab.fr/</id>
   <author>
     <name><![CDATA[Dynamid Team]]></name>
@@ -18,7 +18,7 @@
     <link href="http://dynamid.citi-lab.fr/news/2015/07/16/new-chroma-team/"/>
     <updated>2015-07-16T08:00:00+02:00</updated>
     <id>http://dynamid.citi-lab.fr/news/2015/07/16/new-chroma-team</id>
-    <content type="html"><![CDATA[<p><img src="/images/posts/chroma_turtlebots.jpg" title="INRIA CHROMA team" alt="INRIA CHROMA team"></p>
+    <content type="html"><![CDATA[<p>{% img /images/posts/chroma_turtlebots.jpg 'INRIA CHROMA team' 'INRIA CHROMA team' %}</p>
 
 <p>Congrats to Olivier, who has successfully built the INRIA <a href="https://team.inria.fr/chroma/">CHROMA</a> team, bi-localized in Lyon with Jilles, Jacques and Fabrice, and in Grenoble with Christian, Agostino and Dizan ! Enjoy in letting Human and Robots cooperate in dynamic environments !</p>
 ]]></content>
@@ -39,7 +39,7 @@
 </ul>
 
 
-<p><img src="/images/posts/robotic_innorobo.jpg" title="Candy Robot at Innorobo" alt="Candy Robot at Innorobo"></p>
+<p>{% img /images/posts/robotic_innorobo.jpg 'Candy Robot at Innorobo' 'Candy Robot at Innorobo' %}</p>
 ]]></content>
   </entry>
   

@@ -4,7 +4,7 @@
   <title><![CDATA[Category: java | DynaMid]]></title>
   <link href="http://dynamid.citi-lab.fr/news/categories/java/atom.xml" rel="self"/>
   <link href="http://dynamid.citi-lab.fr/"/>
-  <updated>2017-10-24T18:04:32+02:00</updated>
+  <updated>2017-11-01T09:57:20+01:00</updated>
   <id>http://dynamid.citi-lab.fr/</id>
   <author>
     <name><![CDATA[Dynamid Team]]></name>
@@ -18,7 +18,7 @@
     <link href="http://dynamid.citi-lab.fr/news/2015/05/28/julien-ponge-prospecting-emerging-languages-at-javaone/"/>
     <updated>2015-05-28T21:14:00+02:00</updated>
     <id>http://dynamid.citi-lab.fr/news/2015/05/28/julien-ponge-prospecting-emerging-languages-at-javaone</id>
-    <content type="html"><![CDATA[<p><img src="/images/posts/conference-oracle-javaone-2015.jpg" title="JavaOne 2015" alt="JavaOne 2015"></p>
+    <content type="html"><![CDATA[<p>{% img /images/posts/conference-oracle-javaone-2015.jpg 'JavaOne 2015' 'JavaOne 2015' %}</p>
 
 <p>Julien Ponge is a member of the <a href="https://www.oracle.com/javaone/index.html">JavaOne 2015</a> programming committee in the <a href="https://www.oracle.com/javaone/program-committee.html">Emerging Languages track</a>.</p>
 

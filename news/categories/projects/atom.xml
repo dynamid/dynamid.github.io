@@ -4,7 +4,7 @@
   <title><![CDATA[Category: projects | DynaMid]]></title>
   <link href="http://dynamid.citi-lab.fr/news/categories/projects/atom.xml" rel="self"/>
   <link href="http://dynamid.citi-lab.fr/"/>
-  <updated>2017-10-24T18:04:32+02:00</updated>
+  <updated>2017-11-01T09:57:20+01:00</updated>
   <id>http://dynamid.citi-lab.fr/</id>
   <author>
     <name><![CDATA[Dynamid Team]]></name>
@@ -18,7 +18,7 @@
     <link href="http://dynamid.citi-lab.fr/news/2013/10/15/our-first-robot/"/>
     <updated>2013-10-15T00:00:00+02:00</updated>
     <id>http://dynamid.citi-lab.fr/news/2013/10/15/our-first-robot</id>
-    <content type="html"><![CDATA[<p><img src="/images/posts/robotic_citi.jpg"></p>
+    <content type="html"><![CDATA[<p>{% img /images/posts/robotic_citi.jpg %}</p>
 
 <p>Our first robot just arrived!</p>
 

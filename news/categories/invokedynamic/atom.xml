@@ -4,7 +4,7 @@
   <title><![CDATA[Category: invokedynamic | DynaMid]]></title>
   <link href="http://dynamid.citi-lab.fr/news/categories/invokedynamic/atom.xml" rel="self"/>
   <link href="http://dynamid.citi-lab.fr/"/>
-  <updated>2017-10-24T18:04:32+02:00</updated>
+  <updated>2017-11-01T09:57:20+01:00</updated>
   <id>http://dynamid.citi-lab.fr/</id>
   <author>
     <name><![CDATA[Dynamid Team]]></name>
@@ -70,7 +70,7 @@
 
 <p><a href="http://golo-lang.org/">Golo</a> got a <a href="http://www.oraclejavamagazine-digital.com/javamagazine/20130506?pg=10#pg10">mention in the May/June 2013 edition</a> of Oracle Java Magazine.</p>
 
-<p><img src="/images/posts/golo-javamag.png"></p>
+<p>{% img /images/posts/golo-javamag.png %}</p>
 ]]></content>
   </entry>
   

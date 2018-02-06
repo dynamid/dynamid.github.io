@@ -121,6 +121,16 @@ footer: false
     </td>
   </tr>
   <tr>
+    <td class="people-icons">{% img /images/faces/face-mmeddeb.png 100 100 'mmeddeb :-)' 'mmeddeb' %}</td>
+    <td>Maroua Meddeb</td>
+    <td>Assistant Professor<br />INSA Lyon</td>
+    <td class="social-icons">
+      <a href="mailto:maroua.meddeb@insa-lyon.fr">{% img no-border /images/social_networking_iconpack/email_32.png "Email" "Email" %}</a>
+      <a href="https://www.linkedin.com/in/maroua-meddeb-a950ab44/">{% img no-border /images/social_networking_iconpack/linkedin_32.png "LinkedIn" "LinkedIn" %}</a>
+      <a href="https://www.researchgate.net/profile/M_Meddeb">{% img no-border /images/social_networking_iconpack/researchgate_32.png "ResearchGate" "ResearchGate" %}</a>
+    </td>
+  </tr>
+  <tr>
     <td class="people-icons">{% img /images/faces/face-schitic.jpg 100 100 'schitic :-)' 'schitic' %}</td>
     <td>Stefan Chitic</td>
     <td>PhD Student<br />INSA Lyon</td>

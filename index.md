@@ -75,7 +75,6 @@ PhD students:
 * Jean-Baptiste Trystram, CIFRE grant with Red Hat.
 * Patrik Fortier, grant from the INSA Spie ICS Chair on IoT.
 
-
 ### Alumni
 
 PhD students:

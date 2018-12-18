@@ -1,8 +1,7 @@
 ---
 layout: page
+title: Dynamid
 ---
-
-## Overview
 
 Dynamid is a research team focused on dynamid software and distributed systems.
 

@@ -58,7 +58,7 @@ Faculty:
 * [Frédéric Le Mouël](http://www.le-mouel.net/), _team leader_, Associate Professor at INSA Lyon.
 * [Nicolas Stouls](http://perso.citi-lab.fr/nstouls/), Associate Professor at INSA Lyon.
 * [François Lesueur](http://perso.citi-lab.fr/flesueur/), Associate Professor at INSA Lyon.
-* [Oscar Carillo](https://ocrozo.github.io/), Associate Professor at CPE Lyon.
+* [Oscar Carrillo](http://perso.citi-lab.fr/ocarrill/), Associate Professor at CPE Lyon.
 
 Associated members:
 

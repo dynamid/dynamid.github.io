@@ -2,6 +2,8 @@
 layout: page
 title: Publications
 permalink: /publications/
+redirect_to:
+  - https://hal.inria.fr/search/index/?q=%2A&structId_i=527389&sort=producedDate_tdate+desc
 ---
 
-_To be added, we will embed results from HAL_
+See https://hal.inria.fr/search/index/?q=%2A&structId_i=527389&sort=producedDate_tdate+desc

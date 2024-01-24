@@ -94,7 +94,7 @@ Former PhD students:
 
 Former Master students:
 
-* Mike Puentes, UIS, Colombia.
+* Mike Puentes, UIS, Colombia, now Service Support Engineer/ Azure Consultant at Quisitive, Texas, USA.
 
 Former postdocs:
 

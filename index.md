@@ -57,6 +57,9 @@ Faculty:
 
 * [Frédéric Le Mouël](http://www.le-mouel.net/), _team leader_, Full Professor at INSA Lyon, IoT and Edge AI Chair Holder.
 * [Oscar Carrillo](http://perso.citi-lab.fr/ocarrill/), Associate Professor at CPE Lyon.
+* Olivier Nicolas, Research Engineer at INSA Lyon, 50% part-time.
+* Pascal Girard, Software Engineer at INSA Lyon, 20% part-time.
+* Régis Rousseau, Electronics Engineer at INSA Lyon, 10% part-time.
 
 Associated members:
 

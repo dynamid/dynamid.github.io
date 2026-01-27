@@ -70,18 +70,20 @@ Associated members:
 PhD students:
 
 * Antoine Bonneau, grant from INSA "Digital Challenges" on Ultra-low Power AI.
-* Anais Boumendil, grant from INSA Spie ICS Chair on Edge AI on Energy and Machine Learning.
-* Patrik Fortier, grant from the INSA Spie ICS Chair on IoT and FaaS Platforms.
-* David Fernandez Blanco, CIFRE grant from Stellantis on Adaptive Service Oriented Architecture for Safety-critical QoS-driven Automotive IT Systems.
-* Arthur Navarro, CIFRE grant from Red Hat on Service Choreographies to Optimize Reactive Distributed Services: a Continuous Programming Language - Runtime.
-* Gabriel Puerta, Universidad Militar grant on e-Health IoT and AI Platforms.
 * Bilel Saghrouchni, CIFRE grant from Spie ICS on Anomaly Detection using Reinforcement Learning for a Cybersecurity Architecture: Health Application.
 * Maxence Younsi, grant from the INSA Spie ICS chair on Edge AI on Distributed Detection of Anomalies in Network Services.
+* Julien Caposiena, ministerial grant on router operating systems
+* Nour Osta, grant from INSA Spie ICS Chair on Edge AI on Micro-datacenters.
 
 ### Alumni
 
 Former PhD students:
 
+* David Fernandez Blanco, CIFRE grant from Stellantis on Adaptive Service Oriented Architecture for Safety-critical QoS-driven Automotive IT Systems.
+* Arthur Navarro, CIFRE grant from Red Hat on Service Choreographies to Optimize Reactive Distributed Services: a Continuous Programming Language - Runtime.
+* Gabriel Puerta, Universidad Militar grant on e-Health IoT and AI Platforms.
+* Patrik Fortier, grant from the INSA Spie ICS Chair on IoT and FaaS Platforms.
+* Anais Boumendil, grant from INSA Spie ICS Chair on Edge AI on Energy and Machine Learning.
 * Stefan Chitic, now Senior Data Integration Engineer at World Intellectual Property Organization, Geneva.
 * Roya Golchay, now Assistant Professor at Tehran University, Iran.
 * Etienne Villedieu, now Software Development Manager at EnerSys, France.
